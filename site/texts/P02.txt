@@ -1,0 +1,85 @@
+# Seedance 2.0 prompt — 3D animated fantasy couple
+
+15 seconds · 7 shots · @Terry + @Salome character anchors · ice-palace fantasy setting
+
+Real reference photos used for **identity only** (face, skin tone, hair). Final render is fully stylized 3D animation, not photorealistic.
+
+---
+
+## STYLE
+
+Feature-film quality 3D animated fantasy. Stylized animated character design, cinematic lighting, magical winter setting. Palette: glacial blue, lavender, cream, warm gold. Volumetric lighting, shallow depth of field, drifting snow, frost VFX, shimmering bloom. Theatrical animated release production value.
+
+## REFERENCE NOTE
+
+Reference images are real-human photographs — use **ONLY** for identity (face, skin tone, hair). Render both characters as fully stylized 3D animated characters with large expressive eyes, smooth shaded animated skin. Final output must NOT be photorealistic.
+
+## CHARACTERS & WARDROBE
+
+**`@Terry`** — dark-skinned stylized 3D character, warm undertones, short natural hair, expressive animated eyes, warm confident smile. Fitted royal-blue princely coat with gold embroidery, high collar, gold sash across chest, dark trousers, polished black boots.
+
+**`@Salome`** — dark-skinned stylized 3D character, long natural hair in a single loose braid with soft volume, warm expressive animated eyes. Flowing ice-blue shimmering gown with snowflake embroidery on bodice and trailing skirt, off-shoulder neckline, gossamer frost cape lifting with movement. No crown, no jewelry.
+
+## SHOT-BY-SHOT TIMELINE
+
+### SHOT 1 (00:00–00:02) — Wide ice palace courtyard
+- **EFFECT:** Slow push-in + volumetric snow particles
+- Crystalline ice palace glowing blue and lavender, soft snow drifting, sparkling icicles overhead
+- Camera pushes toward grand entrance
+
+### SHOT 2 (00:02–00:04) — @Terry enters, wonder-struck
+- **EFFECT:** Handheld + gold-light refraction
+- @Terry walks in slowly, eyes widening, snow swirling around him
+- Gold coat details catch refracted magical light
+
+### SHOT 3 (00:04–00:06) — @Salome casting ice magic
+- **EFFECT:** Particle VFX spiral + slow-motion ~70%
+- @Salome on an ice terrace, hands raised, icy-blue magical energy spiraling from her palms, frost trailing fingertips
+- Hair and cape in enchanted wind
+
+### SHOT 4 (00:06–00:08) — ECU @Salome catching the glow
+- **EFFECT:** Rack focus + cool rim lighting
+- Face bathed in blue magical glow, snowflakes on lashes
+- Warm skin subsurface against cool light
+
+### SHOT 5 (00:08–00:10) — Reverse ECU @Terry's eyes wide
+- **EFFECT:** Iris reflection catch
+- Spiraling frost reflected in his eyes, soft visible breath-puff
+
+### SHOT 6 (00:10–00:12) — Wide two-shot, @Salome descends staircase
+- **EFFECT:** Camera orbit + continuous snowfall
+- @Salome walks gracefully down a glowing ice staircase toward @Terry, cape flowing behind
+- Camera orbits slowly, both remain apart, eyes locked
+
+### SHOT 7 (00:12–00:15) — Hero magical bloom
+- **EFFECT:** Radial VFX burst + camera pull-back + orchestral swell
+- @Salome raises her arms, soft ice-and-light bloom erupts outward, framing both against the glowing palace
+- Camera pulls back to majestic hero-wide — trailer-card ready
+
+## MASTER EFFECTS INVENTORY
+
+1. Slow push-in + snow particles
+2. Handheld + refraction
+3. Particle VFX spiral + slow-motion
+4. Rack focus + rim lighting
+5. Iris reflection
+6. Orbit + snowfall
+7. Radial VFX burst + hero pull-back — **SIGNATURE**
+
+## EFFECTS DENSITY MAP
+
+| Window | Density |
+|---|---|
+| 00:00–00:04 | MEDIUM |
+| 00:04–00:08 | HIGH |
+| 00:08–00:12 | MEDIUM |
+| 00:12–00:15 | HIGH |
+
+## ENERGY ARC
+
+**Act 1:** Wonder · **Act 2:** Magic · **Act 3:** Bloom
+
+---
+
+*Free to copy and adapt. If you test it on faces the model has rarely rendered, I'd love to see the result.*
+*— Terry, 2026-04-30*

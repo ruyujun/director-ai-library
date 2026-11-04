@@ -1,0 +1,18 @@
+{
+  "name": "LICENSE",
+  "path": "LICENSE",
+  "sha": "a7553a437f08fcd3af0fa7189a1c354856534fd3",
+  "size": 848,
+  "url": "https://api.github.com/repos/ecomimagelab/ecommerce-gpt-image-prompts/contents/LICENSE?ref=6f63eadc6a1ac594a6304e9a3e1eb3e201812d58",
+  "html_url": "https://github.com/ecomimagelab/ecommerce-gpt-image-prompts/blob/6f63eadc6a1ac594a6304e9a3e1eb3e201812d58/LICENSE",
+  "git_url": "https://api.github.com/repos/ecomimagelab/ecommerce-gpt-image-prompts/git/blobs/a7553a437f08fcd3af0fa7189a1c354856534fd3",
+  "download_url": "https://raw.githubusercontent.com/ecomimagelab/ecommerce-gpt-image-prompts/6f63eadc6a1ac594a6304e9a3e1eb3e201812d58/LICENSE",
+  "type": "file",
+  "content": "Q3JlYXRpdmUgQ29tbW9ucyBBdHRyaWJ1dGlvbiA0LjAgSW50ZXJuYXRpb25h\nbCAoQ0MgQlkgNC4wKQoKQ29weXJpZ2h0IChjKSAyMDI2IGVjb21tZXJjZS1n\ncHQtaW1hZ2UtcHJvbXB0cyBjb250cmlidXRvcnMKClRoZSBzdHJ1Y3R1cmVk\nIHByb21wdCByZWNvcmRzLCBvcmlnaW5hbCBwcm9tcHQgdGV4dCwgZG9jdW1l\nbnRhdGlvbiwgYW5kCnJlcG9zaXRvcnktYXV0aG9yZWQgcHJldmlldyBpbWFn\nZXMgaW4gdGhpcyBwcm9qZWN0IGFyZSBsaWNlbnNlZCB1bmRlciB0aGUKQ3Jl\nYXRpdmUgQ29tbW9ucyBBdHRyaWJ1dGlvbiA0LjAgSW50ZXJuYXRpb25hbCBM\naWNlbnNlIHVubGVzcyBhIHJlY29yZCBzdGF0ZXMKb3RoZXJ3aXNlLgoKWW91\nIGFyZSBmcmVlIHRvIHNoYXJlIGFuZCBhZGFwdCB0aGUgbGljZW5zZWQgbWF0\nZXJpYWwgZm9yIGFueSBwdXJwb3NlLAppbmNsdWRpbmcgY29tbWVyY2lhbGx5\nLCBwcm92aWRlZCB0aGF0IHlvdSBnaXZlIGFwcHJvcHJpYXRlIGNyZWRpdCwg\nbGluayB0byB0aGUKbGljZW5zZSwgYW5kIGluZGljYXRlIHdoZXRoZXIgY2hh\nbmdlcyB3ZXJlIG1hZGUuCgpMaWNlbnNlOiBodHRwczovL2NyZWF0aXZlY29t\nbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wLwoKVGhpcmQtcGFydHkgc3VibWlz\nc2lvbnMgcmVtYWluIHN1YmplY3QgdG8gdGhlIHJpZ2h0cywgYXR0cmlidXRp\nb24sIGFuZCBsaWNlbnNlCm1ldGFkYXRhIHJlY29yZGVkIHdpdGggZWFjaCBw\ncm9tcHQuIEJyYW5kIG5hbWVzLCB0cmFkZW1hcmtzLCBwdWJsaWNpdHkgcmln\naHRzLApwcml2YWN5IHJpZ2h0cywgYW5kIG90aGVyIHRoaXJkLXBhcnR5IHJp\nZ2h0cyBhcmUgbm90IGdyYW50ZWQgYnkgdGhpcyBsaWNlbnNlLgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/ecomimagelab/ecommerce-gpt-image-prompts/contents/LICENSE?ref=6f63eadc6a1ac594a6304e9a3e1eb3e201812d58",
+    "git": "https://api.github.com/repos/ecomimagelab/ecommerce-gpt-image-prompts/git/blobs/a7553a437f08fcd3af0fa7189a1c354856534fd3",
+    "html": "https://github.com/ecomimagelab/ecommerce-gpt-image-prompts/blob/6f63eadc6a1ac594a6304e9a3e1eb3e201812d58/LICENSE"
+  }
+}

@@ -1,0 +1,3572 @@
+AI视频灯光手册
+
+01 · 暗处掌权 · 局部顶光
+顶光
+密谈、审问、权力悬殊的对话
+
+电影与场景参考〔整理说明〕
+教父（1972）；导演：弗朗西斯·福特·科波拉；摄影：戈登·威利斯。
+参考场景：开场办公室：维托接见殡仪馆老板博纳塞拉。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+密谈、审问、权力悬殊的对话
+情绪：焦虑、恐惧、钦佩
+空间：室内、办公室、会客室
+类型：犯罪、悬疑、剧情
+
+光向与光质〔整理说明〕
+方向：顶光
+光质：局部柔顶光 / 深眼窝
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：人物上方略靠前的一小片暖光，照到额头、鼻梁和手，眼窝保持阴影。
+补光：脸的暗侧只保留辨认轮廓所需的少量细节；不要用正面大柔光抹平阴影。
+背景：房间整体深暗，后方留一块较亮的窗或台灯，把暗色人物从背景中分开。
+
+生图光影段〔原工具功能提示词〕
+一小片暖顶光从头顶略前方落下，照亮额头、鼻梁与双手，眼窝保持深影。暗侧保留少量可辨细节；背后窄窗或小块实景灯光分离轮廓。背景大部分落暗，棕黑色调克制，人物皮肤自然，面部亮暗不被均匀补平。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物轻微抬眼后低头，机位缓慢靠近；顶光固定在房间上方，人物的眼窝阴影和背景亮窗保持连续，曝光不自动提亮暗部。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。一小片暖顶光从头顶略前方落下，照亮额头、鼻梁与双手，眼窝保持深影。暗侧保留少量可辨细节；背后窄窗或小块实景灯光分离轮廓。背景大部分落暗，棕黑色调克制，人物皮肤自然，面部亮暗不被均匀补平。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Create an ORIGINAL cinematic lighting demonstration frame, 16:9 horizontal single photograph, no panels, no borders, no words, no logos. It is a new fictional scene, not a reproduction of a film still and no recognizable actor. Main subject when appropriate is a single anonymous adult woman age 30 with straight dark chin-length hair, simple beige cotton coat, neutral expression. Professional film photography with natural skin texture, believable human anatomy, physically clear lighting, restrained lens character and cinematic depth. The purpose is to let a beginner see and reuse the LIGHT EFFECT, so compose the light relationship clearly and maintain dark areas naturally, not flat HDR. A new intimate dark old office, medium close portrait of the anonymous woman seated at a worn dark wooden desk, no famous props. Very small WARM OVERHEAD POOL of light, just forward of her head, picks out her forehead, cheekbones, nose bridge and top of beige shoulders. Eye sockets in deep shadow, eyes barely visible but anatomy natural; both sides of room fall nearly black. Subdued amber low-key image, dense warm blacks, tiny warm shaded lamp far in background. Camera eye level, three quarter face. Black negative fill, no frontal fill, no glowing rim. Strong pressure and secrecy.
+
+文献关系转成的光影段〔原工具功能提示词〕
+室内密谈，人物坐在深暗木质房间内；一小片暖顶光从头顶略前方照亮额头、鼻梁与双手，眼窝保留深影，暗侧仍有少量层次。后方一小块明亮窗面分离轮廓，墙面大部分落暗。克制的棕黑色调，皮肤自然，不要均匀补亮整张脸。
+
+分镜 1 · 先交代谁掌控〔原工具分镜指令〕
+景别：中远景
+动作：两人隔桌而坐，主位人物处在局部顶光里。
+连续性：桌面、窗与顶光位置固定，不随镜头换边。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 2 · 让答案藏一半〔原工具分镜指令〕
+景别：掌权者近景
+动作：手指轻碰桌面，稍微抬眼。
+连续性：眼窝仍暗，不因推近突然补出明亮眼睛。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 3 · 承受这束光〔原工具分镜指令〕
+景别：对面人物反应近景
+动作：对方停顿，视线落下。
+连续性：遵守同一房间光源，反打可改变画面左右，不能让实体光源跟着相机走。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+常见失败点〔原工具使用提醒〕
+• 只写‘教父打光’会让模型同时模仿服装、人物和布景。
+• 暗不等于把整张图曝光拉低：需要局部亮部、眼窝阴影和背景分离。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物自然地向左转头约30度，同时镜头向右横移一小步，产生背景视差。暖色顶光固定在房间上方，脸上受光随转头自然变化，眼窝保持暗影，背景仍然很暗。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：暖色顶光固定在房间上方，脸上受光随转头自然变化，眼窝保持暗影，背景仍然很暗
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Gordon Willis Tribute — The Godfather https://theasc.com/post/the-film-book/gordon-willis-tribute-the-godfather/
+
+02 · 流动金光 · 水纹与权力
+侧逆光
+神秘组织、权力大厅、科幻会面
+
+电影与场景参考〔整理说明〕
+银翼杀手2049（2017）；导演：丹尼斯·维伦纽瓦；摄影：罗杰·迪金斯。
+参考场景：华莱士办公室：水池围住平台的巨大混凝土空间。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+神秘组织、权力大厅、科幻会面
+情绪：敬畏、入迷、审美欣赏
+空间：室内、大厅、水边
+类型：科幻、悬疑、实验
+
+光向与光质〔整理说明〕
+方向：侧逆光
+光质：金色硬光 / 水纹反射
+难度：进阶
+
+主光、补光、背景〔原工具布光参数〕
+主光：高侧方干净的金色光塑造脸与肩部，人物主体比亮墙暗。
+补光：正面少补光，保留侧脸大块阴影。
+背景：让水面反射般的明亮波纹落在远墙；墙体不动，只有光纹缓慢漂移。
+
+生图光影段〔原工具功能提示词〕
+干净的琥珀金色光从高侧方照来，局部照亮脸颊与肩部，暗侧保留大块阴影。水面反射般的波纹落在远墙上，明亮光纹与较暗人物形成层次。墙面材质与结构稳定，水面只在指定区域，整体是干净金色而非红橙尘雾。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物站定，摄影机缓慢横移；只有墙面反射光纹以很慢的速度漂移，人物受光强度轻微变化，水面小幅波动，建筑形状、脸部身份与曝光稳定。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。干净的琥珀金色光从高侧方照来，局部照亮脸颊与肩部，暗侧保留大块阴影。水面反射般的波纹落在远墙上，明亮光纹与较暗人物形成层次。墙面材质与结构稳定，水面只在指定区域，整体是干净金色而非红橙尘雾。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Create an ORIGINAL cinematic lighting demonstration frame, 16:9 horizontal single photograph, no panels, no borders, no words, no logos. It is a new fictional scene, not a reproduction of a film still and no recognizable actor. Main subject when appropriate is a single anonymous adult woman age 30 with straight dark chin-length hair, simple beige cotton coat, neutral expression. Professional film photography with natural skin texture, believable human anatomy, physically clear lighting, restrained lens character and cinematic depth. The purpose is to let a beginner see and reuse the LIGHT EFFECT, so compose the light relationship clearly and maintain dark areas naturally, not flat HDR. A monumental tall raw-concrete room, seen wide in strict elegant geometric composition. A lone adult woman stands on the right third, wearing a beige coat. An unseen shallow reflecting pool outside frame throws very clear amber GOLDEN WATER CAUSTICS across a massive wall and onto her face and coat. Warm amber dappled waves are the sole bright light. Deep sculptural shadows, amber against near black, elegant wide frame, spatially coherent. Actual rippling caustic bands visible across vertical concrete. No blue, no neon. Keep left third mostly dark textured concrete as breathing room.
+
+文献关系转成的光影段〔原工具功能提示词〕
+极简混凝土大厅，一名原创成年人物站在浅水池旁；干净的琥珀金色光从高侧方照来，只亮起侧脸与肩部，正面深暗。水面反射般的柔和波纹投在巨大的远墙上，亮墙与暗人物形成层次，空间安静而威严。不是橙色沙尘，不要让墙体变成液体。
+
+分镜 1 · 人被空间缩小〔原工具分镜指令〕
+景别：大全景
+动作：人物独自站在巨大的受光墙前。
+连续性：保持水池与墙的位置。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 2 · 光经过脸〔原工具分镜指令〕
+景别：侧面中近景
+动作：人物转头少许，金光掠过脸颊。
+连续性：光纹沿同一方向移动，不突然反向。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 3 · 留住权力距离〔原工具分镜指令〕
+景别：双人远景
+动作：第二个人停在明暗边界外。
+连续性：两人共用同一空间光源，不各自加一盏美容主光。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+常见失败点〔原工具使用提醒〕
+• 水纹是光在表面的变化，不是墙面融化。
+• 不要把金色办公室与红橙尘雾混成同一个滤镜。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物转头看向右侧，同时镜头向左平移半米，近远墙面产生视差。琥珀主光固定在空间中，水纹仅在墙面缓慢游动，脸部暗侧不被补平。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：3秒；分辨率：480P
+检查目标：琥珀主光固定在空间中，水纹仅在墙面缓慢游动，脸部暗侧不被补平
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Blade Runner 2049 — Roger Deakins forum reply https://www.rogerdeakins.com/forums/topic/blade-runner-2049/
+Uncanny Valley — Blade Runner 2049 https://cdn.theasc.com/AC1217-Blade-Runner-2047.pdf
+FilmGrab 原片截图 · wallace-water https://film-grab.com/2019/05/24/blade-runner-2049/
+
+03 · 橙雾孤城 · 让距离吞掉人
+环境包围光
+孤身探索、末日城市、失落的文明
+
+电影与场景参考〔整理说明〕
+银翼杀手2049（2017）；导演：丹尼斯·维伦纽瓦；摄影：罗杰·迪金斯。
+参考场景：K 穿过拉斯维加斯遗迹、接近酒店赌场的外景段落。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+孤身探索、末日城市、失落的文明
+情绪：悲伤、困惑、敬畏
+空间：户外、废墟、街道
+类型：科幻、冒险
+
+光向与光质〔整理说明〕
+方向：环境包围光
+光质：散射光 / 浓雾
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：被厚尘雾散射的橙色环境光，方向宽泛，人物附近仍有可读的亮暗。
+补光：空气提供低反差包围感，人物朝向相机的一侧保持较暗。
+背景：远处建筑逐层减弱对比度，最终融入红橙雾；近景剪影最深。
+
+生图光影段〔原工具功能提示词〕
+红橙色尘雾散射大面积环境光，近处轮廓清楚且较暗，中距离逐渐柔化，远处对比度极低并融入空气。人物正面较暗，肤色与服装仍保留材质；没有清晰太阳圆盘。前、中、远景层层分离，而非在清晰图像上均匀覆盖橙色。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+旅行者缓慢前行，镜头平稳跟随；尘雾轻缓流动，远处建筑保持固定，人物随距离增加逐渐被雾遮住，环境亮度保持连续。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。红橙色尘雾散射大面积环境光，近处轮廓清楚且较暗，中距离逐渐柔化，远处对比度极低并融入空气。人物正面较暗，肤色与服装仍保留材质；没有清晰太阳圆盘。前、中、远景层层分离，而非在清晰图像上均匀覆盖橙色。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Create an ORIGINAL cinematic lighting demonstration frame, 16:9 horizontal single photograph, no panels, no borders, no words, no logos. It is a new fictional scene, not a reproduction of a film still and no recognizable actor. Main subject when appropriate is a single anonymous adult woman age 30 with straight dark chin-length hair, simple beige cotton coat, neutral expression. Professional film photography with natural skin texture, believable human anatomy, physically clear lighting, restrained lens character and cinematic depth. The purpose is to let a beginner see and reuse the LIGHT EFFECT, so compose the light relationship clearly and maintain dark areas naturally, not flat HDR. A tiny adult female traveler in beige coat seen from behind at lower right in a vast deserted architectural landscape almost swallowed by dense orange dust and atmospheric haze. Warm orange monochromatic field, huge vague concrete pylons receding into amber fog. Broad scattered orange daylight erases much contrast in the distance; foreground traveler is dark but readable. Great scale and mysterious quiet; no city logos, no recognizable film architecture. Strong atmospheric perspective and orange light scattering, no blue or neutral white.
+
+文献关系转成的光影段〔原工具功能提示词〕
+一个原创旅行者走入被红橙色尘雾笼罩的空城，近处人物与石块轮廓清楚且较暗，中距离建筑柔化，远处巨构几乎融进橙色空气。大面积漫射环境光，没有清晰太阳圆盘，肤色与衣物仍保留自然材质。画面有深度，不是给清晰白天照片套橙色滤镜。
+
+分镜 1 · 先看不清终点〔原工具分镜指令〕
+景别：大全景
+动作：小人物走向几乎消失的建筑。
+连续性：远处始终比近处低反差。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 2 · 给一个能辨认的人〔原工具分镜指令〕
+景别：中景
+动作：人物停下观察。
+连续性：同一橙雾浓度，不能突然变成清澈蓝天。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 3 · 重新被空间吞没〔原工具分镜指令〕
+景别：背面远景
+动作：人物继续走进雾中。
+连续性：轮廓逐渐减弱，不能瞬间透明或消失。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+常见失败点〔原工具使用提醒〕
+• 只加橙色会得到调色相似但空间关系错误的图。
+• 雾太浓会同时抹掉脸和近景；先确保前、中、远三层。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物向前迈一步并回头，镜头向右小幅绕行约15度。橙色尘雾保持近实远虚的层次，衣服和脸部保持原有暗度，不凭空加正面灯。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：3秒；分辨率：480P
+检查目标：橙色尘雾保持近实远虚的层次，衣服和脸部保持原有暗度，不凭空加正面灯
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Uncanny Valley — Blade Runner 2049 https://cdn.theasc.com/AC1217-Blade-Runner-2047.pdf
+Blade Runner 2049 — Roger Deakins forum reply https://www.rogerdeakins.com/forums/topic/blade-runner-2049/
+
+04 · 夜城扫光 · 光比人先到
+移动顶侧光
+逃跑、搜寻、夜间危险逼近
+
+电影与场景参考〔整理说明〕
+1917（2019）；导演：萨姆·门德斯；摄影：罗杰·迪金斯。
+参考场景：斯科菲尔德醒来后穿越 Écoust 废墟夜城。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+逃跑、搜寻、夜间危险逼近
+情绪：焦虑、恐惧、惊骇
+空间：户外、废墟、街道
+类型：战争、惊悚、冒险
+
+光向与光质〔整理说明〕
+方向：移动顶侧光
+光质：硬光 / 移动阴影
+难度：进阶
+
+主光、补光、背景〔原工具布光参数〕
+主光：高处移动的一束偏暖白光，短暂照亮人物与墙面。
+补光：空隙保持深夜黑暗，不持续抬亮阴影。
+背景：远处保留较稳定的暗橙火光，烟尘让方向可见；建筑投影随主光移动。
+
+生图光影段〔原工具功能提示词〕
+高处偏暖白光从侧上方照亮部分墙面与人物，建筑在地面投下长而清楚的影子。远处较稳定的暗橙火光穿过薄烟。明亮区域之外保持深夜黑暗，人物处在明暗交界，曝光不把夜晚拉成白昼。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+一束高处偏暖白的照明弹光在五秒内从画面左上方向右移动，建筑阴影随之移动；人物停住后躲入墙后，远处火光只轻微波动，不出现频闪，曝光不把夜晚拉成白昼。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。高处偏暖白光从侧上方照亮部分墙面与人物，建筑在地面投下长而清楚的影子。远处较稳定的暗橙火光穿过薄烟。明亮区域之外保持深夜黑暗，人物处在明暗交界，曝光不把夜晚拉成白昼。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: lighting-weather, educational cinematography reference. Edit only the LIGHT COLOR and corresponding reflected color of the attached original AI-generated night scene. Keep the woman, clothes, exact position, architecture, camera angle, composition, long shadows and wet-stone textures unchanged. The high airborne flare in upper left should emit slightly WARM IVORY WHITE light, not icy blue-white. Its lit stone surfaces and the woman's lit coat edge should receive warm ivory white illumination. Preserve the dark slightly cool night sky/shadows and the small distant orange fire on right. The flare is a moving illumination flare, not a moon. Do not make the whole scene orange; show gentle warm-white illumination distinct from the saturated far orange fire. Photorealistic, clear long shadows, no text, no new objects. Preserve horizontal 16:9 framing.
+
+文献关系转成的光影段〔原工具功能提示词〕
+破损城市的夜晚，一名原创成年人物贴着墙前行；高处的偏暖白的照明弹光从侧上方掠过，墙体在地面投下长而清晰的阴影，远处暗橙火光穿过薄烟。人物有时处在白光边缘、有时藏在深暗处；黑暗保留，光源有明确位置。
+
+分镜 1 · 光先搜索街道〔原工具分镜指令〕
+景别：街道远景
+动作：人物停在暗处，白光划过前方墙面，影子缓慢移动。
+连续性：光源行进方向和建筑投影要对应。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 2 · 人物被发现一瞬〔原工具分镜指令〕
+景别：中景
+动作：人物经过明暗边界时停顿。
+连续性：同一次扫光接续，不重新从头闪一次。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 3 · 回到暗处〔原工具分镜指令〕
+景别：近景
+动作：人物贴墙，脸退回阴影。
+连续性：背景暖光仍在原方向，不能跟随人物。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+常见失败点〔原工具使用提醒〕
+• 这是动态光组：单张漂亮图无法证明扫光与阴影运动正确。
+• 不要让白光、火光、镜头曝光同时乱跳；先只控制一个移动主光。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物侧身向墙边移动两步并抬头，镜头横移跟随。高处偏暖白照明弹缓慢从左移向右，墙面投影连续改变；远处火光保留，夜景曝光稳定。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：4秒；分辨率：480P
+检查目标：高处偏暖白照明弹缓慢从左移向右，墙面投影连续改变；远处火光保留，夜景曝光稳定
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+How Roger Deakins Filmed 1917 in One Shot https://nofilmschool.com/roger-deakins-1917-one-shot
+Lives Under Siege: The Goldfinch and 1917 https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/
+FilmGrab 原片截图 · 1917-flare https://film-grab.com/2020/09/01/1917/
+
+05 · 烛火密谈 · 亮在咫尺之间
+低侧光
+古装密谈、晚餐、私密情感戏
+
+电影与场景参考〔整理说明〕
+巴里·林登（1975）；导演：斯坦利·库布里克；摄影：约翰·奥尔科特。
+参考场景：同片上流社会赌局的烛光牌桌；原方法资料另讨论 Lord Ludd 赌室。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+古装密谈、晚餐、私密情感戏
+情绪：浪漫、怀旧、亲密渴望
+空间：室内、餐桌、会客室
+类型：历史、爱情、剧情
+
+光向与光质〔整理说明〕
+方向：低侧光
+光质：暖光 / 局部衰减
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：桌边数支烛火照亮邻近的脸和手，暖光从较低的侧前方上来。
+补光：只保留少量由桌面和墙面反弹的暖光，不增加现代白色补光。
+背景：更远处迅速变暗，零散烛点交代房间纵深，火焰亮但不淹没人物。
+
+生图光影段〔原工具功能提示词〕
+数支低侧前方烛火照亮近处的脸颊与手，柔暖光随距离快速变弱，脸另一侧保持自然阴影。少量桌面暖反弹保留层次，远处仅有零星烛点。火焰小而明亮、不过曝成大白团，没有现代白色轮廓灯与均匀环境补光。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物轻轻转头和呼吸，烛焰缓慢小幅摆动，脸上的暖光只做细微起伏；蜡烛数量、位置、桌边关系保持一致，不出现强烈闪烁或自动提亮背景。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。数支低侧前方烛火照亮近处的脸颊与手，柔暖光随距离快速变弱，脸另一侧保持自然阴影。少量桌面暖反弹保留层次，远处仅有零星烛点。火焰小而明亮、不过曝成大白团，没有现代白色轮廓灯与均匀环境补光。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Create an ORIGINAL cinematic lighting demonstration frame, 16:9 horizontal single photograph, no panels, no borders, no words, no logos. It is a new fictional scene, not a reproduction of a film still and no recognizable actor. Main subject when appropriate is a single anonymous adult woman age 30 with straight dark chin-length hair, simple beige cotton coat, neutral expression. Professional film photography with natural skin texture, believable human anatomy, physically clear lighting, restrained lens character and cinematic depth. The purpose is to let a beginner see and reuse the LIGHT EFFECT, so compose the light relationship clearly and maintain dark areas naturally, not flat HDR. A quiet 18th-century inspired dining room, an anonymous adult woman with dark chin-length hair sits at a round wooden table in simple unbranded cream linen clothing, period-neutral. A cluster of five REAL BURNING WAX CANDLES on the table slightly camera-left are the sole illumination. Medium wide composition shows luminous flame tips, soft warm amber light on her near cheek, hands resting naturally on table and cream fabric; light falls off rapidly into a deep black-brown room. Dark side of face still faintly readable. No windows, no electric light, no modern fixtures. Restrained low exposure, intimate honest candlelight, very shallow warm shadows, tactile painted plaster and wood. All fingers natural, no elaborate props.
+
+文献关系转成的光影段〔原工具功能提示词〕
+两名原创成年人在古典室内的小桌旁低声交谈；桌上数支蜡烛照亮靠近的脸颊和手，暖光随距离快速变弱，脸的另一侧保持自然阴影。房间深处只有零星烛点，皮肤有细腻明暗，不加现代白色轮廓灯，火焰不过曝成巨大白团。
+
+分镜 1 · 交代光从哪来〔原工具分镜指令〕
+景别：双人中景
+动作：桌上烛火位于两人之间。
+连续性：固定每支蜡烛位置和人物与桌的距离。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 2 · 一句话靠近〔原工具分镜指令〕
+景别：说话者近景
+动作：人物微微前倾。
+连续性：靠近烛火的一侧略亮，不能无因变冷。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 3 · 听的人未作答〔原工具分镜指令〕
+景别：听者近景
+动作：眼睛停在对方身上。
+连续性：反打仍由同一组桌面烛火照明。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+常见失败点〔原工具使用提醒〕
+• 不要把所有烛光都写成强底光，否则容易变成恐怖手电筒脸。
+• 不能一边要求烛火是唯一光源，一边要求整个大房间均匀明亮。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物把头转向烛火约25度，镜头缓慢向左横移。蜡烛固定在桌上，脸随靠近烛火而自然变化，远处仍然暗，烛焰只轻微摇动。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：蜡烛固定在桌上，脸随靠近烛火而自然变化，远处仍然暗，烛焰只轻微摇动
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Photographing Stanley Kubrick's Barry Lyndon https://theasc.com/article/flashback-barry-lyndon/
+FilmGrab 原片截图 · barry-candle https://film-grab.com/2010/07/08/barry-lyndon/
+
+06 · 蓝屏剪影 · 城市藏住身份
+逆光
+匿名会面、夜城潜行、冷静危险的动作戏
+
+电影与场景参考〔整理说明〕
+007：大破天幕杀机（2012）；导演：萨姆·门德斯；摄影：罗杰·迪金斯。
+参考场景：上海高楼的玻璃空间与广告屏背景搏斗。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+匿名会面、夜城潜行、冷静危险的动作戏
+情绪：焦虑、恐惧、兴趣
+空间：室内、高楼、玻璃空间
+类型：动作、科幻
+
+光向与光质〔整理说明〕
+方向：逆光
+光质：冷蓝面光 / 剪影
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：窗外冷蓝的大广告屏从后侧方照亮人物边缘。
+补光：人物面向镜头的一侧很暗，允许剪影；近景只给极弱反光。
+背景：亮屏与玻璃倒影形成多层蓝色平面，屏幕变化必须同步反映到人物与环境。
+
+生图光影段〔原工具功能提示词〕
+窗外大块冷蓝屏幕从后侧方照亮人物边缘，面向镜头的脸很暗，允许清楚剪影。玻璃倒影克制、层次分明；背景屏幕显示原创抽象光纹，亮屏与暗人物分离。不额外加入白色正面补光，近景最多保留极弱环境反射。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+屏幕抽象蓝色光纹缓慢变化，人物平稳侧移；受光边缘与玻璃反射同步微变，屏幕亮度不过度闪烁，面部持续保持剪影，不凭空出现第二个角色。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。窗外大块冷蓝屏幕从后侧方照亮人物边缘，面向镜头的脸很暗，允许清楚剪影。玻璃倒影克制、层次分明；背景屏幕显示原创抽象光纹，亮屏与暗人物分离。不额外加入白色正面补光，近景最多保留极弱环境反射。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Create an ORIGINAL cinematic lighting demonstration frame, 16:9 horizontal single photograph, no panels, no borders, no words, no logos. It is a new fictional scene, not a reproduction of a film still and no recognizable actor. Main subject when appropriate is a single anonymous adult woman age 30 with straight dark chin-length hair, simple beige cotton coat, neutral expression. Professional film photography with natural skin texture, believable human anatomy, physically clear lighting, restrained lens character and cinematic depth. The purpose is to let a beginner see and reuse the LIGHT EFFECT, so compose the light relationship clearly and maintain dark areas naturally, not flat HDR. An anonymous adult woman in beige coat stands almost as a black silhouette inside a dark high-rise room at night. A gigantic luminous electric-BLUE abstract screen on a neighboring building fills the background beyond the glass, with broad cyan-blue gradients and abstract wave shapes only, no recognizable jellyfish or film imagery, no text or logos. Camera views through multiple clear vertical glass partitions that multiply subtle blue reflections. The screen is the ONLY dominant light source, producing a fine cool blue silhouette edge on her face and coat but no frontal fill. Stark graphic silhouette, angular reflections, deep blue and black, visually legible glass planes. Spacious horizontal cinematic frame.
+
+文献关系转成的光影段〔原工具功能提示词〕
+夜间高层玻璃空间，窗外大型冷蓝广告屏是主要光源，显示原创抽象缓慢光纹；一名原创人物背对屏幕，面部深暗，肩颈边缘带蓝色亮边。玻璃上有克制的重叠倒影，空间清晰，不加正面白色补光，不出现电影水母画面或标识。
+
+分镜 1 · 用城市亮面藏人〔原工具分镜指令〕
+景别：远景
+动作：人物在玻璃与大屏之间站定。
+连续性：屏幕在同一面窗外，倒影与人物对应。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 2 · 身份只露一线〔原工具分镜指令〕
+景别：肩部近景
+动作：人物稍微转头。
+连续性：亮边来自后侧屏幕，脸不突然全面亮起。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 3 · 走入倒影〔原工具分镜指令〕
+景别：侧向中景
+动作：人物横穿玻璃分格。
+连续性：移动的是人物，建筑网格不随镜头扭曲。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+常见失败点〔原工具使用提醒〕
+• 蓝色背景不自动等于蓝色照明；皮肤、衣服边缘与玻璃要共同响应。
+• 玻璃多重反射是模型难点，先用单人简单动作。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物转头看向屏幕，镜头向左侧绕行约15度，玻璃出现视差。蓝色大屏固定在身后，保持人物剪影，边缘受光随位置改变，不增加正面白灯。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：3秒；分辨率：480P
+检查目标：蓝色大屏固定在身后，保持人物剪影，边缘受光随位置改变，不增加正面白灯
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Skyfall: MI6 Under Siege https://theasc.com/article/skyfall-mi6-under-siege/
+
+07 · 暖桌冷窗 · 给关系一处安全区
+侧前光
+久别重逢、坦白、慢慢放下戒备
+
+电影与场景参考〔整理说明〕
+月光男孩（2016）；导演：巴里·詹金斯；摄影：詹姆斯·拉克斯顿。
+参考场景：成年后的 Chiron 与 Kevin 在餐馆重逢。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+久别重逢、坦白、慢慢放下戒备
+情绪：浪漫、爱慕、宽慰
+空间：室内、餐馆、咖啡馆
+类型：爱情、剧情
+
+光向与光质〔整理说明〕
+方向：侧前光
+光质：暖柔光 / 冷暖分区
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：人物侧前上方的暖柔光，明暗过渡宽，眼中留小而自然的亮点。
+补光：暗侧有柔和反弹，肤色保持立体，不追求全黑或完全平均。
+背景：窗外是较冷的蓝色光，桌面与脸偏暖，内外颜色分区明确。
+
+生图光影段〔原工具功能提示词〕
+侧前上方的暖柔光包住脸部，明暗缓慢过渡，眼中有自然的小亮点。暗侧保持柔和反弹和脸部体积。窗外冷蓝、室内桌面与肤色偏暖，冷暖按空间分区；不要把整张脸染成青橙两半，背景轻柔而有层次。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物交换眼神，一人缓慢放下杯子；暖脸、冷窗的分区稳定，灯位不随相机移动，保留细小表情与自然呼吸，镜头缓慢推近。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。侧前上方的暖柔光包住脸部，明暗缓慢过渡，眼中有自然的小亮点。暗侧保持柔和反弹和脸部体积。窗外冷蓝、室内桌面与肤色偏暖，冷暖按空间分区；不要把整张脸染成青橙两半，背景轻柔而有层次。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Create an ORIGINAL cinematic lighting demonstration frame, 16:9 horizontal single photograph, no panels, no borders, no words, no logos. It is a new fictional scene, not a reproduction of a film still and no recognizable actor. Main subject when appropriate is a single anonymous adult woman age 30 with straight dark chin-length hair, simple beige cotton coat, neutral expression. Professional film photography with natural skin texture, believable human anatomy, physically clear lighting, restrained lens character and cinematic depth. The purpose is to let a beginner see and reuse the LIGHT EFFECT, so compose the light relationship clearly and maintain dark areas naturally, not flat HDR. An intimate small neighborhood diner at night. Medium close portrait of the anonymous woman with dark chin-length hair in beige coat seated in a booth. A large soft WARM AMBER LIGHT from camera-left FRONT-SIDE at face height gently wraps around her near cheek and eyes, soft short nose shadow, warm human skin with open tender detail. The far side of her face gently falls into dark warm shadow. In background across the diner, a COOL CYAN window glows softly and separates the warm face from a blue night. Quiet intimacy, sparse diner props, one water glass. The key light must clearly be soft SIDE-FRONT, NOT overhead top light. Original scene, no recognizable actors or specific set.
+
+文献关系转成的光影段〔原工具功能提示词〕
+夜间小餐馆，两名原创成年人安静对坐；桌边的暖柔光从侧前上方包住脸部，眼中有小亮点，暗侧仍有层次。窗外冷蓝光与温暖桌面分开，人物肤色自然，背景轻柔虚化。亲近而稍带迟疑，不要霓虹双色把整张脸染成蓝橙两半。
+
+分镜 1 · 两人终于同桌〔原工具分镜指令〕
+景别：双人中景
+动作：一人把杯子放到桌面。
+连续性：暖灯与冷窗在空间中固定。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 2 · 一句话变软〔原工具分镜指令〕
+景别：说话者近景
+动作：说话速度放慢，眼神不再回避。
+连续性：肤色、眼神光大小与暗侧层次一致。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 3 · 等一个回应〔原工具分镜指令〕
+景别：听者近景
+动作：对方微微点头。
+连续性：反打保持同一套暖灯动机，冷窗只在其实际方向出现。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+常见失败点〔原工具使用提醒〕
+• 柔光不等于无阴影；两边同亮会失去脸部体积。
+• 冷暖分区来自空间，而不是给每个人套双色人像效果。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物自然转头看向窗边，镜头向右缓慢滑动。室内暖柔光与窗外蓝光固定在各自位置，肤色和曝光稳定，冷暖分区随着转头自然变化。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：室内暖柔光与窗外蓝光固定在各自位置，肤色和曝光稳定，冷暖分区随着转头自然变化
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+A One-Camera Show: DP James Laxton on Moonlight https://filmmakermagazine.com/100603-a-one-camera-show-dp-james-laxton-on-moonlight/
+Through the Lens: James Laxton on Moonlight https://www.awardsdaily.com/2017/01/12/lens-james-laxton-moonlight/
+James Laxton — From Our Archives https://museemagazine.com/features/2023/6/1/from-our-archives-james-laxton
+FilmGrab 原片截图 · moonlight-diner https://film-grab.com/2019/03/15/moonlight/
+
+08 · 暮蓝约会 · 人间留一点暖
+环境光 + 侧前光
+约会、告白前的散步、青春片尾
+
+电影与场景参考〔整理说明〕
+爱乐之城（2016）；导演：达米恩·查泽雷；摄影：莱纳斯·桑德格伦。
+参考场景：山路上俯瞰洛杉矶的双人歌舞《A Lovely Night》。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+约会、告白前的散步、青春片尾
+情绪：浪漫、喜悦、爱慕
+空间：户外、山路、城市边缘
+类型：爱情、歌舞
+
+光向与光质〔整理说明〕
+方向：环境光 + 侧前光
+光质：暮色柔光 / 蓝紫天幕
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：暮色环境下给人物一层柔和、略暖的侧前补光，让表情可读但不压过天空。
+补光：蓝紫环境光填入暗侧，保留温和反差。
+背景：天空仍有亮度，远城灯点较小，地平线与山路不会完全掉黑。
+
+生图光影段〔原工具功能提示词〕
+蓝紫暮色天光仍有亮度，侧前方只给人物一层轻柔、略暖的补光，脸部清楚但不压过天空亮部。暗侧接受微冷环境光，远城灯点小而克制，山路与地平线仍可辨认。人物与环境曝光自然融合，避免强闪光灯照人的观感。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+两人缓慢走两步后相视一笑，摄影机轻轻平移；天空色彩、城市灯点与人物受光保持稳定，不在几秒内从黄昏跳成深夜。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。蓝紫暮色天光仍有亮度，侧前方只给人物一层轻柔、略暖的补光，脸部清楚但不压过天空亮部。暗侧接受微冷环境光，远城灯点小而克制，山路与地平线仍可辨认。人物与环境曝光自然融合，避免强闪光灯照人的观感。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Create an ORIGINAL cinematic lighting demonstration frame, 16:9 horizontal single photograph, no panels, no borders, no words, no logos. It is a new fictional scene, not a reproduction of a film still and no recognizable actor. Main subject when appropriate is a single anonymous adult woman age 30 with straight dark chin-length hair, simple beige cotton coat, neutral expression. Professional film photography with natural skin texture, believable human anatomy, physically clear lighting, restrained lens character and cinematic depth. The purpose is to let a beginner see and reuse the LIGHT EFFECT, so compose the light relationship clearly and maintain dark areas naturally, not flat HDR. A wide original scene on an ordinary hilltop overlook at blue hour, with a huge luminous BLUE VIOLET TWILIGHT SKY spanning upper two thirds and small scattered city light dots below the ridge. Two anonymous adults, a woman with dark chin-length hair wearing ordinary pale beige jacket and dark trousers and a man in plain navy shirt and gray trousers, are quietly dancing facing each other in the lower middle. Both full bodies completely visible, separate anatomically natural limbs, grounded feet, simple small dance step. No iconic costumes, no landmark, no street lamp, no recognizable film choreography. Gently softly lit faces retain skin texture from residual cool open sky with a subtle warm ambient bounce, the sky stays brightest. Romantic naturalistic twilight, cool violet and warm skin, no colored spotlight, no noon brightness.
+
+文献关系转成的光影段〔原工具功能提示词〕
+蓝紫暮色中的城市山路，两名原创成年人并肩停下，天空仍明亮，远处城市是细小灯点。人物由轻柔的侧前光照亮，肤色略暖，暗侧接受蓝色环境光，脸部亮度自然低于天空亮部。温柔浪漫，普通便装，不复制电影服装或舞蹈姿势。
+
+分镜 1 · 让天色先说话〔原工具分镜指令〕
+景别：远景
+动作：两人走在城市天际线前。
+连续性：天空亮度固定在同一黄昏时段。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 2 · 停下来靠近〔原工具分镜指令〕
+景别：双人中景
+动作：一人停下，另一人转过身。
+连续性：脸上的柔光来自同一方向。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 3 · 把余韵留给天空〔原工具分镜指令〕
+景别：侧面近景
+动作：短暂对望后望向远城。
+连续性：近景不突然变成暖白影棚人像。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+常见失败点〔原工具使用提醒〕
+• 不要写‘夜景’却要求黑天；这里的关键是天空还亮着。
+• 人物若过亮像被闪光灯照到，应先降低补光存在感。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。两位人物转向彼此并缓缓走近，镜头横移一小步产生城市视差。蓝紫天空亮度稳定，轻柔暖补光不突然增强，脸部可读且融入暮色。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：3秒；分辨率：480P
+检查目标：蓝紫天空亮度稳定，轻柔暖补光不突然增强，脸部可读且融入暮色
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+La La Land: City of Stars https://theasc.com/article/la-la-land-city-of-stars/
+FilmGrab 原片截图 · lalaland-dusk https://film-grab.com/2019/04/12/la-la-land/
+
+09 · 白幕来客 · 从剪影走向理解
+大面积逆光 / 面光
+初见未知、启示、极简科幻、内心突破
+
+电影与场景参考〔整理说明〕
+降临（2016）；导演：丹尼斯·维伦纽瓦；摄影：布拉德福德·杨。
+参考场景：飞船接触室：露易丝走向隔开人类与外星访客的巨大白幕。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+初见未知、启示、极简科幻、内心突破
+情绪：敬畏、兴趣、惊讶
+空间：室内、大厅、极简空间
+类型：科幻、悬疑、实验
+
+光向与光质〔整理说明〕
+方向：大面积逆光 / 面光
+光质：巨型柔光 / 黑白对比
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：人物前方一整面巨大的白色柔光面，光源面积远大于人。
+补光：黑墙吸收反射，背向光的一面维持深暗，不加均匀顶灯。
+背景：纯净柔白光幕与暗色墙地形成大形体对比，亮部有细微层次。
+
+生图光影段〔原工具功能提示词〕
+一整面巨大的柔白光幕位于人物前方，光源面积远大于人物。面对镜头的背光面形成清楚深色剪影，靠光幕一侧的脸与手有柔和受光。黑墙吸收杂光，白幕保留轻微亮度层次，房间维持强烈明暗形体关系，没有均匀顶灯。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物缓慢向白幕走近并抬起一只手；受光随真实距离渐变，机位缓慢跟随，白幕亮度控制稳定不过曝，手指数量和人物轮廓保持一致。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。一整面巨大的柔白光幕位于人物前方，光源面积远大于人物。面对镜头的背光面形成清楚深色剪影，靠光幕一侧的脸与手有柔和受光。黑墙吸收杂光，白幕保留轻微亮度层次，房间维持强烈明暗形体关系，没有均匀顶灯。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Create an ORIGINAL cinematic lighting demonstration frame, 16:9 horizontal single photograph, no panels, no borders, no words, no logos. It is a new fictional scene, not a reproduction of a film still and no recognizable actor. Main subject when appropriate is a single anonymous adult woman age 30 with straight dark chin-length hair, simple beige cotton coat, neutral expression. Professional film photography with natural skin texture, believable human anatomy, physically clear lighting, restrained lens character and cinematic depth. The purpose is to let a beginner see and reuse the LIGHT EFFECT, so compose the light relationship clearly and maintain dark areas naturally, not flat HDR. A huge dark austere rectangular chamber in a new fictional science museum. A vast luminous soft WHITE RECTANGULAR MEMBRANE fills the far wall, like diffuse daylight behind translucent frosted fabric with faint gray swirling texture. The membrane is the SOLE light source. Three anonymous adults, including a woman in beige coat, stand several meters in front of it with backs to camera as very dark small silhouettes at bottom center. The bright large source wraps softly around their edges, no sharp shadows, no frontal fill, no robots, no alien creatures, no recognizable film designs. Wide strict architectural perspective. Almost monochrome pearl white, charcoal and faint beige. Immense quiet and awe, physically plausible soft backlight.
+
+文献关系转成的光影段〔原工具功能提示词〕
+深暗的极简大厅尽头是一整面柔和白色发光幕，一名原创成年人物面对光幕站立。人物远离光时主要是清晰剪影，靠近光幕的一侧脸和手逐渐显现，黑墙吸收杂光，白幕保留轻微层次。安静、敬畏，没有额外顶灯，没有电影外星文字或生物。
+
+分镜 1 · 先保留未知〔原工具分镜指令〕
+景别：大全景
+动作：小人物面对巨大白幕。
+连续性：光幕比例与大厅结构不变。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 2 · 靠近才看见〔原工具分镜指令〕
+景别：侧面中景
+动作：人物向光走近一步。
+连续性：迎光的一侧逐渐变亮，背部保持深暗。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 3 · 让光落在手上〔原工具分镜指令〕
+景别：侧脸与手的近景
+动作：手停在幕面前。
+连续性：白光是宽大柔面，不能突然变成小手电硬影。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+常见失败点〔原工具使用提醒〕
+• 大光源很柔，但整体仍可高反差；不要把整间房补成灰白。
+• 手与发光幕交互较难，先检查手部形态，再生成运动。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。离镜头最近的人物转头看向同伴，同时镜头向左侧绕行约15度。白幕固定在大厅尽头，面向白幕的轮廓受光，背面仍深暗，亮幕不过曝闪烁。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：3秒；分辨率：480P
+检查目标：白幕固定在大厅尽头，面向白幕的轮廓受光，背面仍深暗，亮幕不过曝闪烁
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Universal Translator: Arrival https://theasc.com/article/arrival-cinematography-bradford-young/
+
+10 · 一窗入暗 · 旧空间有了纵深
+单侧窗光
+旧空间谈话、人物等待、怀旧日常
+
+电影与场景参考〔整理说明〕
+神枪手之死（2007）；导演：安德鲁·多米尼克；摄影：罗杰·迪金斯。
+参考场景：Topeka Exchange Saloon 酒馆室内。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+旧空间谈话、人物等待、怀旧日常
+情绪：平静、怀旧、悲伤
+空间：室内、酒馆、旧房间
+类型：西部、剧情、悬疑
+
+光向与光质〔整理说明〕
+方向：单侧窗光
+光质：柔光 / 薄雾纵深
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：一侧大窗透入宽而柔的日光，靠窗脸侧更亮，阴影边缘缓慢过渡。
+补光：房间里只保留自然反弹，远离窗户逐渐暗，不另开正面灯。
+背景：极薄空气感让窗光方向可察，深处梁柱保留层次，避免夸张激光柱。
+
+生图光影段〔原工具功能提示词〕
+单侧大窗透入宽而柔的日光，靠窗脸侧较亮，明暗交界缓慢过渡。室内保留少量自然反弹，越远离窗户越暗，深处木梁仍有层次。极薄空气感让光向可察，不使用狭窄硬光柱，也不额外用正面灯均匀补亮。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物从窗边缓慢向房间内走一步，脸上的亮度随距离自然降低；窗的位置、光方向和房屋结构不变，薄雾缓慢流动，曝光不自动追亮人物。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。单侧大窗透入宽而柔的日光，靠窗脸侧较亮，明暗交界缓慢过渡。室内保留少量自然反弹，越远离窗户越暗，深处木梁仍有层次。极薄空气感让光向可察，不使用狭窄硬光柱，也不额外用正面灯均匀补亮。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Create an ORIGINAL cinematic lighting demonstration frame, 16:9 horizontal single photograph, no panels, no borders, no words, no logos. It is a new fictional scene, not a reproduction of a film still and no recognizable actor. Main subject when appropriate is a single anonymous adult woman age 30 with straight dark chin-length hair, simple beige cotton coat, neutral expression. Professional film photography with natural skin texture, believable human anatomy, physically clear lighting, restrained lens character and cinematic depth. The purpose is to let a beginner see and reuse the LIGHT EFFECT, so compose the light relationship clearly and maintain dark areas naturally, not flat HDR. A quiet old plaster room with dark wooden floor and very little furniture. A single large tall WINDOW is visible at far left, admitting broad soft neutral-cool daylight. The anonymous adult woman with dark chin-length hair and plain beige coat stands beside it looking slightly into room, in profile three-quarter view. Strong SIDE WINDOW LIGHT illuminates only the near side of her face and body, while the far side and most of room retreat into rich deep brown shadows. Soft light spread through a trace of dust in air makes the spatial direction legible, not a hard narrow beam. Natural believable falloff from bright left window to dark right wall. Cinematic painterly but photorealistic; tactile plaster, subdued earthy palette, no extra lamps, no golden sunset. Wide composition with restrained original room architecture.
+
+文献关系转成的光影段〔原工具功能提示词〕
+老旧室内，一扇侧面大窗是主要光源，宽而柔的日光照亮原创人物靠窗的一侧脸，另一侧自然变暗。房间越深越暗，极薄的空气感让光路可察，木头与布料有真实纹理，背景不是纯黑。朴素沉静，不加聚光灯式硬光柱。
+
+分镜 1 · 一扇窗定义房间〔原工具分镜指令〕
+景别：室内远景
+动作：人物靠窗站立。
+连续性：窗是唯一主要日光来源。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 2 · 看到光的软边〔原工具分镜指令〕
+景别：侧脸近景
+动作：人物低头翻一页纸。
+连续性：脸部明暗方向与远景一致。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 3 · 往暗处留一步〔原工具分镜指令〕
+景别：中景
+动作：人物离开窗边。
+连续性：越离窗越暗，不能补光自动跟人。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+常见失败点〔原工具使用提醒〕
+• 宽柔窗光不是狭窄硬光束；少量空气感即可。
+• 靠窗与房间深处同亮，会失去这组最重要的空间衰减。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物转头朝向窗户，镜头向右横移一小步。宽窗固定在房间一侧，鼻影和脸侧随头转动改变，房间深处保持暗部。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：宽窗固定在房间一侧，鼻影和脸侧随头转动改变，房间深处保持暗部
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Looking at Lighting — 3 Sequences — The Assassination of Jesse James https://www.rogerdeakins.com/jesse-james-x-3/
+
+11 · 烈日压境 · 生存感来自硬与亮
+高侧硬光
+荒野求生、艰难旅途、决绝前行
+
+电影与场景参考〔整理说明〕
+沙丘2（2024）；导演：丹尼斯·维伦纽瓦；摄影：格雷格·弗雷泽。
+参考场景：厄拉科斯沙漠人物日景（参考帧为影片结尾契妮近景）。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+荒野求生、艰难旅途、决绝前行
+情绪：敬畏、焦虑、钦佩
+空间：户外、沙漠、荒野
+类型：科幻、冒险
+
+光向与光质〔整理说明〕
+方向：高侧硬光
+光质：硬日光 / 地面反弹
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：高侧方强日光形成清楚鼻影和衣褶投影，皮肤、布料和砂砾纹理可见。
+补光：明亮沙地从下方反弹少量暖光，眼窝与下颌不是完全死黑。
+背景：大面积浅色沙地与苍白天空，强光令人无处躲藏，远景保持尺度。
+
+生图光影段〔原工具功能提示词〕
+高侧方烈日形成清楚鼻影与衣褶投影，皮肤、布料和砂砾纹理可辨。明亮砂地从下方反弹少量暖光，使眼窝与下颌不死黑。天空苍白，沙地尺度辽阔，色彩克制；不是金色日落，也不是柔光美容效果。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+旅行者顶风缓慢前行，衣角与少量砂尘移动；太阳方位固定，身体转向时阴影合理变化，天空和沙地亮度稳定，保留面部身份与服装纹理。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。高侧方烈日形成清楚鼻影与衣褶投影，皮肤、布料和砂砾纹理可辨。明亮砂地从下方反弹少量暖光，使眼窝与下颌不死黑。天空苍白，沙地尺度辽阔，色彩克制；不是金色日落，也不是柔光美容效果。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Create an ORIGINAL cinematic lighting demonstration frame, 16:9 horizontal single photograph, no panels, no borders, no words, no logos. It is a new fictional scene, not a reproduction of a film still and no recognizable actor. Main subject when appropriate is a single anonymous adult woman age 30 with straight dark chin-length hair, simple beige cotton coat, neutral expression. Professional film photography with natural skin texture, believable human anatomy, physically clear lighting, restrained lens character and cinematic depth. The purpose is to let a beginner see and reuse the LIGHT EFFECT, so compose the light relationship clearly and maintain dark areas naturally, not flat HDR. A clear midday desert with huge sculptural pale beige sand dunes under a very pale nearly white blue sky. An anonymous adult woman with dark chin-length hair wearing a simple beige cotton travel coat, dark trousers and sturdy boots stands full body in foreground on a ridge. INTENSE HIGH HARD NEUTRAL SUN from above left, short dense sharp-edged cast shadow on sand at her lower right. A clear dark shadow under brow and chin, yet warm sand bounce softly lifts lower face and underside of coat. High contrast between sun-facing dune slope and opposite shaded slope. Real sand ripples, distinct beige textures. Daylight is neutral-hot, not orange sunset and not foggy. No architecture, no science fiction costume, no weapons, no text. A truthful cinematic harsh-sun lighting study.
+
+文献关系转成的光影段〔原工具功能提示词〕
+严酷沙漠白天，一名原创旅行者站在辽阔沙丘前；高侧方烈日形成清楚的脸部阴影与衣褶投影，浅色沙地向上反弹微暖光，暗处仍能辨认面部。天空苍白，砂砾与皮肤纹理真实，色彩克制，不是金色日落，不用柔光美容效果。
+
+分镜 1 · 人很小，环境很硬〔原工具分镜指令〕
+景别：大全景
+动作：旅行者穿过沙丘脊线。
+连续性：同一太阳方位与阴影长度。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 2 · 看见生存的代价〔原工具分镜指令〕
+景别：中近景
+动作：人物眯眼观察远处。
+连续性：保持硬鼻影和沙地向上反弹，不突然换柔光。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 3 · 继续走〔原工具分镜指令〕
+景别：侧后中景
+动作：人物重新迈步。
+连续性：阴影留在正确地面方向，沙丘形态不漂移。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+常见失败点〔原工具使用提醒〕
+• ‘沙漠电影感’常被模型自动解释成金色日落，应写清高侧烈日与硬影。
+• 地面反弹是弱补光，不是恐怖片式强底光。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物转头看向远处并迈出一步，镜头向左小幅绕行约15度。太阳保持固定方向，鼻影与衣褶投影随转头合理移动，沙地反光稳定。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：3秒；分辨率：480P
+检查目标：太阳保持固定方向，鼻影与衣褶投影随转头合理移动，沙地反光稳定
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Dune was considered 'unfilmable' for a long time. Then came Australian cinematographer Greig Fraser https://www.abc.net.au/news/2024-03-16/dune-part-two-interview-cinematography-greig-fraser/103586412
+Dune: Part Two cinematographer Greig Fraser, ACS, ASC https://www.camnoir.com/ep257/
+FilmGrab 原片截图 · harsh-desert https://film-grab.com/2024/04/08/dune-part-2/
+
+12 · 余光潜行 · 让人退成剪影
+暮色逆光
+潜入、出发前的沉默、进入未知区域
+
+电影与场景参考〔整理说明〕
+边境杀手（2015）；导演：丹尼斯·维伦纽瓦；摄影：罗杰·迪金斯。
+参考场景：行动队伍接近边境隧道的黄昏至入夜段落。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+潜入、出发前的沉默、进入未知区域
+情绪：焦虑、恐惧、兴趣
+空间：户外、荒野、山坡
+类型：犯罪、惊悚、战争
+
+光向与光质〔整理说明〕
+方向：暮色逆光
+光质：残余天光 / 剪影
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：太阳已落，主要亮度来自背后的残余天光；人物朝向相机的一面接近剪影。
+补光：只保留辨认动作所需的微弱天空反射，不增添明确的正面灯。
+背景：地平线仍有窄条暖色，天空上方转冷蓝，地面先沉入暗处。
+
+生图光影段〔原工具功能提示词〕
+太阳已落，人物后方的残余天光最亮：地平线留窄条暗橙，上方天空转冷蓝，地面先暗下去。人物朝向镜头的一面接近剪影，轮廓与动作仍清楚；只有微弱环境反射，不加正面补光、明亮月亮或无来源蓝色边灯。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物缓慢走下斜坡，轮廓先后被地形遮住；五秒内天色基本不变，地平线余光位置固定，镜头稳定，暗部不自动抬亮，不出现无来源闪光。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。太阳已落，人物后方的残余天光最亮：地平线留窄条暗橙，上方天空转冷蓝，地面先暗下去。人物朝向镜头的一面接近剪影，轮廓与动作仍清楚；只有微弱环境反射，不加正面补光、明亮月亮或无来源蓝色边灯。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Create an ORIGINAL cinematic lighting demonstration frame, 16:9 horizontal single photograph, no panels, no borders, no words, no logos. It is a new fictional scene, not a reproduction of a film still and no recognizable actor. Main subject when appropriate is a single anonymous adult woman age 30 with straight dark chin-length hair, simple beige cotton coat, neutral expression. Professional film photography with natural skin texture, believable human anatomy, physically clear lighting, restrained lens character and cinematic depth. The purpose is to let a beginner see and reuse the LIGHT EFFECT, so compose the light relationship clearly and maintain dark areas naturally, not flat HDR. Wide landscape photographed just after sunset, nearly all foreground land and ridge have already fallen into deep almost BLACK shadow. Sky is a narrow subtle gradient of last pale warm horizon light fading upward into blue-gray dusk, no stars, no bright sun. Five anonymous ordinary hikers, one wearing a beige coat visible only as a very dark silhouette, walk naturally down a ridge from left high ground toward lower right. Each body separated and readable against pale sky as near-black silhouettes; plain small backpacks only. No weapons, no military uniforms, no hats identifying any film characters. Preserve darkness of ground and people, no artificial fill or spotlights. Quiet suspense through silhouette exposure, beautiful understated dusk, photoreal original location.
+
+文献关系转成的光影段〔原工具功能提示词〕
+日落后的荒野坡地，地平线保留一窄条暗橙余光，天空上方转为冷蓝；几名原创成年人缓慢走向低处，身体形成清晰的深色剪影，地面先暗下去。没有正面补光，没有明亮月亮，姿态仍能辨认，空气安静紧张。
+
+分镜 1 · 准备进入暗处〔原工具分镜指令〕
+景别：远景
+动作：人物停在坡顶。
+连续性：余光位于人物后方，天空不突然改变时段。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 2 · 动作靠轮廓读懂〔原工具分镜指令〕
+景别：侧面中景
+动作：人物整理衣领后点头。
+连续性：允许脸暗，靠姿态而非正面补光交代。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+分镜 3 · 消失有空间原因〔原工具分镜指令〕
+景别：远景
+动作：人物沿坡面向下，逐个被地形挡住。
+连续性：不是透明消失；坡面遮挡关系必须成立。
+摄影机：固定机位，或仅做很轻的缓慢推近。
+
+常见失败点〔原工具使用提醒〕
+• 人物剪影要有清楚轮廓，不能与地面全黏成一块。
+• 黄昏只在背景留下余亮；不要再加大月亮和强蓝轮廓灯破坏动机。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物沿坡面走一步并侧头回望，镜头向右横移。地平线余光稳定，人物始终呈剪影，禁止自动提亮人物正面。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：3秒；分辨率：480P
+检查目标：地平线余光稳定，人物始终呈剪影，禁止自动提亮人物正面
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Sicario: Interview with Denis Villeneuve https://theasc.com/post/the-film-book/sicario-interview-with-denis-villeneuve/
+Roger Deakins in ten shots https://www.bfi.org.uk/sight-and-sound/roger-deakins-ten-shots
+Remain in light: Roger Deakins in ten shots https://www.bfi.org.uk/sight-and-sound/features/remain-light-roger-deakins-ten-shots
+
+13 · 列车穿雾逆光
+侧逆光
+来者不明、人物登场、等待危险
+
+电影与场景参考〔整理说明〕
+神枪手之死（2007）；导演：Andrew Dominik；摄影：Roger Deakins。
+参考场景：夜间劫车：杰西立在铁轨前，来车灯穿透林间烟雾。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+来者不明、人物登场、等待危险
+情绪：焦虑、敬畏、兴奋
+空间：森林、铁路、夜外景
+类型：西部、犯罪、剧情
+
+光向与光质〔整理说明〕
+方向：侧逆光
+光质：硬光
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：远处暖白硬光从后方穿过烟雾。
+补光：正面很暗，近处只接少量提灯反射。
+背景：树林大块沉黑，雾因受光才可见。
+
+生图光影段〔原工具功能提示词〕
+远处单一暖白硬光从侧后方穿过薄雾形成窄光锥，轮廓边缘短暂变亮，正面保持很暗；近处只留极弱暖反射，背景大部分沉黑。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物慢转头，镜头横移少许；远处主光位置不变，亮边随脸部朝向自然变化。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。远处单一暖白硬光从侧后方穿过薄雾形成窄光锥，轮廓边缘短暂变亮，正面保持很暗；近处只留极弱暖反射，背景大部分沉黑。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: an extremely dark damp forest at night. An anonymous adult woman in a simple charcoal work coat is framed waist-up in three-quarter profile, on the right. Far behind her, a single warm-white locomotive headlamp shines toward camera through delicate fog between trees, carving a strong narrow luminous ray and long tree shadows. A tiny lantern she holds naturally at waist level gives her face only a small amount of warm reflected light. Vast dark areas stay dark. Subtle facial details, restrained sepia, credible distance and volumetric beam. Original image without any film-specific person or prop.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 雾过浓会让全景发白。
+• 不应增加蓝色月光把森林整体照亮。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。画面中主要人物自然转头约30度，同时镜头向右平移一小步，背景产生清楚而适度的视差。远处单一暖白硬光从侧后方穿过薄雾形成窄光锥，轮廓边缘短暂变亮，正面保持很暗；近处只留极弱暖反射，背景大部分沉黑。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：4秒；分辨率：480P
+检查目标：远处单一暖白硬光从侧后方穿过薄雾形成窄光锥，轮廓边缘短暂变亮，正面保持很暗；近处只留极弱暖反射，背景大部分沉黑。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Western Destinies · American Cinematographer October 2007, p.34 https://pages.nxtbook.com/nxtbooks/ac/ac1007/offline/ac_ac1007.pdf
+FilmGrab 原片截图图库 · 神枪手之死 https://film-grab.com/2010/06/17/the-assassination-of-jesse-james-by-the-coward-robert-ford/
+
+14 · 巨幕粉蓝反射光
+侧光
+广告吸引力、都市孤独、面对虚拟对象
+
+电影与场景参考〔整理说明〕
+银翼杀手2049（2017）；导演：Denis Villeneuve；摄影：Roger Deakins。
+参考场景：K 在雨雾天桥上遇见巨型 Joi 广告；当前参考只展示广告面部、肩臂与 K 的剪影。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+广告吸引力、都市孤独、面对虚拟对象
+情绪：渴望、悲伤、入迷、亲密渴望
+空间：城市、天桥、夜景
+类型：科幻、剧情、爱情
+
+光向与光质〔整理说明〕
+方向：侧光
+光质：软光
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：近侧大面积粉红柔光。
+补光：另一侧保留较弱的深蓝环境反射。
+背景：雨雾与远处灯点承接相同色光。
+
+生图光影段〔原工具功能提示词〕
+近侧大面积粉红柔光为主，另一侧和远处保留深蓝环境光；两种光色分别落在不同朝向的表面，微湿高光与薄雾承接相同光色，暗部仍有层次。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物抬眼并轻转头，镜头缓慢靠近；大屏固定一侧，粉蓝受光分区保持连续。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。近侧大面积粉红柔光为主，另一侧和远处保留深蓝环境光；两种光色分别落在不同朝向的表面，微湿高光与薄雾承接相同光色，暗部仍有层次。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: rain-soaked city rooftop at night, medium-close portrait of an anonymous adult woman in a dark plain coat, wet skin and short wet dark hair. An enormous out-of-frame pink luminous advertising panel on screen left is the very broad soft key source: saturated pink on the left side of her face, shoulder and raindrops. Low blue ambient city light reaches the opposite side. Background distant high-rise windows are abstract blurred specks; no signs or lettering. Pink and blue are spatially separated light sources, not a global filter; realistic wet skin and rain haze. No holographic person.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 只有背景变粉而面部不变，会失去照明关系。
+• 避免把粉蓝做成覆盖全图的双色滤镜。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。画面中主要人物自然转头约30度，同时镜头向右平移一小步，背景产生清楚而适度的视差。近侧大面积粉红柔光为主，另一侧和远处保留深蓝环境光；两种光色分别落在不同朝向的表面，微湿高光与薄雾承接相同光色，暗部仍有层次。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：近侧大面积粉红柔光为主，另一侧和远处保留深蓝环境光；两种光色分别落在不同朝向的表面，微湿高光与薄雾承接相同光色，暗部仍有层次。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Uncanny Valley: Blade Runner 2049 https://theasc.com/article/uncanny-valley-blade-runner-2049/
+The techniques used in the Blade Runner 2049 Hologram Sex scene · Reprise https://www.fxguide.com/fxfeatured/the-techniques-used-in-the-blade-runner-2049-hologram-sex-scene/
+FilmGrab 原片截图图库 · 银翼杀手2049 https://film-grab.com/2019/05/24/blade-runner-2049/
+FilmGrab 原片截图 · pink-joi https://film-grab.com/2019/05/24/blade-runner-2049/
+
+15 · 建筑切片光
+高侧光
+秘密机构、权力空间、跨越边界
+
+电影与场景参考〔整理说明〕
+银翼杀手2049（2017）；导演：Denis Villeneuve；摄影：Roger Deakins。
+参考场景：华莱士公司通往记忆资料库的条带长廊，K 与 Luv 从远端走来。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+秘密机构、权力空间、跨越边界
+情绪：敬畏、兴趣、困惑
+空间：走廊、巨大室内
+类型：科幻、悬疑、剧情
+
+光向与光质〔整理说明〕
+方向：高侧光
+光质：硬光
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：高侧位暖硬光切入建筑。
+补光：切片以外少补光，保留强明暗区。
+背景：相同方向的投影延续到台阶和墙面。
+
+生图光影段〔原工具功能提示词〕
+单一高侧位暖白硬光经过遮挡形成边界清楚的斜向明亮切片，切片以外明显落暗，暗侧几乎不补光；光带固定在空间中，背景出现同方向的明暗分区。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物缓慢转头，镜头小幅侧移；本次演示先固定光带，只让几何遮挡与朝向改变受光。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。单一高侧位暖白硬光经过遮挡形成边界清楚的斜向明亮切片，切片以外明显落暗，暗侧几乎不补光；光带固定在空间中，背景出现同方向的明暗分区。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: tall shadowy monumental archive passage in old concrete and dark stone. Anonymous adult woman in neutral grey clothes, waist-up, slightly off center. A narrow warm golden HARD beam enters from a high side aperture and diagonally crosses one side of her face, shoulder and the wall behind, creating sharply delineated architectural light bands. Areas outside the beam remain profoundly dark, including opposite cheek. The beam is diagonal rather than a mandatory eye strip. Graphic warm slit light and black architecture, subtle natural airborne dust, highly realistic face.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 不要把此组误称为原片眼睛上的水平窄条。
+• 移动光带与移动人物不要同时复杂变化。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。画面中主要人物自然转头约30度，同时镜头向右平移一小步，背景产生清楚而适度的视差。单一高侧位暖白硬光经过遮挡形成边界清楚的斜向明亮切片，切片以外明显落暗，暗侧几乎不补光；光带固定在空间中，背景出现同方向的明暗分区。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：单一高侧位暖白硬光经过遮挡形成边界清楚的斜向明亮切片，切片以外明显落暗，暗侧几乎不补光；光带固定在空间中，背景出现同方向的明暗分区。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Uncanny Valley: Blade Runner 2049 https://theasc.com/article/uncanny-valley-blade-runner-2049/
+FilmGrab 原片截图图库 · 银翼杀手2049 https://film-grab.com/2019/05/24/blade-runner-2049/
+FilmGrab 原片截图 · archive-slit https://film-grab.com/2019/05/24/blade-runner-2049/
+Uncanny Valley: Blade Runner 2049 · 长廊段落 https://theasc.com/article/uncanny-valley-blade-runner-2049/
+
+16 · 黑水中的应急光
+侧逆光
+事故后的挣扎、营救、危机反应
+
+电影与场景参考〔整理说明〕
+银翼杀手2049（2017）；导演：Denis Villeneuve；摄影：Roger Deakins。
+参考场景：海堤坠车后：白色应急灯照亮车内搏斗，外侧为黑水。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+事故后的挣扎、营救、危机反应
+情绪：焦虑、恐惧、兴奋
+空间：水边、车内、夜外景
+类型：科幻、动作、惊悚
+
+光向与光质〔整理说明〕
+方向：侧逆光
+光质：硬光为主
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：局部冷白应急灯形成亮区。
+补光：湿润表面回一点白光，正面仍暗。
+背景：黑水与远处暗橙尾灯拉开层次。
+
+生图光影段〔原工具功能提示词〕
+局部冷白应急光从侧后方照来，形成小范围亮区和湿润表面的锋利反射；远处只保留少量暗橙灯点，背景接近黑色，正面不被均匀提亮。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物喘息后缓慢侧转，镜头轻推；应急灯与尾灯固定，湿面反射随观察角度变化。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。局部冷白应急光从侧后方照来，形成小范围亮区和湿润表面的锋利反射；远处只保留少量暗橙灯点，背景接近黑色，正面不被均匀提亮。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: an anonymous adult woman close to camera beside a flooded roadside at night, medium-close three-quarter face and shoulders, plain rainproof grey coat, damp hair. A parked car outside the frame provides a stark WHITE emergency utility light from low side screen-left, giving one side of her wet face a strong pale highlight and the other dark. Far in the background just two small warm orange car tail lights and black ocean or flooded surface. Fractured white and tiny orange reflections on water. Authentic restrained low-light color, no blue or red police lighting, no action violence.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 别把黑水整体变成蓝色发光面。
+• 白灯与橙灯不应互相换位置。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。画面中主要人物自然转头约30度，同时镜头向右平移一小步，背景产生清楚而适度的视差。局部冷白应急光从侧后方照来，形成小范围亮区和湿润表面的锋利反射；远处只保留少量暗橙灯点，背景接近黑色，正面不被均匀提亮。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：局部冷白应急光从侧后方照来，形成小范围亮区和湿润表面的锋利反射；远处只保留少量暗橙灯点，背景接近黑色，正面不被均匀提亮。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Uncanny Valley: Blade Runner 2049 https://theasc.com/article/uncanny-valley-blade-runner-2049/
+FilmGrab 原片截图图库 · 银翼杀手2049 https://film-grab.com/2019/05/24/blade-runner-2049/
+
+17 · 黑台上的追光
+高侧光
+舞台登场、孤独表演、对峙
+
+电影与场景参考〔整理说明〕
+银翼杀手2049（2017）；导演：Denis Villeneuve；摄影：Roger Deakins。
+参考场景：废弃赌场舞台：全息演出间歇亮起，K 与 Deckard 对峙。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+舞台登场、孤独表演、对峙
+情绪：兴奋、惊讶、入迷
+空间：舞台、剧场、室内
+类型：科幻、动作、歌舞
+
+光向与光质〔整理说明〕
+方向：高侧光
+光质：硬光
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：高侧方窄束白追光限制受光范围。
+补光：正面补光极少，黑色保持深。
+背景：稀疏蓝紫舞台光束增加纵深。
+
+生图光影段〔原工具功能提示词〕
+窄束白色舞台光从高侧方落下，只照亮局部，周围迅速落入深黑；少量远处蓝紫竖向光束穿过薄雾，补光极少，主光亮区边缘清楚。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物轻转头，镜头沿光池边缘慢移；保持追光在固定地面位置，人物受光面随朝向变化。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。窄束白色舞台光从高侧方落下，只照亮局部，周围迅速落入深黑；少量远处蓝紫竖向光束穿过薄雾，补光极少，主光亮区边缘清楚。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: empty black theater stage. One anonymous adult woman in a simple dark burgundy dress stands calmly with arms comfortably at her sides, framed from knees up. A narrow sharply bounded warm-white hard theatrical spotlight from high front-side isolates her face, shoulders and torso with deep off-side shadow. Four sparse narrow vertical purple and deep blue light beams in the distant background catch a fine haze; only tiny pools on stage floor. Background remains jet black. A single frozen light state, no strobing, no glitter, no audience, no signage. Carefully readable spotlight falloff.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 不把高频闪烁当成必需效果。
+• 背景灯不能抢过人物的主光池。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。画面中主要人物自然转头约30度，同时镜头向右平移一小步，背景产生清楚而适度的视差。窄束白色舞台光从高侧方落下，只照亮局部，周围迅速落入深黑；少量远处蓝紫竖向光束穿过薄雾，补光极少，主光亮区边缘清楚。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：4秒；分辨率：480P
+检查目标：窄束白色舞台光从高侧方落下，只照亮局部，周围迅速落入深黑；少量远处蓝紫竖向光束穿过薄雾，补光极少，主光亮区边缘清楚。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Uncanny Valley: Blade Runner 2049 https://theasc.com/article/uncanny-valley-blade-runner-2049/
+FilmGrab 原片截图图库 · 银翼杀手2049 https://film-grab.com/2019/05/24/blade-runner-2049/
+
+18 · 水上金灯光池
+高侧光
+夜间抵达、宴会、神秘而华丽的会面
+
+电影与场景参考〔整理说明〕
+007：大破天幕杀机（2012）；导演：Sam Mendes；摄影：Roger Deakins。
+参考场景：邦德乘船抵达澳门水上赌场，穿过发光龙头拱门。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+夜间抵达、宴会、神秘而华丽的会面
+情绪：入迷、审美欣赏、浪漫
+空间：水边、船、夜景
+类型：动作、冒险、犯罪
+
+光向与光质〔整理说明〕
+方向：高侧光
+光质：中等偏软
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：近处上方大型暖光装饰物照亮人。
+补光：水面仅返回少量暖反射。
+背景：漂灯与建筑轮廓形成多层点光。
+
+生图光影段〔原工具功能提示词〕
+近处上方的大面积金暖装饰光为主，暖光柔和落在近侧和上缘；远处小暖灯只形成稀疏亮点与水面倒影，环境保持深黑，暗侧留少量暖反射。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物慢慢转向岸边，镜头轻微跟随；大暖光固定在上方，远处灯点与倒影保持空间连续。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。近处上方的大面积金暖装饰光为主，暖光柔和落在近侧和上缘；远处小暖灯只形成稀疏亮点与水面倒影，环境保持深黑，暗侧留少量暖反射。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: peaceful night beside a traditional wooden waterfront pavilion. Medium-close portrait of one anonymous adult woman in a simple dark teal jacket. Strings of small warm amber paper lanterns hang overhead toward one side, their illumination providing a motivated soft warm upper-side key on her face. Opposite cheek remains darker with natural layered detail. Behind her, a dark canal holds golden shimmering lantern reflections. Restrained night exposure and warm practical lights, deep neutral shadows. No colored neon, no text on lanterns. Calm pose, hands outside frame.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 不能让远处每盏小漂灯都像主光一样亮。
+• 金色来自照明与反射，不是整体黄色滤镜。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。画面中主要人物自然转头约30度，同时镜头向右平移一小步，背景产生清楚而适度的视差。近处上方的大面积金暖装饰光为主，暖光柔和落在近侧和上缘；远处小暖灯只形成稀疏亮点与水面倒影，环境保持深黑，暗侧留少量暖反射。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：近处上方的大面积金暖装饰光为主，暖光柔和落在近侧和上缘；远处小暖灯只形成稀疏亮点与水面倒影，环境保持深黑，暗侧留少量暖反射。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Skyfall: MI6 Under Siege https://theasc.com/article/skyfall-mi6-under-siege/
+FilmGrab 原片截图图库 · 007：大破天幕杀机 https://film-grab.com/2014/02/11/skyfall/
+
+19 · 手持红色信号光
+低侧光
+黑暗中的引导、危机中的希望、群体救援
+
+电影与场景参考〔整理说明〕
+新蝙蝠侠（2022）；导演：Matt Reeves；摄影：Greig Fraser。
+参考场景：洪水体育场内，蝙蝠侠点燃红色信号火引领幸存者。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+黑暗中的引导、危机中的希望、群体救援
+情绪：钦佩、宽慰、兴奋
+空间：水边、体育场、夜景
+类型：动作、犯罪、惊悚
+
+光向与光质〔整理说明〕
+方向：低侧光
+光质：局部硬光
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：近处手持红光成为主光。
+补光：下方湿面返回少量同色光。
+背景：远处大部分沉黑，人物先被看见。
+
+生图光影段〔原工具功能提示词〕
+近处单一低位红光形成强烈局部照明，越靠近光源越亮，红色反光落在下方湿润表面；周围迅速衰减到深黑，远处只有极弱中性环境亮度。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物持光源不动，缓慢转头看向身后，镜头轻推；近处强红光向远处自然衰减。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。近处单一低位红光形成强烈局部照明，越靠近光源越亮，红色反光落在下方湿润表面；周围迅速衰减到深黑，远处只有极弱中性环境亮度。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: a dark partially flooded concrete passage. One anonymous adult woman in an ordinary grey raincoat stands waist-deep in still water, medium-close composition chest-up. Her anatomically natural hand holds one compact blazing RED signal flare safely out beside her shoulder and below her face. The flare is the only strong light: saturated red illuminates the lower side of her face, palm and damp clothing, while thin drifting smoke glows and red reflections break on the black water. The opposite side and background fall almost to black. No superhero costume, no weapon, no rescue crowd, no lettering. Intense realistic local red illumination, preserve skin shape and exposure.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 不能声称已经核实原片每盏辅助灯。
+• 红光不该均匀覆盖很远的墙面。
+
+实际示范所列视频输入〔原工具功能提示词〕
+使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物持灯的手保持大致稳定，头部向另一侧转约25度；镜头向右小幅横移，水面仅轻缓波动。手持红色光源保持在参考图中接近脸侧的高度，照亮同侧脸、头发与衣袖；红反光随小水波自然起伏，烟仍围绕光源上升，远处保持深暗。头部转动时脸上明暗自然改变，灯与手的相对位置连续；不把灯降到胸下变成强底光。单一连续镜头，曝光稳定。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：手持红色光源保持在参考图中接近脸侧的高度，照亮同侧脸、头发与衣袖；红反光随小水波自然起伏，烟仍围绕光源上升，远处保持深暗。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+How The Batman Turns Fear into Hope https://www.dc.com/blog/2022/04/27/how-the-batman-turns-fear-into-hope
+FilmGrab 原片截图图库 · 新蝙蝠侠 https://film-grab.com/2022/07/11/the-batman/
+
+20 · 红蓝异色分区
+侧光
+梦魇、空间变得不可信、强感官吸引
+
+电影与场景参考〔整理说明〕
+阴风阵阵（1977）；导演：Dario Argento；摄影：Luciano Tovoli。
+参考场景：开场苏茜在暴雨中乘出租车，车窗与面部轮流进入异色光。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+梦魇、空间变得不可信、强感官吸引
+情绪：惊骇、恐惧、入迷
+空间：车内、走廊、夜景
+类型：恐怖、悬疑、奇幻
+
+光向与光质〔整理说明〕
+方向：侧光
+光质：中等
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：饱和红侧光覆盖近侧。
+补光：另一侧少量蓝光，允许局部黑。
+背景：远处保留独立蓝紫区域。
+
+生图光影段〔原工具功能提示词〕
+饱和红色侧光照亮近侧，另一方向保留深蓝色光区；红蓝光各占独立区域，边缘有少量紫色交叠，深暗区域仍然存在，避免全画面统一染色。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物轻轻回头，镜头小幅平移；红光与蓝光各有固定空间来源，不随脸转动换位。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。饱和红色侧光照亮近侧，另一方向保留深蓝色光区；红蓝光各占独立区域，边缘有少量紫色交叠，深暗区域仍然存在，避免全画面统一染色。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: a shadowy simple old interior with an open doorway in background. Waist-up anonymous adult woman in a plain charcoal blouse with relaxed arms. Deep saturated RED hardish side key from screen left shapes one half of her face and shoulder; shadow side near-black. Through a doorway far behind, strong COBALT BLUE light illuminates only the distant room and doorframe. Colors occupy separate spaces and surfaces: no purple wash or full-frame filter. Bold architectural black shapes, deep rich photochemical color, realistic human skin texture and body proportions. No blood, no violence, no iconic film costume.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 切勿误写成 2018 年翻拍版。
+• 给所有阴影都填紫会损失红蓝分区。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。画面中主要人物自然转头约30度，同时镜头向右平移一小步，背景产生清楚而适度的视差。饱和红色侧光照亮近侧，另一方向保留深蓝色光区；红蓝光各占独立区域，边缘有少量紫色交叠，深暗区域仍然存在，避免全画面统一染色。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：饱和红色侧光照亮近侧，另一方向保留深蓝色光区；红蓝光各占独立区域，边缘有少量紫色交叠，深暗区域仍然存在，避免全画面统一染色。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Suspiria: Terror in Technicolor https://theasc.com/article/suspiria-terror-in-technicolor/
+FilmGrab 原片截图图库 · 阴风阵阵 https://film-grab.com/2013/03/12/suspiria/
+
+21 · 黑白灯塔硬光
+高侧光
+面对不可直视的事物、执念、精神崩溃边缘
+
+电影与场景参考〔整理说明〕
+灯塔（2019）；导演：Robert Eggers；摄影：Jarin Blaschke。
+参考场景：结尾灯室：人物接近巨大菲涅耳灯，亮面与黑暗极端分离。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+面对不可直视的事物、执念、精神崩溃边缘
+情绪：敬畏、恐惧、惊骇
+空间：灯塔、机械室、夜景
+类型：恐怖、剧情、奇幻
+
+光向与光质〔整理说明〕
+方向：高侧光
+光质：硬光
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：局部强白硬光压出清楚边缘。
+补光：暗侧不额外提亮。
+背景：少量雾与亮源显出深黑空间。
+
+生图光影段〔原工具功能提示词〕
+单一强烈白色硬光从高侧方照来，受光区域明亮且阴影边缘清楚，背光侧沉入深黑；少量薄雾显出光束，亮度局限在光束覆盖范围内。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物缓慢转向固定白色光源，镜头轻推；亮面扩大来自转头，不增加随镜头移动的补光。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。单一强烈白色硬光从高侧方照来，受光区域明亮且阴影边缘清楚，背光侧沉入深黑；少量薄雾显出光束，亮度局限在光束覆盖范围内。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. BLACK AND WHITE monochrome cinematic portrait. Inside a weathered lighthouse lantern room at night, an anonymous adult woman in a plain dark work sweater is framed chest-up. A giant Fresnel lighthouse lamp just out of frame casts a narrow intense HARD light beam across one side of her face and shoulder from the side. Bright highlights are forceful but skin texture remains, the unlit half of the face and much of the background nearly pitch black. A fragment of ridged Fresnel glass is visible in deep background, subtle sea mist catching beam. Single frozen instant of a rotating light, no motion smear. No color, no famous sailor costume, no fantasy.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 黑白是色彩处理，不能代替光向设计。
+• 避免整个脸变成没有纹理的白块。
+
+实际示范所列视频输入〔原工具功能提示词〕
+使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物缓慢向灯的方向转头约25度，镜头向右轻缓横移，透镜和后方窗框出现适度视差。画面保持黑白单色，灯塔透镜发出的横向硬光处于接近眼睛的高度，受光面明亮且影边清楚；暗侧仍有参考图中的细节，后方窗景较暗。灯位固定，鼻影与脸侧亮面随转头自然变化。薄雾仅轻缓漂移，光束高度和方向相对灯塔固定；单一连续镜头，不新增顶灯，曝光稳定。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：4秒；分辨率：480P
+检查目标：画面保持黑白单色，灯塔透镜发出的横向硬光处于接近眼睛的高度，受光面明亮且影边清楚；暗侧仍有参考图中的细节，后方窗景较暗。灯位固定，鼻影与脸侧亮面随转头自然变化。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Stormy Isle: The Lighthouse · Burning Bright https://theasc.com/article/stormy-isle-the-lighthouse/
+FilmGrab 原片截图图库 · 灯塔 https://film-grab.com/2020/08/11/the-lighthouse/
+
+22 · 白昼硬光高填充
+顶侧光
+表面欢庆却不安、集体仪式、无遮蔽的观察
+
+电影与场景参考〔整理说明〕
+仲夏夜惊魂（2019）；导演：Ari Aster；摄影：Pawel Pogorzelski。
+参考场景：Hårga 村落的白昼庆典与五月柱舞蹈。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+表面欢庆却不安、集体仪式、无遮蔽的观察
+情绪：焦虑、困惑、喜悦
+空间：草地、村落、日外景
+类型：恐怖、剧情、悬疑
+
+光向与光质〔整理说明〕
+方向：顶侧光
+光质：硬光加柔填充
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：高位中性日光保留清楚短影。
+补光：大面积地面与白衣反射抬起暗面。
+背景：背景草地与天空明亮且可读。
+
+生图光影段〔原工具功能提示词〕
+高位中性日光形成清楚的短阴影，同时大面积白色反射从下方和两侧抬亮暗部；整体明亮通透，保留鼻下与地面的硬影，亮部有纹理不过曝。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物轻转头，镜头平稳绕行少量角度；太阳固定高处，暗面由广泛反射维持明亮。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。高位中性日光形成清楚的短阴影，同时大面积白色反射从下方和两侧抬亮暗部；整体明亮通透，保留鼻下与地面的硬影，亮部有纹理不过曝。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Bright summer outdoor meadow under hard NOON sunlight. Medium shot of an anonymous adult woman in a simple white cotton shirt and pale skirt, standing calmly among grass and small wildflowers, no ceremonial dress or crown. Strong high sun makes clearly defined short shadows under nose, chin and on ground. Her white clothing and surrounding pale surfaces bounce ample light into the shadow side of her face, so overall image is luminous high key and welcoming even with HARD direct sunlight. Whites retain cotton weave and details; natural skin, blue-white sky, green grass. No vignette, no washed-out clipping, no horror ritual or copy of movie scene.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 不要把它画成阴天全软光。
+• 白衣和亮面需要保留纹理。
+
+实际示范所列视频输入〔原工具功能提示词〕
+使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物轻轻转头约25度看向远处，手持花枝保持稳定；镜头向右小幅横移，远山与草地形成视差。太阳保持参考图中的高侧后方来向，头发与肩部较亮；白衣和地面反射柔和抬亮脸部暗侧，保留浅而自然的鼻影与衣褶阴影，白色布料不过曝。不额外制造浓重的鼻下顶光阴影；蓝天、草地和肤色连续，单一镜头，相机曝光稳定。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：太阳保持参考图中的高侧后方来向，头发与肩部较亮；白衣和地面反射柔和抬亮脸部暗侧，保留浅而自然的鼻影与衣褶阴影，白色布料不过曝。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+The Unsettling Glow of Daylight: DP Pawel Pogorzelski on Midsommar https://filmmakermagazine.com/107838-the-unsettling-glow-of-daylight-dp-pawel-pogorzelski-on-shooting-the-folk-horror-of-midsommar/
+FilmGrab 原片截图图库 · 仲夏夜惊魂 https://film-grab.com/2020/08/04/midsommar/
+
+23 · 手电与纸面反光
+低侧光
+发现线索、偷偷阅读、搜索未知空间
+
+电影与场景参考〔整理说明〕
+七宗罪（1995）；导演：David Fincher；摄影：Darius Khondji。
+参考场景：暴食案公寓搜证：手电光与纸卡反射仅让部分人物可见。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+发现线索、偷偷阅读、搜索未知空间
+情绪：兴趣、焦虑、厌恶
+空间：昏暗室内、犯罪现场、走廊
+类型：犯罪、惊悚、悬疑
+
+光向与光质〔整理说明〕
+方向：低侧光
+光质：硬光反射成软光
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：小窄束手电照向浅色近物。
+补光：反射成为微弱低位柔光。
+背景：空间其余部分几乎不可见。
+
+生图光影段〔原工具功能提示词〕
+小型白色窄束光照向近处浅色表面，再由它产生弱而柔和的低位反射光；直接光束局部明亮，远处几乎不亮，暗部保留很少细节。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物读完后轻转头，镜头缓慢靠近；手电与反射面保持相对位置，低位柔光持续。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。小型白色窄束光照向近处浅色表面，再由它产生弱而柔和的低位反射光；直接光束局部明亮，远处几乎不亮，暗部保留很少细节。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Extremely dark ordinary archive room at night. Anonymous adult man in a plain charcoal sweater, chest-up framing. He holds a blank open notebook at chest level in one hand, and a small white flashlight in the other hand pointed DOWN directly onto its pages. The white pages reflect a small soft pool of light UP onto the lower part of his face; upper brow is darker. The flashlight beam itself illuminates paper, never directly shines in the face. Background disappears to deep black with just a suggestion of shelves. Correct five-finger hands and believable grips, no readable writing, no weapons. Precise motivated reflected-light effect.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 不要把手电变成从镜头方向打来的大片补光。
+• 反光太强会丢掉潜入黑暗的感觉。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。画面中主要人物自然转头约30度，同时镜头向右平移一小步，背景产生清楚而适度的视差。小型白色窄束光照向近处浅色表面，再由它产生弱而柔和的低位反射光；直接光束局部明亮，远处几乎不亮，暗部保留很少细节。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：小型白色窄束光照向近处浅色表面，再由它产生弱而柔和的低位反射光；直接光束局部明亮，远处几乎不亮，暗部保留很少细节。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Seven: Inside the Mind of a Killer https://theasc.com/article/seven-cinematography-khondji-fincher/
+FilmGrab 原片截图图库 · 七宗罪 https://film-grab.com/2013/09/09/seven/
+
+24 · 天窗柔光与暖灯
+顶光加前补光
+多人对话、从容日常、怀旧而秩序感强的空间
+
+电影与场景参考〔整理说明〕
+布达佩斯大饭店（2014）；导演：Wes Anderson；摄影：Robert Yeoman。
+参考场景：酒店中庭和大堂：大片天窗维持均匀日光，暖壁灯点缀背景。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+多人对话、从容日常、怀旧而秩序感强的空间
+情绪：怀旧、娱乐、平静、满足
+空间：酒店、室内、公共空间
+类型：喜剧、剧情、冒险
+
+光向与光质〔整理说明〕
+方向：顶光加前补光
+光质：软光
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：大面积顶部漫射日光覆盖空间。
+补光：轻柔正面填充避免眼窝过深。
+背景：较暖壁灯只提供层次。
+
+生图光影段〔原工具功能提示词〕
+大面积中性柔光从顶部均匀落下，正面仅有柔和辅助光，阴影浅而宽；背景点缀温暖的小灯光，整体明亮但顶光方向仍然可读。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物自然转头回应画外人，镜头轻微横移；顶部柔光覆盖范围足够大，暖灯留在背景。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。大面积中性柔光从顶部均匀落下，正面仅有柔和辅助光，阴影浅而宽；背景点缀温暖的小灯光，整体明亮但顶光方向仍然可读。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: spacious bright elegant vintage hotel lobby with pale blush plaster, cream columns and a high translucent glass skylight. An anonymous adult woman in a plain ivory blouse and pale blue jacket is framed waist-up, standing relaxed next to a reception counter. Huge skylight above provides broad uniform SOFT top daylight, mild gentle face shadows and glowing skin. A few small warm brass wall sconces deep in the background supply amber accents. High-key brightness with separated soft tonal layers, white textures retained and shadow detail visible. Warm pastel natural palette, no purple uniform, no movie-specific set, no text or signage.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 原片天窗仰视图不是人物近景灯位图。
+• 不要把所有灯点都做成大面积泛光。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。画面中主要人物自然转头约30度，同时镜头向右平移一小步，背景产生清楚而适度的视差。大面积中性柔光从顶部均匀落下，正面仅有柔和辅助光，阴影浅而宽；背景点缀温暖的小灯光，整体明亮但顶光方向仍然可读。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：大面积中性柔光从顶部均匀落下，正面仅有柔和辅助光，阴影浅而宽；背景点缀温暖的小灯光，整体明亮但顶光方向仍然可读。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+The Cinematography of Wes Anderson and Robert Yeoman ASC https://cookeoptics.com/news-and-events/wes-anderson-and-robert-yeoman-asc-straight-shooting-imagineers/
+FilmGrab 原片截图图库 · 布达佩斯大饭店 https://film-grab.com/2014/07/10/the-grand-budapest-hotel/
+
+25 · 百叶窗条纹光
+侧光
+被束缚的空间、秘密会面、秩序与不安
+
+电影与场景参考〔整理说明〕
+同流者（1970）；导演：Bernardo Bertolucci；摄影：Vittorio Storaro。
+参考场景：Giulia 公寓，百叶窗光条与人物和室内纹理重叠。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+被束缚的空间、秘密会面、秩序与不安
+情绪：焦虑、审美欣赏、兴趣
+空间：公寓、办公室、日内景
+类型：剧情、惊悚、历史
+
+光向与光质〔整理说明〕
+方向：侧光
+光质：硬光
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：侧面硬光被百叶分割。
+补光：条纹暗区保留深暗。
+背景：相同平行条纹延续到背景。
+
+生图光影段〔原工具功能提示词〕
+单一侧面硬光被百叶遮挡，投下间距一致的平行明暗条纹；条纹跨过不同表面时沿各自几何形状弯折，暗区补光很少，光源和条纹方向固定。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物慢转头，镜头横移很小距离；百叶和光源固定，条纹随脸部进入光区而自然滑动。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。单一侧面硬光被百叶遮挡，投下间距一致的平行明暗条纹；条纹跨过不同表面时沿各自几何形状弯折，暗区补光很少，光源和条纹方向固定。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: quiet sparsely furnished 1930s-inspired office, but entirely original setting. Anonymous adult woman in a simple grey blouse, chest-up portrait, face turned slightly. HARD neutral afternoon sunlight enters through Venetian blinds at one side, casting crisp PARALLEL horizontal bars of bright light and dark shadow across her face, neck, shoulder AND the plaster wall behind her. The bars follow surface geometry physically, not painted stripes. Clearly expose eye, nose, cheek contours in alternating light. Deep grey-brown room shadows, no other fill sources, no text, hands outside frame.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 条纹必须随表面几何变化，不能像贴图浮在画面上。
+• 人物转头时条纹位置不能跟着脸一起转。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。画面中主要人物自然转头约30度，同时镜头向右平移一小步，背景产生清楚而适度的视差。单一侧面硬光被百叶遮挡，投下间距一致的平行明暗条纹；条纹跨过不同表面时沿各自几何形状弯折，暗区补光很少，光源和条纹方向固定。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：单一侧面硬光被百叶遮挡，投下间距一致的平行明暗条纹；条纹跨过不同表面时沿各自几何形状弯折，暗区补光很少，光源和条纹方向固定。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Shadows of the Psyche: The Conformist https://theasc.com/article/shadows-of-the-psyche-the-conformist/
+FilmGrab 原片截图图库 · 同流者 https://film-grab.com/2013/02/23/the-conformist/
+
+26 · 从黑暗露出半张脸
+高侧光
+权力人物、审讯独白、带秘密的自白
+
+电影与场景参考〔整理说明〕
+现代启示录（1979）；导演：Francis Ford Coppola；摄影：Vittorio Storaro。
+参考场景：Kurtz 在室内讲话，部分脸颊与额头从黑暗中浮现。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+权力人物、审讯独白、带秘密的自白
+情绪：敬畏、恐惧、困惑
+空间：暗室、密谈空间、夜内景
+类型：战争、剧情、惊悚
+
+光向与光质〔整理说明〕
+方向：高侧光
+光质：硬光为主
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：窄暖白高侧光只揭示一块面部。
+补光：正面和暗侧几乎不补光。
+背景：背景深黑，不增加装饰亮边。
+
+生图光影段〔原工具功能提示词〕
+很窄的暖白高侧光只揭示一小部分轮廓与受光面，另一侧和背景接近纯黑；不增加正面填光和另一侧轮廓光，光线快速衰减，保持厚重暗部。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物慢转头让一小片额头与脸颊进入光里，镜头轻推；背景与暗侧保持不变。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。很窄的暖白高侧光只揭示一小部分轮廓与受光面，另一侧和背景接近纯黑；不增加正面填光和另一侧轮廓光，光线快速衰减，保持厚重暗部。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Very low-key close portrait of an anonymous adult older woman with short grey hair in a plain black shirt. Background is ABSOLUTELY BLACK. One extremely narrow warm light from high SIDE angle reveals only one side of the forehead, cheekbone, nose and a portion of one shoulder. Opposite half of face and all background disappear into complete black. NO rim light, NO visible lamp, NO smoke, NO colored background. Still visible human eye on lit side, realistic skin texture, strong intimate sculptural face lighting. Original quiet portrait, no military props.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 若增加第二侧轮廓光，会改变原本的吞没感。
+• 黑不是压坏细节的同义词，应保住少量受光纹理。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。画面中主要人物自然转头约30度，同时镜头向右平移一小步，背景产生清楚而适度的视差。很窄的暖白高侧光只揭示一小部分轮廓与受光面，另一侧和背景接近纯黑；不增加正面填光和另一侧轮廓光，光线快速衰减，保持厚重暗部。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：很窄的暖白高侧光只揭示一小部分轮廓与受光面，另一侧和背景接近纯黑；不增加正面填光和另一侧轮廓光，光线快速衰减，保持厚重暗部。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Apocalypse Now: A Clash of Cultures https://theasc.com/article/flashback-apocalypse-now/
+FilmGrab 原片截图图库 · 现代启示录 https://film-grab.com/2012/11/10/apocalypse-now/
+
+27 · 工业通道警示逆光
+逆光
+撤离、潜行、前方看不清的危险
+
+电影与场景参考〔整理说明〕
+异形（1979）；导演：Ridley Scott；摄影：Derek Vanlint。
+参考场景：诺斯特罗莫号后段的暗通道，实景灯与烟雾仅揭示局部结构。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+撤离、潜行、前方看不清的危险
+情绪：焦虑、恐惧、惊骇
+空间：工业通道、飞船、夜内景
+类型：科幻、恐怖、惊悚
+
+光向与光质〔整理说明〕
+方向：逆光
+光质：硬光
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：后上方冷白硬光在烟雾中显形。
+补光：正面只留很少反射。
+背景：稀疏实景灯建立通道深度。
+
+生图光影段〔原工具功能提示词〕
+冷白硬光从后上方穿过烟雾，形成局部耀光和清楚边缘；前方保留很暗的微弱反射，深处只有稀疏的小警示灯，明亮区域不铺满整个空间。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物警惕地缓慢回头，镜头小幅后退；后上方灯位固定，烟雾轻微流动，亮度不抽动。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。冷白硬光从后上方穿过烟雾，形成局部耀光和清楚边缘；前方保留很暗的微弱反射，深处只有稀疏的小警示灯，明亮区域不铺满整个空间。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: dark utilitarian industrial corridor at night. One anonymous adult woman in simple grey maintenance coveralls, chest-up medium close shot with her head turned slightly so a side profile reads. A powerful WHITE warning beacon from behind and ABOVE is captured during its bright phase, drawing a razor-bright edge around hair, nose edge and shoulder and cutting through a very thin mist. Almost no frontal fill, face largely shadow with faint readable eye and cheek. Distant steel pipes and cable texture fade into black. Static instant, no red light, no monster, no franchise uniform or logo.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 单帧不能证明频闪。
+• 雾与镜头耀光不能覆盖全部主体。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。画面中主要人物自然转头约30度，同时镜头向右平移一小步，背景产生清楚而适度的视差。冷白硬光从后上方穿过烟雾，形成局部耀光和清楚边缘；前方保留很暗的微弱反射，深处只有稀疏的小警示灯，明亮区域不铺满整个空间。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：4秒；分辨率：480P
+检查目标：冷白硬光从后上方穿过烟雾，形成局部耀光和清楚边缘；前方保留很暗的微弱反射，深处只有稀疏的小警示灯，明亮区域不铺满整个空间。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Derek Vanlint CSC / Alien https://britishcinematographer.co.uk/derek-vanlint-csc-alien/
+FilmGrab 原片截图图库 · 异形 https://film-grab.com/2013/07/24/alien/
+
+28 · 隔膜后的微红晨光
+侧逆光
+离别、探望、脆弱关系逐渐恢复
+
+电影与场景参考〔整理说明〕
+E.T.外星人（1982）；导演：Steven Spielberg；摄影：Allen Daviau。
+参考场景：Elliott 在医疗隔离空间与 E.T. 告别，后方窗光穿过塑料隔膜。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+离别、探望、脆弱关系逐渐恢复
+情绪：共情之痛、悲伤、爱慕、宽慰
+空间：医疗隔离空间、卧室、日内景
+类型：科幻、家庭、剧情
+
+光向与光质〔整理说明〕
+方向：侧逆光
+光质：软光
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：后方大片日光经过多层半透明膜。
+补光：正面以微弱柔反射保持可见。
+背景：隔膜反射与后窗亮区分出前后层次。
+
+生图光影段〔原工具功能提示词〕
+后方高处的大片日光穿过多层半透明薄膜，产生宽柔亮区与细小反射纹理，带非常轻的暖红色；正面只留柔弱反射，前后亮度有明显层次。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物轻抬头再慢转向窗光，镜头轻推；隔膜和光源固定，微小反射随视角变化。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。后方高处的大片日光穿过多层半透明薄膜，产生宽柔亮区与细小反射纹理，带非常轻的暖红色；正面只留柔弱反射，前后亮度有明显层次。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: softly lit pale makeshift isolation room in an ordinary home. One anonymous adult woman in a simple ivory cotton work shirt, framed waist-up. Several hanging layers of transparent thin PLASTIC curtains between her and a rear window scatter PALE PINK DAWN DAYLIGHT into luminous soft layers. Her face receives delicate WARM reflected light from white surfaces in front, with gentle shadows. The plastic has believable wrinkled texture and tiny glints; it is translucent not opaque. Airy atmospheric layers, pale peach and cream, ordinary human, no alien or hazmat branding, no text. Hands rest naturally out of frame.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 别把微红做成强烈红色警报。
+• 参考帧不是采访所述光色变化的完整视频证据。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。画面中主要人物自然转头约30度，同时镜头向右平移一小步，背景产生清楚而适度的视差。后方高处的大片日光穿过多层半透明薄膜，产生宽柔亮区与细小反射纹理，带非常轻的暖红色；正面只留柔弱反射，前后亮度有明显层次。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：后方高处的大片日光穿过多层半透明薄膜，产生宽柔亮区与细小反射纹理，带非常轻的暖红色；正面只留柔弱反射，前后亮度有明显层次。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Spielberg and E.T. the Extra-Terrestrial https://theasc.com/article/spielberg-et-the-extraterrestrial/
+FilmGrab 原片截图图库 · E.T.外星人 https://film-grab.com/2013/02/17/e-t-the-extra-terrestrial/
+
+29 · 巨大光阵降临
+高逆光
+发现超出理解的事物、集体仰望、神秘降临
+
+电影与场景参考〔整理说明〕
+第三类接触（1977）；导演：Steven Spielberg；摄影：Vilmos Zsigmond。
+参考场景：恶魔塔接触现场，巨大母舰的多色光阵来到人群上方。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+发现超出理解的事物、集体仰望、神秘降临
+情绪：敬畏、惊讶、兴趣
+空间：开阔地、机场、夜外景
+类型：科幻、冒险、剧情
+
+光向与光质〔整理说明〕
+方向：高逆光
+光质：混合
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：高处巨大光阵形成强烈背光。
+补光：人物正面留暗，只回一点环境光。
+背景：白、蓝紫与金暖小点形成巨大尺度。
+
+生图光影段〔原工具功能提示词〕
+高处远方的大面积白光阵列形成强逆光，夹杂少量蓝紫和金暖光点；上缘与侧缘出现多色细亮边，正面偏暗，薄雾显出光线的空间深度。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物仰头后轻转侧脸，镜头缓慢向上靠近；高处光阵固定，暗面随朝向合理变化。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。高处远方的大面积白光阵列形成强逆光，夹杂少量蓝紫和金暖光点；上缘与侧缘出现多色细亮边，正面偏暗，薄雾显出光线的空间深度。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: deep black nighttime open field, medium-close portrait of one anonymous adult woman in a simple grey jacket looking upward with quiet amazement. A huge MULTICOLORED LIGHT ARRAY outside frame high overhead bathes her tilted face in strong warm yellow-white key light, with small localized red and blue reflections along opposite shoulders. Behind her, intense soft yellow-white backlight glows through low mist, against a mostly black sky. The face remains clearly readable at its upward angle. Lights have enormous scale suggested by the broad reflected illumination, but DO NOT show any spaceship or recognizable film object. Natural adult facial anatomy, hands outside frame.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 多色光不能无规律洒到所有表面。
+• 仅用一个强白圆点无法呈现光阵的尺度。
+
+实际示范所列视频输入〔原工具功能提示词〕
+使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物保持仰望，缓慢向一侧转头约25度，镜头向右轻缓横移产生背景视差。前上方金白光照亮脸部，额头、鼻梁与仰起的脸颊保持可读；后方雾区明亮，肩缘保留分开的红蓝细光。光源固定于场景，受光和高光随头部朝向自然改变，背景草地与雾层保持连续。保持参考图的明暗层次与暖白色，不让脸突然变为剪影；单一连续镜头，光源亮度和相机曝光稳定。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：4秒；分辨率：480P
+检查目标：前上方金白光照亮脸部，额头、鼻梁与仰起的脸颊保持可读；后方雾区明亮，肩缘保留分开的红蓝细光。光源固定于场景，受光和高光随头部朝向自然改变，背景草地与雾层保持连续。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Interview with Vilmos Zsigmond · Close Encounters of the Third Kind https://montages.no/2013/09/vi-har-mott-den-legendariske-filmfotografen-vilmos-zsigmond/
+FilmGrab 原片截图图库 · 第三类接触 https://film-grab.com/2012/11/20/close-encounters-of-the-third-kind/
+
+30 · 明亮玩具世界柔光
+逆光加正补光
+轻松社交、愉悦展示、可爱而精致的人物
+
+电影与场景参考〔整理说明〕
+芭比（2023）；导演：Greta Gerwig；摄影：Rodrigo Prieto。
+参考场景：Barbieland 白天，芭比与朋友坐在粉色户外空间。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+轻松社交、愉悦展示、可爱而精致的人物
+情绪：喜悦、娱乐、爱慕、满足
+空间：花园、街道、明亮室内
+类型：喜剧、奇幻、歌舞
+
+光向与光质〔整理说明〕
+方向：逆光加正补光
+光质：软光为主
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：柔和高后方日光勾出发缘。
+补光：宽大的近轴柔填充让正面干净明亮。
+背景：空间同样明亮，但人物仍有轮廓分离。
+
+生图光影段〔原工具功能提示词〕
+宽大柔和的近轴补光让正面明亮通透，柔和的高后方暖日光勾出清楚发缘；阴影浅而不消失，背景同样明亮，光色干净，亮部保持细节。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物开心地转头，镜头轻微侧移；固定后方日光与宽柔前补光保持稳定。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。宽大柔和的近轴补光让正面明亮通透，柔和的高后方暖日光勾出清楚发缘；阴影浅而不消失，背景同样明亮，光色干净，亮部保持细节。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Bright pastel studio room with pale peach walls and soft mint furniture. One anonymous adult woman with naturally curly dark hair, wearing an ordinary modest opaque coral blouse, framed waist-up, smiling softly. A gigantic SOFT light source close to camera axis illuminates her face almost evenly from the FRONT, clean natural skin, open eye sockets and only very gentle shadows. A subtle soft back-edge light separates her shoulders. The background is equally luminous but all pastel colors and material textures retain detail, no blown highlights. Polished high-key beauty lighting with believable pores, no doll proportions or toy packaging, no branded wardrobe, no text.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 高调不等于过曝。
+• 固定短镜里不要为追求漂亮而让太阳自动绕人物移动。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。画面中主要人物自然转头约30度，同时镜头向右平移一小步，背景产生清楚而适度的视差。宽大柔和的近轴补光让正面明亮通透，柔和的高后方暖日光勾出清楚发缘；阴影浅而不消失，背景同样明亮，光色干净，亮部保持细节。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：宽大柔和的近轴补光让正面明亮通透，柔和的高后方暖日光勾出清楚发缘；阴影浅而不消失，背景同样明亮，光色干净，亮部保持细节。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Rodrigo Prieto ASC AMC: The cinematography of Barbie https://en-gb.panavision.com/highlights/highlights-detail/collector%27s-edition
+FilmGrab 原片截图图库 · 芭比 https://film-grab.com/2023/12/05/barbie/
+
+31 · 发光地面的低位柔光
+底光
+陌生空间、悬浮感、时间停滞、抽象展示
+
+电影与场景参考〔整理说明〕
+2001太空漫游（1968）；导演：Stanley Kubrick；摄影：Geoffrey Unsworth；John Alcott。
+参考场景：结尾路易十六风格房间，发光地板向上照亮 Bowman 和家具。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+陌生空间、悬浮感、时间停滞、抽象展示
+情绪：困惑、敬畏、平静、审美欣赏
+空间：展厅、白色房间、室内
+类型：科幻、实验、剧情
+
+光向与光质〔整理说明〕
+方向：底光
+光质：软光
+难度：中等
+
+主光、补光、背景〔原工具布光参数〕
+主光：大片发光地板提供均匀低位柔光。
+补光：白墙回光平缓，顶部不另设强主光。
+背景：空间洁净明亮，上下亮度关系略反常。
+
+生图光影段〔原工具功能提示词〕
+大片均匀白光从下方发光平面向上照射，底面和下缘比顶部更亮，低位阴影方向清楚；墙面保留柔和回光，不增加明显高位主光，整体洁净而略显陌生。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物缓慢转身，镜头小幅横移；地面发光范围固定，下缘持续更亮，投影保持向上。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。大片均匀白光从下方发光平面向上照射，底面和下缘比顶部更亮，低位阴影方向清楚；墙面保留柔和回光，不增加明显高位主光，整体洁净而略显陌生。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: minimal geometric white room with a grid of large translucent luminous FLOOR panels. One anonymous adult woman in a plain medium-grey jumpsuit, framed knees-up, standing calmly. The ENTIRE FLOOR is the broad soft primary light source shining UPWARDS: her lower cheeks, underside of chin, nose and hands are brighter, her upper forehead and top shoulders subtly darker. White-grey walls receive even soft reflected upward light. Ceiling unlit. No overhead light, no glowing wall panels, no spotlight, no film-specific furniture or spacesuit, no text. Show a substantial area of luminous floor so the unusual bottom-light motivation is unambiguous. Human limbs and fingers correct.
+
+分镜 1 · 先看光源关系〔原工具分镜指令〕
+景别：中景
+动作：保留亮区与暗区的空间位置，让观众看懂光来自哪里。
+连续性：光源在世界空间保持固定。
+
+分镜 2 · 轻转头看塑形〔原工具分镜指令〕
+景别：中近景
+动作：人物缓慢转头约十五度，观察受光面如何改变。
+连续性：人物转动导致明暗变化，光源不追随镜头。
+
+分镜 3 · 让情绪落下来〔原工具分镜指令〕
+景别：近景
+动作：小幅缓慢推进，人物停顿或移开视线。
+连续性：保持光色、主光方向与背景亮度关系。
+
+常见失败点〔原工具使用提醒〕
+• 不能声称已核实原片该房间的具体灯具数量。
+• 避免把底光做成恐怖手电式小硬光。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。画面中主要人物自然转头约30度，同时镜头向右平移一小步，背景产生清楚而适度的视差。大片均匀白光从下方发光平面向上照射，底面和下缘比顶部更亮，低位阴影方向清楚；墙面保留柔和回光，不增加明显高位主光，整体洁净而略显陌生。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：大片均匀白光从下方发光平面向上照射，底面和下缘比顶部更亮，低位阴影方向清楚；墙面保留柔和回光，不增加明显高位主光，整体洁净而略显陌生。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Filming 2001: A Space Odyssey https://theasc.com/article/filming-2001-a-space-odyssey/
+FilmGrab 原片截图图库 · 2001太空漫游 https://film-grab.com/2010/07/06/2001-a-space-odyssey/
+
+32 · 地球反光 · 环境决定脸上的颜色
+硬光与环境反射
+科幻 / 冒险中的敬畏 / 兴趣情境
+
+电影与场景参考〔整理说明〕
+地心引力（2013）；导演：阿方索·卡隆；摄影：艾曼努尔·卢贝兹基。
+参考场景：开场太空作业：斯通的头盔近景。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+科幻 / 冒险中的敬畏 / 兴趣情境
+情绪：敬畏、兴趣、恐惧、宽慰
+空间：太空、飞船、室外
+类型：科幻、冒险、剧情
+
+光向与光质〔整理说明〕
+方向：硬光与环境反射
+光质：硬太阳 / 冷蓝反射
+难度：进阶
+
+主光、补光、背景〔原工具布光参数〕
+主光：较硬的白色太阳光在受光表面形成明确高光。
+补光：地球表面的大面积冷蓝反射补入部分暗面；与太阳在空间中的相对方向固定。
+背景：深黑背景保留地球弧面与少量亮部，不要求两种光严格左右对打。
+
+生图光影段〔原工具功能提示词〕
+较硬的中性白色太阳光形成明确高光与阴影，来自大面积地球表面的冷蓝反射补入部分暗面；周围大面积深黑。直接光与环境反射均有固定空间来源，不强求画面两侧对打。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物轻轻转头，镜头小幅向右横移；硬太阳光与冷地球反射固定在空间，脸随转向改变受光，不让灯跟着脸转。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。较硬的中性白色太阳光形成明确高光与阴影，来自大面积地球表面的冷蓝反射补入部分暗面；周围大面积深黑。直接光与环境反射均有固定空间来源，不强求画面两侧对打。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: close portrait of an anonymous adult female astronaut inside a physically plausible plain white space helmet with a clear spherical visor, floating near a dark space station structure. Face receives broad soft COOL BLUE EARTH BOUNCE light from below and screen-left; a HARD NEUTRAL WHITE SUN edge from upper opposite side sharply outlines helmet and one cheek. Almost black outer space surrounds her, a small unfocused sliver of Earth far below just hints at the blue source. Realistic visor reflections without obscuring her eyes, credible face inside helmet neck seal. No neon, no colored LED lighting, no brand flags or words, no recognizable actor.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 地球反射是环境光，不是往头盔里额外塞一根蓝灯条。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物轻轻转头，镜头小幅向右横移；硬太阳光与冷地球反射固定在空间，脸随转向改变受光，不让灯跟着脸转。较硬的中性白色太阳光形成明确高光与阴影，来自大面积地球表面的冷蓝反射补入部分暗面；周围大面积深黑。直接光与环境反射均有固定空间来源，不强求画面两侧对打。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：较硬的中性白色太阳光形成明确高光与阴影，来自大面积地球表面的冷蓝反射补入部分暗面；周围大面积深黑。直接光与环境反射均有固定空间来源，不强求画面两侧对打。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Emmanuel Lubezki Ponders Virtual Cinematography https://theasc.com/post/parallax-view/emmanuel-lubezki-ponders-virtual-cinematography/
+Gravity — FILMGRAB 成片帧图库 https://film-grab.com/2014/04/10/gravity/
+
+33 · 发光水面 · 从下面照亮奇遇
+低位发光面
+奇幻 / 冒险中的敬畏 / 惊讶情境
+
+电影与场景参考〔整理说明〕
+少年派的奇幻漂流（2012）；导演：李安；摄影：克劳迪奥·米兰达。
+参考场景：发光海洋段落：派被青蓝色生物光照亮的近景。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+奇幻 / 冒险中的敬畏 / 惊讶情境
+情绪：敬畏、惊讶、入迷、喜悦
+空间：海洋、水边、夜景
+类型：奇幻、冒险、家庭
+
+光向与光质〔整理说明〕
+方向：低位发光面
+光质：青蓝底光 / 环境自发光
+难度：进阶
+
+主光、补光、背景〔原工具布光参数〕
+主光：低处青蓝色发光水面向上照亮下颌、衣服与近处表面。
+补光：不补白色顶光，暗侧只接到微弱的青蓝反射。
+背景：高处与远处深暗，水面发光点疏密不一，越远离发光处越暗。
+
+生图光影段〔原工具功能提示词〕
+低处大面积青蓝发光面向上照亮下颌与近处表面，细小发光点疏密不一；高处与远处保持深暗，不补白色顶光，近光处明亮、远处迅速减弱。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物缓慢低头看向下方，青蓝光点轻缓漂移、亮度仅小幅变化，低位光源关系连续。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。低处大面积青蓝发光面向上照亮下颌与近处表面，细小发光点疏密不一；高处与远处保持深暗，不补白色顶光，近光处明亮、远处迅速减弱。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: a calm black ocean at night, anonymous adult woman in a plain cream long-sleeved linen shirt sitting still in a small wooden boat, waist-up medium shot seen close from the side. Intense CYAN BLUE BIOLUMINESCENT WATER around and below the boat is the only significant light source, soft low-position light illuminating her lower jaw, underside of nose and forearms from beneath, leaving upper forehead softly darker. Thousands of tiny individual living luminous points and a few gentle ripples are visible in the water. Dark sky, no visible moon and no top key. One natural hand lightly rests on the wooden rim. Quiet realistic fantastical natural light, no tiger or film character.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 发光水面的受光应集中在低处，不能只让水亮而脸仍由白顶灯照明。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物缓慢低头看向下方，青蓝光点轻缓漂移、亮度仅小幅变化，低位光源关系连续。同时镜头向右小幅横移，形成背景视差。低处大面积青蓝发光面向上照亮下颌与近处表面，细小发光点疏密不一；高处与远处保持深暗，不补白色顶光，近光处明亮、远处迅速减弱。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：低处大面积青蓝发光面向上照亮下颌与近处表面，细小发光点疏密不一；高处与远处保持深暗，不补白色顶光，近光处明亮、远处迅速减弱。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Life of Pi: a tiger’s tale https://www.fxguide.com/fxfeatured/life-of-pi/
+Life of Pi — FILMGRAB 成片帧图库 https://film-grab.com/2021/01/05/life-of-pi/
+
+34 · 四周调暗 · 留住亲近的一瞬
+局部顶侧光
+爱情 / 犯罪中的浪漫 / 爱慕情境
+
+电影与场景参考〔整理说明〕
+亡命驾驶（2011）；导演：尼古拉斯·温丁·雷弗恩；摄影：牛顿·托马斯·西格尔。
+参考场景：电梯里接吻时周围灯光降低的片刻。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+爱情 / 犯罪中的浪漫 / 爱慕情境
+情绪：浪漫、爱慕、渴望、焦虑
+空间：电梯、室内、狭小空间
+类型：爱情、犯罪、惊悚
+
+光向与光质〔整理说明〕
+方向：局部顶侧光
+光质：暖光 / 渐暗
+难度：进阶
+
+主光、补光、背景〔原工具布光参数〕
+主光：局部暖顶侧光照亮面部与肩部。
+补光：暗侧保留阴影，避免自动把人物整体提亮。
+背景：周围照明缓慢降低，后方仍有一处暖实景灯；不是全画面降低曝光。
+
+生图光影段〔原工具功能提示词〕
+周围环境照明缓慢降低，较集中的暖顶侧光保留在面部和肩部，后方一处暖实景灯仍可见；暗侧不补平，亮部柔和而局部，整体曝光稳定。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物轻轻转向身旁，三秒内周围灯光只渐暗一次，局部暖光保持，机位稳定，无频闪。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。周围环境照明缓慢降低，较集中的暖顶侧光保留在面部和肩部，后方一处暖实景灯仍可见；暗侧不补平，亮部柔和而局部，整体曝光稳定。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: small modern elevator, two anonymous ADULTS, woman and man in simple dark everyday clothing, standing quietly beside one another, framed waist-up. Most ceiling lights are dimmed almost out; only a localized warm TOP-FRONT pool remains on their faces and shoulders. Warm gentle faces float against shadowed elevator walls, with no bright rim, no nightclub neon. Each face has natural top-light shape, deepened surrounding shadows, a still intimate pause with no touching or kissing required. Plain believable clothing, no distinctive bomber jacket, no famous actor, no signage or visible words.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 调暗的是周围灯光，不是把整幅视频统一拉黑。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物轻轻转向身旁，三秒内周围灯光只渐暗一次，局部暖光保持，镜头向右轻缓横移，无频闪。周围环境照明缓慢降低，较集中的暖顶侧光保留在面部和肩部，后方一处暖实景灯仍可见；暗侧不补平，亮部柔和而局部，整体曝光稳定。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：3秒；分辨率：480P
+检查目标：周围环境照明缓慢降低，较集中的暖顶侧光保留在面部和肩部，后方一处暖实景灯仍可见；暗侧不补平，亮部柔和而局部，整体曝光稳定。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Drive: Road Warriors https://theasc.com/article/drive-road-warriors/
+Drive — FILMGRAB 成片帧图库 https://film-grab.com/2012/07/01/drive/
+
+35 · 深夜看得远 · 微弱天光包围
+夜间环境光
+科幻 / 恐怖中的焦虑 / 恐惧情境
+
+电影与场景参考〔整理说明〕
+不（2022）；导演：乔丹·皮尔；摄影：霍伊特·范·霍伊特玛。
+参考场景：牧场夜景：人物、马和远处亮着窗灯的房子。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+科幻 / 恐怖中的焦虑 / 恐惧情境
+情绪：焦虑、恐惧、惊骇、兴趣
+空间：牧场、荒野、户外、夜景
+类型：科幻、恐怖、悬疑
+
+光向与光质〔整理说明〕
+方向：夜间环境光
+光质：弱冷光 / 深远夜色
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：极弱冷蓝环境光覆盖近处与远处，夜色中仍能辨认空间。
+补光：不加明显正面补光；暗部保留少量细节。
+背景：远方一小处暖窗光提示距离，地面与天空均深暗。
+
+生图光影段〔原工具功能提示词〕
+极弱的冷蓝广域环境光覆盖近远空间，暗处仍保留细节；远方仅一小块暖亮部作距离参照，无可见聚光光束、无强正面补光，天空与地面都深暗而不死黑。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物缓慢抬眼，镜头轻微向前；远处轮廓和云层稳定，夜景曝光不自动提亮。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。极弱的冷蓝广域环境光覆盖近远空间，暗处仍保留细节；远方仅一小块暖亮部作距离参照，无可见聚光光束、无强正面补光，天空与地面都深暗而不死黑。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: enormous open ranch landscape under a deep BLUE-BLACK NIGHT sky with faintly visible broad cloud formations and distant mountains. One anonymous adult woman in plain grey jacket framed waist-up, standing in the foreground facing slightly aside. Very weak broad COOL MOONLIGHT from the sky gives minimal face and clothing detail; this is genuinely dark night, not day-for-night blue wash. Shadow cheek remains dark. Far away one tiny warm house window gives scale and distance. No flashlights, no visible beams, no spaceship or spotlights. Clear composition suitable for small head movement, natural facial proportions.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 夜景细节可读不等于高曝光蓝色白天。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物缓慢抬眼，镜头轻微向前；远处轮廓和云层稳定，夜景曝光不自动提亮。极弱的冷蓝广域环境光覆盖近远空间，暗处仍保留细节；远方仅一小块暖亮部作距离参照，无可见聚光光束、无强正面补光，天空与地面都深暗而不死黑。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：极弱的冷蓝广域环境光覆盖近远空间，暗处仍保留细节；远方仅一小块暖亮部作距离参照，无可见聚光光束、无强正面补光，天空与地面都深暗而不死黑。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+How Hoyte van Hoytema pioneered with Kodak large formats on Nope https://www.kodak.com/en/motion/blog-post/nope/
+Nope — FILMGRAB 成片帧图库 https://film-grab.com/2022/10/14/nope/
+
+36 · 异星黑白 · 苍白与深黑对撞
+高侧光
+科幻 / 动作中的惊骇 / 厌恶情境
+
+电影与场景参考〔整理说明〕
+沙丘2（2024）；导演：丹尼斯·维伦纽瓦；摄影：格雷格·弗雷泽。
+参考场景：《沙丘2》吉迪主星竞技场段落菲德的黑白近景：苍白脸部、深眼窝与黑背景形成鲜明反差。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+科幻 / 动作中的惊骇 / 厌恶情境
+情绪：惊骇、厌恶、敬畏、惊讶
+空间：竞技场、户外、广场
+类型：科幻、动作、实验
+
+光向与光质〔整理说明〕
+方向：高侧光
+光质：单色 / 红外感
+难度：进阶
+
+主光、补光、背景〔原工具布光参数〕
+主光：高侧方硬光形成清楚投影，以黑白关系表达。
+补光：背光侧偏黑，中间调克制；受光皮肤与浅色表面偏银白。
+背景：本站练习使用近黑天空；红外感是材质明度的改编，不等于普通去色。
+
+生图光影段〔原工具功能提示词〕
+纯黑白单色，高侧方硬光形成清楚的投影；受光表面呈苍白银灰，背光侧深黑，中间调克制，背景天空近黑。模拟红外感的明暗分配，不是简单降低彩色饱和度。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物缓慢转头，高侧光固定；鼻影随面部角度合理移动，单色保持，不浮出彩色。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。纯黑白单色，高侧方硬光形成清楚的投影；受光表面呈苍白银灰，背光侧深黑，中间调克制，背景天空近黑。模拟红外感的明暗分配，不是简单降低彩色饱和度。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. PURE BLACK AND WHITE cinematic image suggesting near-infrared photography. An anonymous adult woman with short dark hair and simple pale cotton tunic stands waist-up in an unfamiliar open-air arena of pale sculpted stone. The SKY is almost BLACK while exposed skin, pale fabric and stone are strikingly WHITE. Hard high-side sunlight casts sharply edged nose, jaw and architectural shadows. Face retains fine texture and natural proportions, no skin makeup or bald film characters. Powerful tonal separation, high whites not clipped, no color, no crowd, no weapons, no identifiable movie costume.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 单色与红外材质响应不是同义词；AI 结果只能叫红外感改编。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物缓慢转头，高侧光固定；鼻影随面部角度合理移动，单色保持，不浮出彩色。同时镜头向右小幅横移，形成背景视差。纯黑白单色，高侧方硬光形成清楚的投影；受光表面呈苍白银灰，背光侧深黑，中间调克制，背景天空近黑。模拟红外感的明暗分配，不是简单降低彩色饱和度。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：纯黑白单色，高侧方硬光形成清楚的投影；受光表面呈苍白银灰，背光侧深黑，中间调克制，背景天空近黑。模拟红外感的明暗分配，不是简单降低彩色饱和度。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Greig Fraser ACS, ASC on Dune: Part Two https://www.arrirental.com/en/about/overview/news/interview-on-dune-part-two-with-greig-fraser-acs-asc
+Dune: Part 2 — FILMGRAB 成片帧图库 https://film-grab.com/2024/04/08/dune-part-2/
+FilmGrab 同片替换参考 · dune-infrared https://film-grab.com/2024/04/08/dune-part-2/
+
+37 · 冷雪反光 · 寒意里仍看清脸
+天空漫射与地面反射
+西部 / 冒险中的共情之痛 / 悲伤情境
+
+电影与场景参考〔整理说明〕
+荒野猎人（2015）；导演：亚历杭德罗·冈萨雷斯·伊尼亚里图；摄影：艾曼努尔·卢贝兹基。
+参考场景：《荒野猎人》雪地开阔处两人休息的全景：冷灰天空与雪面柔和反射，人物保持较暗。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+西部 / 冒险中的共情之痛 / 悲伤情境
+情绪：共情之痛、悲伤、宽慰、平静
+空间：雪地、森林、户外
+类型：西部、冒险、剧情、历史
+
+光向与光质〔整理说明〕
+方向：天空漫射与地面反射
+光质：冷白柔光 / 雪地反光
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：大范围冷白阴天天空形成柔和主照明。
+补光：浅色地面给下颌与暗侧少量冷白反射，强度弱于天空。
+背景：雪与远景保持灰冷层次，白色表面不一片过曝。
+
+生图光影段〔原工具功能提示词〕
+冷白阴天光从大范围天空漫射，阴影边缘很软；浅色地面给下颌与暗侧少量冷白反射，面部仍有层次，背景灰冷，保留白色表面细节，不加暖夕阳或硬轮廓。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物缓慢呼吸并略转头，镜头轻微前移；天空与地面反光保持连续，不突然出现太阳硬影。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。冷白阴天光从大范围天空漫射，阴影边缘很软；浅色地面给下颌与暗侧少量冷白反射，面部仍有层次，背景灰冷，保留白色表面细节，不加暖夕阳或硬轮廓。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: snow-covered quiet fir forest under overcast winter sky. One anonymous adult woman in a plain heavy dark wool coat and scarf, chest-up medium portrait. An enormous COOL WHITE cloudy sky provides uniform soft natural daylight from above; snow on the ground gently bounces a little cool light upward into the jaw and eye shadows. No distinct hard key, no sunbeam or warm light, soft subtle face gradients. Skin has believable cold redness and natural texture. Damp hair, snowflakes on wool, distant bare trees softly layered, no survival violence or recognizable fur costume. Hands outside frame.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 雪地反射要弱于天空主照明，避免恐怖式强底光。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物缓慢呼吸并略转头，镜头轻微前移；天空与地面反光保持连续，不突然出现太阳硬影。冷白阴天光从大范围天空漫射，阴影边缘很软；浅色地面给下颌与暗侧少量冷白反射，面部仍有层次，背景灰冷，保留白色表面细节，不加暖夕阳或硬轮廓。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：冷白阴天光从大范围天空漫射，阴影边缘很软；浅色地面给下颌与暗侧少量冷白反射，面部仍有层次，背景灰冷，保留白色表面细节，不加暖夕阳或硬轮廓。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+The Revenant — FILMGRAB 成片帧图库 https://film-grab.com/2017/08/29/the-revenant/
+FilmGrab 同片替换参考 · revenant-snow https://film-grab.com/2017/08/29/the-revenant/
+
+38 · 树影碎光 · 日常忽然闪亮
+树荫下的透射日光
+家庭 / 剧情中的审美欣赏 / 怀旧情境
+
+电影与场景参考〔整理说明〕
+生命之树（2011）；导演：泰伦斯·马力克；摄影：艾曼努尔·卢贝兹基。
+参考场景：庭院树下母亲仰头的低机位近景。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+家庭 / 剧情中的审美欣赏 / 怀旧情境
+情绪：审美欣赏、怀旧、平静、喜悦
+空间：庭院、树下、公园
+类型：家庭、剧情、实验
+
+光向与光质〔整理说明〕
+方向：树荫下的透射日光
+光质：碎光 / 柔环境光
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：高侧方日光被不规则遮挡切成细碎亮斑。
+补光：柔和天光保留暗处细节，不让每块暗斑全黑。
+背景：叶隙与头发边缘可略亮；亮斑随机自然，不变成整齐条纹。
+
+生图光影段〔原工具功能提示词〕
+高侧方日光被不规则遮挡切成疏密不同的细碎亮斑，落在面部、肩部及附近表面；阴影中留有柔和天光，后方边缘略亮，亮斑明暗分布自然，不形成整齐条纹。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物轻微抬头，细碎光斑随上方遮挡缓慢晃动，幅度小；光源方位固定，不让面部材质流动。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。高侧方日光被不规则遮挡切成疏密不同的细碎亮斑，落在面部、肩部及附近表面；阴影中留有柔和天光，后方边缘略亮，亮斑明暗分布自然，不形成整齐条纹。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: warm summer late afternoon beneath a leafy oak tree. Medium-close portrait of an anonymous adult woman in a simple cream cotton blouse looking thoughtfully aside. Direct WARM SUNLIGHT filters through moving leaves above, casting irregular sharply edged small DAPPLED patches of light on her face, shoulder and blouse, with greenish soft shade between them. Sunlit foliage in the far background glows and softly flares; a few leaves close overhead establish source. The face remains readable, dapple pattern physically uneven, not repeating stripes. Realistic natural skin and cotton texture, no text or symbolic props.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 树影形状不应变成规整百叶窗条纹，也不应让皮肤纹理随光一起流动。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物轻微抬头，细碎光斑随上方遮挡缓慢晃动，幅度小；光源方位固定，不让面部材质流动。同时镜头向右小幅横移，形成背景视差。高侧方日光被不规则遮挡切成疏密不同的细碎亮斑，落在面部、肩部及附近表面；阴影中留有柔和天光，后方边缘略亮，亮斑明暗分布自然，不形成整齐条纹。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：高侧方日光被不规则遮挡切成疏密不同的细碎亮斑，落在面部、肩部及附近表面；阴影中留有柔和天光，后方边缘略亮，亮斑明暗分布自然，不形成整齐条纹。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+The Tree Of Life — FILMGRAB 成片帧图库 https://film-grab.com/2012/12/17/the-tree-of-life/
+
+39 · 银幕蓝光 · 只亮起投入的脸
+正前柔光
+喜剧 / 爱情中的娱乐 / 入迷情境
+
+电影与场景参考〔整理说明〕
+天使爱美丽（2001）；导演：让-皮埃尔·热内；摄影：布鲁诺·德尔邦内尔。
+参考场景：艾米莉坐在电影院观影的冷蓝近景。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+喜剧 / 爱情中的娱乐 / 入迷情境
+情绪：娱乐、入迷、兴趣、满足
+空间：电影院、室内、观众席
+类型：喜剧、爱情、家庭
+
+光向与光质〔整理说明〕
+方向：正前柔光
+光质：银幕蓝光 / 暗背景
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：画外正前方的大面积冷蓝柔光照亮脸与眼神。
+补光：近处只有微弱同色反射，鼻影柔和。
+背景：后排深暗；不额外增加暖轮廓或可见发光矩形。
+
+生图光影段〔原工具功能提示词〕
+来自正前方画外的大面积冷蓝柔光照亮面部与眼神，鼻影柔弱、额头不过曝；后方空间深暗，只有微弱同色反射，亮度集中在前排受光位置，不增加暖色轮廓灯。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物目光缓缓移动并露出很轻的笑，冷蓝光仅柔缓起伏一次，后方保持深暗，没有快速闪烁。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。来自正前方画外的大面积冷蓝柔光照亮面部与眼神，鼻影柔弱、额头不过曝；后方空间深暗，只有微弱同色反射，亮度集中在前排受光位置，不增加暖色轮廓灯。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: dark cinema auditorium. An anonymous adult woman in an ordinary dark red cardigan sits in a movie seat, chest-up close portrait, looking slightly above the camera with an absorbed subtle smile. A large movie SCREEN outside frame near the CAMERA direction is the only significant source: soft COOL BLUE frontal reflected light on face and bright eyes, very gentle shadows. Rows of dark maroon seats and two indistinct adult viewers far behind disappear into dimness. No lamp, no green wall, no projected text or discernible movie on screen. Clear cinematic blue screen-light effect, no copy of famous actress haircut or face.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 银幕在画外前方；不要在人物身后额外画一个发光矩形冒充主光。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物目光缓缓移动并露出很轻的笑，冷蓝光仅柔缓起伏一次，后方保持深暗，没有快速闪烁。同时镜头向右小幅横移，形成背景视差。来自正前方画外的大面积冷蓝柔光照亮面部与眼神，鼻影柔弱、额头不过曝；后方空间深暗，只有微弱同色反射，亮度集中在前排受光位置，不增加暖色轮廓灯。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：来自正前方画外的大面积冷蓝柔光照亮面部与眼神，鼻影柔弱、额头不过曝；后方空间深暗，只有微弱同色反射，亮度集中在前排受光位置，不增加暖色轮廓灯。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Amelie — FILMGRAB 成片帧图库 https://film-grab.com/2012/11/05/amelie/
+
+40 · 连续光池 · 走一步藏一步
+重复顶光
+爱情 / 剧情中的尴尬 / 渴望情境
+
+电影与场景参考〔整理说明〕
+花样年华（2000）；导演：王家卫；摄影：杜可风、李屏宾。
+参考场景：红色窄走廊里经过重复顶灯的苏丽珍。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+爱情 / 剧情中的尴尬 / 渴望情境
+情绪：尴尬、渴望、浪漫、悲伤
+空间：走廊、酒店、室内
+类型：爱情、剧情
+
+光向与光质〔整理说明〕
+方向：重复顶光
+光质：暖光池 / 明暗间隔
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：固定暖顶灯沿纵深形成一个个局部光池。
+补光：侧墙保留弱暗红反射，光池之间的暗段不过度填亮。
+背景：远处灯点逐渐变小；人物走位会经过亮暗段，灯不跟人移动。
+
+生图光影段〔原工具功能提示词〕
+多处固定暖顶光沿空间纵深重复排列，各自形成局部亮区，亮区之间有可辨认的暗段；侧墙保留暗红反射，阴影不过度补亮，远处灯逐渐变小。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物只向前走小半步，进入相邻光池的边缘；固定灯的位置和间距保持，人物受光自然增减，曝光不跟随补偿。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。多处固定暖顶光沿空间纵深重复排列，各自形成局部亮区，亮区之间有可辨认的暗段；侧墙保留暗红反射，阴影不过度补亮，远处灯逐渐变小。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: a narrow aging apartment corridor at night, muted ochre plaster and dark wooden doorways. An anonymous adult woman in simple dark blue everyday blouse is framed waist-up, standing at the EDGE of the nearest pool of light. A sequence of small WARM CEILING PRACTICAL LAMPS recedes into depth, each produces a separate warm top-light pool with clearly DARK GAPS between them. One side of her face and shoulder just enters a pool; the rest retreats toward shadow. Deliberate repeated light-dark rhythm, believable perspective, natural skin texture, no cheongsam or identifiable movie costume, no signage.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 人物经过暗段应该变暗，不要每走一步都出现一盏跟脸的补光。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物沿走廊向前走小半步，进入相邻暖光池的边缘；镜头向右轻缓横移。顶灯位置、间距和亮度保持稳定，暖黄褐墙面提供少量同色反射；人物经过光池边缘时脸与衣服自然变亮或变暗，灯与门的位置不随镜头改变。沿用参考图的黄褐墙色，不额外染成红墙；单一连续镜头，相机不自动补亮暗段。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：3秒；分辨率：480P
+检查目标：顶灯位置、间距和亮度保持稳定，暖黄褐墙面提供少量同色反射；人物经过光池边缘时脸与衣服自然变亮或变暗，灯与门的位置不随镜头改变。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+In The Mood For Love — FILMGRAB 成片帧图库 https://film-grab.com/2013/03/09/in-the-mood-for-love/
+
+41 · 绿荧光小店 · 保留不舒服的偏色
+荧光顶光
+犯罪 / 剧情中的无聊 / 困惑情境
+
+电影与场景参考〔整理说明〕
+堕落天使（1995）；导演：王家卫；摄影：杜可风。
+参考场景：《堕落天使》小店内人物反坐椅子、手持读物的画面：偏绿实景光与暖色近脸反射并存。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+犯罪 / 剧情中的无聊 / 困惑情境
+情绪：无聊、困惑、焦虑、厌恶
+空间：小店、餐馆、室内、夜景
+类型：犯罪、剧情、喜剧
+
+光向与光质〔整理说明〕
+方向：荧光顶光
+光质：偏绿白光 / 实景光
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：上方实景长条灯提供略偏绿的冷白顶光。
+补光：暗侧保留绿灰层次，不把受光皮肤全部校正成中性白。
+背景：外面更暗、更冷，少量暖色亮点可以保留。
+
+生图光影段〔原工具功能提示词〕
+上方实景长条光呈轻微偏绿的冷白，向下照亮额头、鼻梁与近处台面，暗侧保留绿灰层次；外部空间更暗、更冷，局部暖点可很弱，不把肤色整体校正成中性白。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物缓慢侧头，顶灯稳定不闪烁，外部冷暗空间位置固定，脸与顶灯距离不突变。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。上方实景长条光呈轻微偏绿的冷白，向下照亮额头、鼻梁与近处台面，暗侧保留绿灰层次；外部空间更暗、更冷，局部暖点可很弱，不把肤色整体校正成中性白。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: tiny worn neighborhood convenience shop at night. One anonymous adult woman in a simple dark jacket framed chest-up by a counter. A visible overhead fluorescent tube is noticeably GREEN-TINTED and casts a sickly pale green top light on her face, skin pores and cheeks still realistic with low saturation natural variation. Outside the shop window behind her is dark COOL BLUE night. Dark shelves with unbranded plain containers recede in shadow. Keep green overhead and blue exterior clearly motivated and spatially separated; no neon sign text, no movie-specific actor or costume. Hands outside frame.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 偏绿是有意保留的环境色，避免同时写自然纯白肤色与强绿色照明。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物缓慢转头约25度，镜头向右小幅横移，使近处台面与窗外空间出现视差。上方条灯保持参考图中可见的绿色，照亮头发、额头及近处表面；脸部保留绿灰层次，窗外仍冷蓝而更暗。顶灯与脸的距离基本连续，灯管位置固定。不把室内光校正成中性白；单一连续镜头，灯光不闪烁，相机曝光稳定。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：上方条灯保持参考图中可见的绿色，照亮头发、额头及近处表面；脸部保留绿灰层次，窗外仍冷蓝而更暗。顶灯与脸的距离基本连续，灯管位置固定。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Fallen Angels — FILMGRAB 成片帧图库 https://film-grab.com/2014/09/25/fallen-angels/
+FilmGrab 同片替换参考 · fallen-green https://film-grab.com/2014/09/25/fallen-angels/
+
+42 · 舞台孤岛 · 汗与手留在光里
+高侧窄束光
+剧情 / 歌舞中的愤怒 / 兴奋情境
+
+电影与场景参考〔整理说明〕
+爆裂鼓手（2014）；导演：达米恩·查泽雷；摄影：沙隆·梅尔。
+参考场景：《爆裂鼓手》演出段落中安德鲁仰脸的暖光近景：脸与汗光明亮，背景较暗。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+剧情 / 歌舞中的愤怒 / 兴奋情境
+情绪：愤怒、兴奋、钦佩、焦虑
+空间：舞台、排练室、室内
+类型：剧情、歌舞
+
+光向与光质〔整理说明〕
+方向：高侧窄束光
+光质：暖聚光 / 汗光
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：高侧方窄暖光挑亮脸、手与金属表面的高光。
+补光：暗侧保持可读细节，但不均匀补平。
+背景：表演区域之外大面积落黑，只留下微小灯点。
+
+生图光影段〔原工具功能提示词〕
+高侧方较窄的暖灯照亮脸部、双手与表面高光，汗光和金属反光清楚；周围大面积落黑，背后只留弱小灯点，暗侧有细节但不均匀补平。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物低头再小幅抬眼，双手仅轻微移动；舞台灯固定，不追随镜头，汗光随角度变化，背景始终较暗。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。高侧方较窄的暖灯照亮脸部、双手与表面高光，汗光和金属反光清楚；周围大面积落黑，背后只留弱小灯点，暗侧有细节但不均匀补平。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: black theater stage, anonymous adult woman drummer in a simple dark sleeveless modest top, seated at a compact drum kit, medium close shot including face and hands. A single warm narrow beam from high front-side illuminates her face, sweat on brow, forearms and the two wooden drumsticks she holds correctly above a snare drum in a quiet poised moment. Most of cymbals and backdrop disappear to black, only tiny metallic edge highlights. Intense concentrated warm stage lighting, deep shadow side on face, correct anatomy and two natural hands each gripping ONE stick, no motion blur, no band logos or famous likeness.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 亮汗和亮金属不等于整张脸过曝，暗背景需要保留。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物低头再小幅抬眼，双手仅轻微移动；舞台灯固定，不追随镜头，汗光随角度变化，背景始终较暗。高侧方较窄的暖灯照亮脸部、双手与表面高光，汗光和金属反光清楚；周围大面积落黑，背后只留弱小灯点，暗侧有细节但不均匀补平。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：高侧方较窄的暖灯照亮脸部、双手与表面高光，汗光和金属反光清楚；周围大面积落黑，背后只留弱小灯点，暗侧有细节但不均匀补平。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Whiplash — FILMGRAB 成片帧图库 https://film-grab.com/2015/05/22/whiplash/
+FilmGrab 同片替换参考 · whiplash-stage https://film-grab.com/2015/05/22/whiplash/
+
+43 · 冷窗暖近灯 · 光把空间分层
+高窗斜光
+冒险 / 奇幻中的兴趣 / 惊讶情境
+
+电影与场景参考〔整理说明〕
+雨果（2011）；导演：马丁·斯科塞斯；摄影：罗伯特·理查德森。
+参考场景：钟楼工作空间：斜顶窗、自动人偶和孩子。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+冒险 / 奇幻中的兴趣 / 惊讶情境
+情绪：兴趣、惊讶、审美欣赏、怀旧
+空间：钟楼、工作室、室内
+类型：冒险、奇幻、家庭
+
+光向与光质〔整理说明〕
+方向：高窗斜光
+光质：冷窗光 / 近处暖色
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：高侧方冷白蓝窗光穿过少量空气，形成柔边斜光路。
+补光：近处局部暖反射或小灯只照亮少量脸与手。
+背景：远处偏冷偏暗；冷暖各有固定空间来源。
+
+生图光影段〔原工具功能提示词〕
+高侧方窗光呈冷白蓝色，透过少量空气形成柔边斜向光路；近处局部微暖光照亮少量脸与手，远处更冷、更暗，冷暖来自不同固定位置，不给整幅画面套双色滤镜。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物轻微转头看向高窗，镜头缓慢推近；斜向窗光与近处暖光的空间位置不变，空气轻缓漂浮。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。高侧方窗光呈冷白蓝色，透过少量空气形成柔边斜向光路；近处局部微暖光照亮少量脸与手，远处更冷、更暗，冷暖来自不同固定位置，不给整幅画面套双色滤镜。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: old clockmaker's workshop with wooden bench and abstract mechanical gears at night or cool early dawn. An anonymous adult woman repairer in a plain brown work apron is framed waist-up at the bench. A high side window admits a slender diagonal COOL BLUE light SHAFT visible in a small amount of dust and haze across the room behind her. In the near foreground a little warm tungsten task lamp gives soft amber light to her cheek and naturally resting hands near an unbranded metal mechanism. Warm face and cool high window occupy distinct spatial planes. No child, no recognizable clock station set, no words, realistic tools and anatomy.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 少量空气才显光路，浓烟会让近处脸也失去层次。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物轻微转头看向高窗，镜头缓慢推近；斜向窗光与近处暖光的空间位置不变，空气轻缓漂浮。高侧方窗光呈冷白蓝色，透过少量空气形成柔边斜向光路；近处局部微暖光照亮少量脸与手，远处更冷、更暗，冷暖来自不同固定位置，不给整幅画面套双色滤镜。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：高侧方窗光呈冷白蓝色，透过少量空气形成柔边斜向光路；近处局部微暖光照亮少量脸与手，远处更冷、更暗，冷暖来自不同固定位置，不给整幅画面套双色滤镜。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Hugo — FILMGRAB 成片帧图库 https://film-grab.com/2014/09/30/hugo/
+
+44 · 小灯照小家 · 暖光随距离衰减
+近处实景灯
+动画 / 家庭中的娱乐 / 喜悦情境
+
+电影与场景参考〔整理说明〕
+了不起的狐狸爸爸（2009）；导演：韦斯·安德森；摄影：特里斯坦·奥利弗。
+参考场景：地下洞穴里家人交谈的局部暖灯画面。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+动画 / 家庭中的娱乐 / 喜悦情境
+情绪：娱乐、喜悦、满足、爱慕
+空间：洞穴、家中、室内
+类型：动画、家庭、喜剧
+
+光向与光质〔整理说明〕
+方向：近处实景灯
+光质：小暖灯 / 局部衰减
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：近旁小暖灯照亮脸与相邻表面，近亮远暗。
+补光：反射较少，保留细小纹理与自然暗侧。
+背景：零散暖点提示空间；不把整个环境均匀涂成橙色。
+
+生图光影段〔原工具功能提示词〕
+一处近旁小暖灯照亮脸与近处表面，灯下较亮，离灯稍远迅速变暗；反射光很少，纹理细小而清楚，背景零散暖点，保持温暖但不泛成均匀橙色。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物轻轻点头，近旁小灯位置与亮度稳定，细毛和材质不抖动，背景保持同一明暗。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。一处近旁小暖灯照亮脸与近处表面，灯下较亮，离灯稍远迅速变暗；反射光很少，纹理细小而清楚，背景零散暖点，保持温暖但不泛成均匀橙色。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. OVERRIDE live-action human appearance: this specific frame is an ORIGINAL photographed STOP-MOTION MINIATURE puppet set. An adult anthropomorphic BADGER with clear black-white badger face stripes, coarse felt-and-fur fibers, wearing a plain olive cardigan, framed waist-up inside a tiny cozy earthen burrow. A small warm amber WALL LAMP beside the puppet lights the nearby cheek, snout, sleeve and fur fibers strongly, falling off rapidly so the far room becomes deep dark brown. Tangible handmade paper, wool and clay materials, miniature cinematic depth of field. Calm puppet pose, anatomically coherent short paws, no fox, no film character copy, no words, no flat cartoon rendering. Landscape16:9.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 发光道具的尺寸与距离要合理；光源很小却全屋同亮会失去微缩感。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物轻轻点头，近旁小灯位置与亮度稳定，细毛和材质不抖动，背景保持同一明暗。同时镜头向右小幅横移，形成背景视差。一处近旁小暖灯照亮脸与近处表面，灯下较亮，离灯稍远迅速变暗；反射光很少，纹理细小而清楚，背景零散暖点，保持温暖但不泛成均匀橙色。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：一处近旁小暖灯照亮脸与近处表面，灯下较亮，离灯稍远迅速变暗；反射光很少，纹理细小而清楚，背景零散暖点，保持温暖但不泛成均匀橙色。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Fantastic Mr. Fox — FILMGRAB 成片帧图库 https://film-grab.com/2013/04/29/fantastic-mr-fox/
+
+45 · 发光通道 · 被紫蓝柔光包围
+发光曲面包围
+动画 / 奇幻中的兴趣 / 惊讶情境
+
+电影与场景参考〔整理说明〕
+鬼妈妈（2009）；导演：亨利·塞利克；摄影：彼得·科扎契克。
+参考场景：卡洛琳第一次穿过紫蓝色通道。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+动画 / 奇幻中的兴趣 / 惊讶情境
+情绪：兴趣、惊讶、困惑、恐惧
+空间：隧道、通道、室内
+类型：动画、奇幻、家庭、恐怖
+
+光向与光质〔整理说明〕
+方向：发光曲面包围
+光质：紫蓝柔光 / 深度渐变
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：两侧和上方的连续曲面呈低强度紫蓝发光效果。
+补光：多方向柔反射围住人物，下部仍略暗。
+背景：纵深颜色逐渐变化，远处保留较亮蓝色开口；没有额外硬聚光。
+
+生图光影段〔原工具功能提示词〕
+两侧与上方连续曲面发出低强度紫蓝光，亮度沿纵深缓慢变化；面部受到多方向柔和反射，下部略暗，远处有较亮蓝色开口，无外部硬聚光。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物缓慢向前靠近一点，周围发光曲面形状稳定，受光随距离渐变，不让墙面融化或闪烁。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。两侧与上方连续曲面发出低强度紫蓝光，亮度沿纵深缓慢变化；面部受到多方向柔和反射，下部略暗，远处有较亮蓝色开口，无外部硬聚光。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: entirely original fantastical tunnel made from soft organic woven fabric with clearly tactile fibers and folds. An anonymous ADULT woman in a simple opaque grey cardigan stands chest-up within it, facing slightly toward the center passage. The tunnel walls themselves softly EMIT PURPLE and BLUE light, wrapping BOTH sides of her face and shoulders; deeper center of tunnel is slightly brighter with soft cool lavender glow. No external spotlight, no visible lamp, no hard beam, no glowing eyes. Her face retains natural adult features and realistic skin, no doll buttons, no child or famous character costume. Rich material depth, dreamlike but photographically credible cinematic frame.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 通道发光与通道蠕动是两件事，本练习只改变光，不改变空间形状。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物缓慢向前靠近一点，周围发光曲面形状稳定，受光随距离渐变，不让墙面融化或闪烁。同时镜头向右小幅横移，形成背景视差。两侧与上方连续曲面发出低强度紫蓝光，亮度沿纵深缓慢变化；面部受到多方向柔和反射，下部略暗，远处有较亮蓝色开口，无外部硬聚光。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：两侧与上方连续曲面发出低强度紫蓝光，亮度沿纵深缓慢变化；面部受到多方向柔和反射，下部略暗，远处有较亮蓝色开口，无外部硬聚光。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Coraline — FILMGRAB 成片帧图库 https://film-grab.com/2019/11/18/coraline/
+
+46 · 车灯成河 · 用亮线组织夜色
+移动实景光
+纪录 / 实验中的入迷 / 兴奋情境
+
+电影与场景参考〔整理说明〕
+失衡生活（1982）；导演：戈弗雷·雷吉奥；摄影：罗恩·弗里克。
+参考场景：城市交通段落：红白车灯在运动与曝光中拉成长线。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+纪录 / 实验中的入迷 / 兴奋情境
+情绪：入迷、兴奋、无聊、审美欣赏
+空间：街道、城市、夜景
+类型：纪录、实验
+
+光向与光质〔整理说明〕
+方向：移动实景光
+光质：车灯光迹 / 时间压缩
+难度：进阶
+
+主光、补光、背景〔原工具布光参数〕
+主光：移动红白车灯沿固定交通方向形成连续光迹。
+补光：附近表面只接到很弱的路灯与车灯反射。
+背景：建筑和天空深暗但结构稳定；光迹来自光源运动和曝光时间。
+
+生图光影段〔原工具功能提示词〕
+低处移动白光与红光沿固定路径形成连续细长亮迹，静止建筑与高处天空保持深黑；附近只接到微弱路灯反射，发光轨迹有明确来去方向，不变成悬浮霓虹丝线。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+机位固定，只有远处车辆与红白灯迹沿道路前行；近处人物保持基本静止，建筑不拉丝，亮迹不穿过实体。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。低处移动白光与红光沿固定路径形成连续细长亮迹，静止建筑与高处天空保持深黑；附近只接到微弱路灯反射，发光轨迹有明确来去方向，不变成悬浮霓虹丝线。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: nighttime city pedestrian overpass, an anonymous adult woman in dark everyday jacket is still and sharply defined in a waist-up portrait next to the rail. Below and behind her, road lanes carry RED TAIL LIGHT and WHITE HEADLIGHT trails suggesting a stream of traffic, framed diagonally in depth. Buildings and sky mostly black. Her face is lit only weakly by an ordinary warm streetlamp above, subtle low face detail, not neon portrait lighting. Red and white trails stay on ROAD plane, no light painting on person, no blur on face. Real urban scene with clean spatial relationships and room for subtle camera move. No lettering.
+
+分镜 1 · 交代车流路径〔原工具分镜指令〕
+景别：广角全景
+动作：镜头固定，车流沿原有道路前进并留下红白光迹。
+连续性：建筑与路灯保持原位置；只有移动光源形成光迹。
+
+分镜 2 · 看两股光分开〔原工具分镜指令〕
+景别：中景
+动作：截取一段双向道路，红白光迹沿各自方向连续推进。
+连续性：不随机改变道路方向，不让红白光在无交叉处穿越。
+
+分镜 3 · 看近处的反射〔原工具分镜指令〕
+景别：局部近景
+动作：镜头固定，经过的车灯让路面反射先亮后暗。
+连续性：反射跟随经过的光源，固定建筑边缘不拖成光线。
+
+常见失败点〔原工具使用提醒〕
+• 这是时间效果和实景灯组合；建筑不应和车灯一起拉成长丝。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。镜头固定，人物轻轻呼吸、头部基本不动；远处车流沿原有道路前进，红白亮迹持续延伸。近旁暖路灯持续照亮头发边缘、部分脸部与栏杆，强度保持参考图水平；双向车灯分别沿各自车道推进，远处建筑和天空仍较暗。静止的楼与栏杆保持清楚，只有移动灯光形成拖影。车灯轨迹跟随车辆与道路，不穿过人物或实体；单一连续镜头，保留暖路灯与红白车流的光色差异。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：4秒；分辨率：480P
+检查目标：近旁暖路灯持续照亮头发边缘、部分脸部与栏杆，强度保持参考图水平；双向车灯分别沿各自车道推进，远处建筑和天空仍较暗。静止的楼与栏杆保持清楚，只有移动灯光形成拖影。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Koyaanisqatsi https://www.criterion.com/films/28034-koyaanisqatsi
+The Qatsi Trilogy: Celebration and Warning https://www.criterion.com/current/posts/2592-the-qatsi-trilogy-celebration-and-warning
+
+47 · 灯串深处 · 暖亮点包住暗人
+近旁实景暖光
+剧情 / 爱情中的亲密渴望 / 尴尬情境
+
+电影与场景参考〔整理说明〕
+大开眼戒（1999）；导演：斯坦利·库布里克；摄影：拉里·史密斯。
+参考场景：齐格勒圣诞派对：比尔与爱丽丝身后的密集暖灯串。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+剧情 / 爱情中的亲密渴望 / 尴尬情境
+情绪：亲密渴望、尴尬、渴望、浪漫
+空间：聚会、室内、舞厅
+类型：剧情、爱情、悬疑
+
+光向与光质〔整理说明〕
+方向：近旁实景暖光
+光质：灯串 / 多层光点
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：附近暖实景灯为人物提供少量暖照明。
+补光：脸上保留自然暗侧；需要时仅补相同方向的柔弱暖光。
+背景：大量固定小灯按不同距离排列，形成层层亮点与轻微光晕。
+
+生图光影段〔原工具功能提示词〕
+大量固定的细小暖灯分布在背景不同距离，形成层层亮点与轻微柔光溢散；人物只被附近暖灯少量照亮，脸保留自然暗侧，光点亮而不连成白墙，远处可有极少冷色层次。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物轻轻转头，镜头小幅移动形成灯串视差；灯泡数量、位置和亮度稳定，光点不随机飞散。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。大量固定的细小暖灯分布在背景不同距离，形成层层亮点与轻微柔光溢散；人物只被附近暖灯少量照亮，脸保留自然暗侧，光点亮而不连成白墙，远处可有极少冷色层次。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: a quiet dim room at night with a small indoor evergreen tree and a few delicate warm-white DECORATIVE STRING LIGHTS. Anonymous adult woman in a simple opaque dark sweater, medium-close portrait beside the tree, looking gently aside. Nearby string lights form distinct little warm highlights and provide a weak soft WARM light on her near cheek and eyes, shadow cheek remains dark. A faint cool blue doorway far in the background supplies only a small spatial contrast. Show actual strands and some needles, not a wall of giant bokeh discs. Natural face texture, calm mood, no mask, no party crowd, no words.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 散点灯光应固定在空间，不能随机增殖或跟着镜头飘走。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物轻轻向近侧灯串转头约25度，镜头小幅向右横移，前景树枝灯串相对人物和远处空间产生视差。大量细小暖灯仍依附近侧树枝，照亮相邻脸侧；另一侧脸保留自然暗部，远处灯点和少量冷色留在原有空间层次。灯泡数量、连接位置和光色连续。光点不离开树枝飘动，不把前景灯串挪成整面背景灯墙；单一连续镜头，曝光和灯泡亮度稳定。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：大量细小暖灯仍依附近侧树枝，照亮相邻脸侧；另一侧脸保留自然暗部，远处灯点和少量冷色留在原有空间层次。灯泡数量、连接位置和光色连续。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Behind the Filming of Eyes Wide Shut https://theasc.com/article/a-sword-in-the-bed-eyes-wide-shut/
+Eyes Wide Shut — FILMGRAB 成片帧图库 https://film-grab.com/2010/07/11/eyes-wide-shut/
+
+48 · 白光一击 · 突然照见所有表情
+远处正面强光
+传记 / 历史中的敬畏 / 恐惧情境
+
+电影与场景参考〔整理说明〕
+奥本海默（2023）；导演：克里斯托弗·诺兰；摄影：霍伊特·范·霍伊特玛。
+参考场景：三位一体试验观察点：强光照亮佩戴护目镜的观察者。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+传记 / 历史中的敬畏 / 恐惧情境
+情绪：敬畏、恐惧、惊骇、惊讶
+空间：观察室、户外、夜景
+类型：传记、历史、剧情
+
+光向与光质〔整理说明〕
+方向：远处正面强光
+光质：单次白闪 / 短暂高曝光
+难度：进阶
+
+主光、补光、背景〔原工具布光参数〕
+主光：远处正前方来一次强中性白光，快速照亮面部与近处表面。
+补光：不另加彩色补光；高光接近过曝，但轮廓仍可辨认。
+背景：背后较暗，投影方向统一；白光随后减弱，不连续频闪。
+
+生图光影段〔原工具功能提示词〕
+从远处正前方骤然到来的一次强中性白光，瞬间照亮面部与近处表面，亮处接近过曝但轮廓可辨；背后仍暗，投影方向统一，随后白光平缓减弱，不叠加彩色灯。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物先停住再微微眯眼，强白光只出现一次并平缓降低，机位固定，不产生反复频闪。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。从远处正前方骤然到来的一次强中性白光，瞬间照亮面部与近处表面，亮处接近过曝但轮廓可辨；背后仍暗，投影方向统一，随后白光平缓减弱，不叠加彩色灯。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: dark empty outdoor field before dawn, medium-close portrait of an anonymous adult woman in a plain charcoal jacket. A sudden extremely powerful NEUTRAL WHITE light from FAR AWAY directly in FRONT of her has just switched on: her front face, eyes, nose and shoulder fronts are intensely illuminated, hard-ish shape and a bright catchlight, while the entire background behind her remains almost black. She looks toward the source with slightly widened eyes, no burns or injury. Preserve face texture in bright highlights, limited exposure bloom; this is a light demonstration, NOT an explosion picture. No fireball, no mushroom cloud, no goggles or recognizable historic costume.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 只安排一次强光变化，避免连续频闪；这是角色反应练习，不生成爆炸过程。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+所附参考图用于确认人物外观、衣服、场景，以及强白光照亮面部时的峰值状态。生成一段连续镜头。人物起初在较暗环境中静立，轻微转头后随白光增强而眯眼；镜头一直向右轻缓横移。片段前段白光较弱，中段来自场景前方的中性白光快速增强一次，达到参考图的脸部亮度；随后平缓减弱。峰值仍保留五官轮廓和深暗背景，投影方向连续，光源始终在同一空间方位。相机曝光设置保持固定，画面亮度随这一次光源强弱变化；全段只有一次亮度脉冲，无重复频闪、切镜或彩色光变化。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：3秒；分辨率：480P
+检查目标：片段前段白光较弱，中段来自场景前方的中性白光快速增强一次，达到参考图的脸部亮度；随后平缓减弱。峰值仍保留五官轮廓和深暗背景，投影方向连续，光源始终在同一空间方位。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Oppenheimer — FILMGRAB 成片帧图库 https://film-grab.com/2023/12/06/oppenheimer/
+
+49 · 火边相望 · 让暖光只到眼前
+低侧火光
+爱情 / 剧情中的爱慕 / 浪漫情境
+
+电影与场景参考〔整理说明〕
+燃烧女子的肖像（2019）；导演：瑟琳·席安玛；摄影：克莱尔·马松。
+参考场景：夜间篝火相望段落：埃洛伊兹身边的火光。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+爱情 / 剧情中的爱慕 / 浪漫情境
+情绪：爱慕、浪漫、亲密渴望、渴望
+空间：户外、夜景、火边
+类型：爱情、剧情、历史
+
+光向与光质〔整理说明〕
+方向：低侧火光
+光质：橙暖火光 / 冷暗背景
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：较低侧方的橙暖火光照亮脸颊与手，光面宽而不均匀。
+补光：暗侧保留冷暗；火光只有轻微不规则起伏。
+背景：近暖远暗，亮度随距离下降；火焰保持在人物衣服之外的画外位置。
+
+生图光影段〔原工具功能提示词〕
+较低侧方宽而不均匀的橙暖火光照亮脸颊与手，暗侧和远处保持冷暗，近处暖光随距离明显衰减；高光轻微起伏，肤色可辨，不把火焰画到人物衣服上。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物轻轻抬眼看向画外，火光缓慢小幅波动，光源始终在低侧方；镜头稳定，人物与环境不着火。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。较低侧方宽而不均匀的橙暖火光照亮脸颊与手，暗侧和远处保持冷暗，近处暖光随距离明显衰减；高光轻微起伏，肤色可辨，不把火焰画到人物衣服上。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: quiet rocky coastline outdoors at night. One anonymous adult woman in a simple opaque dark green wool coat, medium-close portrait including one relaxed hand near chest. A large CAMPFIRE outside frame low on one SIDE is the only strong source: very warm amber-orange flickering firelight comes from BELOW-SIDE, strongly lighting the underside of chin, one cheek, fingers and coat fibers. The opposite side of her face remains deeply shadowed. Behind her, cool almost black night and a barely visible sea horizon. No flame on clothes, no burning person, no fire visible in frame, no historic film dress or famous face. Correct hand anatomy, natural skin detail, keep the bright-side/dark-side sculptural division.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 原片画面中的裙摆火焰不属于可复用的打光要求，提示词明确保留画外安全火光。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物轻轻抬眼看向画外，火光缓慢小幅波动，光源始终在低侧方；镜头向右轻缓横移，人物与环境不着火。较低侧方宽而不均匀的橙暖火光照亮脸颊与手，暗侧和远处保持冷暗，近处暖光随距离明显衰减；高光轻微起伏，肤色可辨，不把火焰画到人物衣服上。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：较低侧方宽而不均匀的橙暖火光照亮脸颊与手，暗侧和远处保持冷暗，近处暖光随距离明显衰减；高光轻微起伏，肤色可辨，不把火焰画到人物衣服上。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+Portrait of a Lady on Fire — FILMGRAB 成片帧图库 https://film-grab.com/2021/04/23/portrait-of-a-lady-on-fire/
+
+50 · 镜框实景灯 · 冷白竖光切出目光
+前侧竖长光源
+剧情 / 惊悚中的审美欣赏 / 钦佩情境
+
+电影与场景参考〔整理说明〕
+霓虹恶魔（2016）；导演：尼古拉斯·温丁·雷弗恩；摄影：娜塔莎·布雷尔。
+参考场景：同片后台化妆间：两位人物与冷白镜框灯，环境其余部分偏暗。。
+这是对光影关系的学习与改编，不是原片逐灯位施工记录。
+
+适用场景与检索〔整理说明〕
+剧情 / 惊悚中的审美欣赏 / 钦佩情境
+情绪：审美欣赏、钦佩、焦虑、厌恶
+空间：化妆间、影棚、室内
+类型：剧情、惊悚
+
+光向与光质〔整理说明〕
+方向：前侧竖长光源
+光质：镜框冷白灯 / 狭长眼神光
+难度：容易
+
+主光、补光、背景〔原工具布光参数〕
+主光：正前两侧固定竖长冷白镜灯照亮脸，在眼中留下狭长反光。
+补光：鼻影较轻，保留自然立体感与干净皮肤高光。
+背景：镜后与远处较暗，肩边有细亮线；不变成通体白背景。
+
+生图光影段〔原工具功能提示词〕
+正前两侧固定的竖长冷白光源照亮面部，在眼中留下狭长反光；鼻影轻微，皮肤高光干净，肩部边缘细亮，镜后与远处保持较暗，避免均匀白背景。
+
+视频动作与灯光连续性〔原工具功能提示词〕
+人物轻轻抬眼和转头，竖长灯反射随角度移动但灯本身固定，不增加闪光、变色或新镜中人物。
+
+已有图片改光 · 原工具复制段〔原工具功能提示词〕
+保持原图的角色身份、表情、服装、构图与场景结构，只调整光线。正前两侧固定的竖长冷白光源照亮面部，在眼中留下狭长反光；鼻影轻微，皮肤高光干净，肩部边缘细亮，镜后与远处保持较暗，避免均匀白背景。
+
+纯效果生图 · 英文原词〔原工具功能提示词〕
+Use case: photorealistic-natural. Asset type: ORIGINAL cinematic lighting demonstration image, also a clean first frame for a short AI video. Create one landscape 16:9 single live-action cinematic image. Do not reproduce any movie still, actor likeness, iconic costume or set. Natural real-world materials and skin, correct anatomy and hands; no words, logos, watermark, borders or collage. Stage 1-3 anonymous ADULT people only, stable calm poses with physical space for subtle head turns or a slow camera move; medium or medium-close framing preferred so the key lighting on faces reads immediately. Keep intentional dark areas, do not flatten shadows with HDR. Separate the main light, shadow and background clearly. Scene: dim backstage dressing room with a large rectangular makeup mirror. Anonymous adult woman in a simple opaque charcoal high-neck blouse is shown in a close portrait facing the mirror, camera nearly at mirror plane so no confusing duplicate faces. Two vertical COOL WHITE luminous mirror-frame strips on either side FRONT of her face illuminate it symmetrically with a slight cyan cast. Each eye has two slim vertical rectangular catchlights. The background behind her is nearly dark, with delicate luminous edges on hair. Realistic natural skin pores, no beauty filter, no exposed body, no flash burst, no colored stage light, no words. Light strips visible as narrow blurred edges near left/right border, anatomically normal face and neck.
+
+分镜 1 · 交代光从哪里来〔原工具分镜指令〕
+景别：中景
+动作：人物停在受光边缘，目光转向主要亮处。
+连续性：把光源与场景的位置关系固定，背景亮点保持。
+
+分镜 2 · 看清脸上的变化〔原工具分镜指令〕
+景别：中近景
+动作：人物轻轻转头约二十度，镜头小幅横移。
+连续性：灯固定在空间，脸的阴影可随转向变化，不把光绑到相机。
+
+分镜 3 · 检验明暗的边界〔原工具分镜指令〕
+景别：侧面中景
+动作：人物只移动一小步，随后停住。
+连续性：距离或朝向变化才改变受光，曝光与场景结构保持稳定。
+
+常见失败点〔原工具使用提醒〕
+• 镜中反射须对应同一个人物；不要新增镜中人或把镜框灯误画成悬浮发光线。
+• 只复制本站纯光提示词并补上你自己的主体与场景；原片帧用于观察，原创 AI 示意也需要先重绘成你自己的首帧。
+
+实际示范所列视频输入〔原工具功能提示词〕
+单个连续镜头。使用所附图片作为主体外观、服装材质、场景结构和光线关系的参考，生成同一场景的一段连续动态镜头。人物轻轻抬眼和转头，竖长灯反射随角度移动但灯本身固定，不增加闪光、变色或新镜中人物。同时镜头向右小幅横移，形成背景视差。正前两侧固定的竖长冷白光源照亮面部，在眼中留下狭长反光；鼻影轻微，皮肤高光干净，肩部边缘细亮，镜后与远处保持较暗，避免均匀白背景。。曝光稳定，光源不跟着镜头移动。保持人物身份和空间结构，不切镜、不闪白。
+
+原工具所列测试设置〔来源范围〕
+模型：Wan 3.0；模式：全能参考；时长：2秒；分辨率：480P
+检查目标：正前两侧固定的竖长冷白光源照亮面部，在眼中留下狭长反光；鼻影轻微，皮肤高光干净，肩部边缘细亮，镜后与远处保持较暗，避免均匀白背景。
+这些是原工具记录，本站本轮只核对文本与来源，没有独立重跑生成或评定成功率。
+
+来源：
+灯光手册 Toy https://www.bilibili.com/toy/dengguangzu/index.html
+灯光教学视频 https://www.bilibili.com/video/BV1KUHK6nERp/
+The Neon Demon — FILMGRAB 成片帧图库 https://film-grab.com/2016/11/25/the-neon-demon/
+FilmGrab 原片截图 · neondemon-flash https://film-grab.com/2016/11/25/the-neon-demon/

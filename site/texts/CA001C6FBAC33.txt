@@ -1,0 +1,11 @@
+Use case: ads-marketing.
+Asset type: Tmall Luxury travel campaign hero, portrait 5:8.
+Primary request: Create one ultra-photorealistic premium campaign photograph for exactly one fictional unbranded compact carry-on suitcase in a cinematic airport setting.
+Product design: Show one upright cabin suitcase with a ribbed burnt-apricot anodized-aluminum shell, four rounded graphite corner guards, one black recessed telescoping handle extended to a believable height with two straight rails, one slim black top carry handle, a centered seam, and exactly four small double-spinner wheel housings touching the floor. Show no lock, label, sticker, letter, or logo.
+Scene/backdrop: Use a quiet modern airport departure concourse before sunrise, with a deep teal terrazzo floor, one curved wall of frosted glass glowing pale blue, restrained amber ceiling reflections, and no gates, signs, seats, or people.
+Composition/framing: Use a portrait 5:8 eye-level three-quarter hero view. Show the entire suitcase from handle grip to all four grounded wheels, with the front and one side readable. Place the suitcase in the lower central area and keep generous luminous negative space above.
+Lighting/mood: Use blue-hour ambient light, one warm amber rim along the apricot ribs, controlled aluminum reflections, an elegant travel-luxury mood, and no excessive bloom.
+Materials/textures: Render brushed anodized aluminum, matte rubber guards, satin handle rails, realistic spinner wheels, polished terrazzo, and frosted architectural glass.
+Product invariants: Preserve exactly one suitcase, one shell, four corner guards, one telescoping handle with two rails, one top handle, and four grounded wheel housings.
+Constraints: Keep straight vertical geometry and continuous structural connections; the suitcase stands securely, handle rails remain parallel, all wheels attach plausibly, and no component is cropped.
+Avoid: No person, hand, second suitcase, luggage cart, floating wheel, extra wheel, missing wheel, bent handle, warped shell, travel sticker, readable signage, text, brand, logo, trademark, watermark, collage, split screen, frame, or border.

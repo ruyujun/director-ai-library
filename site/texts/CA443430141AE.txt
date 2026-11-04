@@ -1,0 +1,11 @@
+Use case: product-mockup.
+Asset type: Wayfair premium lifestyle listing image, vertical 5:8.
+Primary request: Create one ultra-photorealistic high-end interior photograph featuring exactly one fictional unbranded arc floor lamp as the hero product.
+Product design: Use one low cylindrical pale-travertine base, one slender continuous smoked-chrome stem that rises and curves in a clean arc, and one shallow wide mushroom-dome shade in glossy burnt-caramel lacquer with a warm ivory inner reflector. Show no switch, cord, logo, or text.
+Scene/backdrop: Build a sophisticated dusk living room with matte aubergine plaster walls, one low cobalt-blue boucle lounge chair, one cream wool rug, one plain walnut side block, and a narrow blue-hour window view. Keep the set sparse and architectural.
+Composition/framing: Use a tall 5:8 composition and show the complete lamp from base to shade without cropping. Place the base in the lower-right third, sweep the arc upward across the frame, and hover the caramel shade above the cobalt chair. Make the lamp the largest and brightest design element while retaining clean negative wall space.
+Lighting/mood: Switch the lamp on and cast one physically believable warm pool of light across the chair and rug, balanced by cool blue-hour window ambience. Preserve rich shadow detail and a calm premium design-magazine mood.
+Materials/textures: Render porous pale travertine, smoked reflective chrome with controlled highlights, glossy caramel lacquer, tactile cobalt boucle, matte aubergine plaster, cream wool, and walnut grain with realistic photographic depth.
+Product invariants: Preserve exactly one base, one continuous arc stem, one dome shade, one ivory reflector, and clean structural connections.
+Constraints: Exactly one lamp, one chair, and one side block; keep the lamp stable, correctly scaled, and commercially readable; use only fictional unbranded design details.
+Avoid: No duplicate lamp, extra bulb, impossible floating shade, bent stem, severed joint, visible cord, fake flame, person, plant, book, wall art, clutter, readable text, brand, logo, trademark, watermark, cheap CGI, collage, split screen, frame, or border.

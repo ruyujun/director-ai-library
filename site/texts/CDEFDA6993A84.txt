@@ -1,0 +1,11 @@
+Use case: product-mockup.
+Asset type: Amazon Fashion footwear editorial listing image, portrait 4:5.
+Primary request: Create one ultra-photorealistic premium still-life photograph of exactly one matching pair of fictional unbranded technical trail-running shoes.
+Product design: Show two shoes in mineral-gray engineered mesh with pale-sage fused overlays, one continuous burnt-orange heel pull tab per shoe, charcoal round laces threaded through six paired eyelets per shoe, a sculpted warm-white foam midsole, and a dark graphite lugged rubber outsole. Show no logo, text, letter, or symbol.
+Scene/backdrop: Use a sculptural volcanic-stone set with one low black basalt slab, fine rust-colored mineral dust, and a distant soft sage gradient backdrop. Add no plants or outdoor landscape.
+Composition/framing: Use a portrait 4:5 low three-quarter product view. Place one shoe upright in front at a slight outward angle and the matching shoe behind it in a complementary side profile. Keep both complete shoes, both soles, both heel tabs, and all laces visible; let the products fill about 70% of the frame.
+Lighting/mood: Use precise warm sunrise edge light with cool soft fill, premium athletic-editorial contrast, believable contact shadows, and subtle airborne dust only in the far background.
+Materials/textures: Render woven mesh, bonded overlays, matte lace fibers, fine foam cells, deep rubber tread, porous basalt, and dry mineral powder.
+Product invariants: Preserve exactly two matching shoes with the same design and color, six paired eyelets and one heel tab per shoe, continuous sole construction, and natural neatly threaded laces.
+Constraints: Keep footwear geometry commercially plausible; openings, tongues, toe boxes, midsoles, and outsoles must connect correctly; no floating shoe or impossible lace path.
+Avoid: No foot, person, hand, sock, third shoe, missing shoe, duplicate tongue, extra lace, melted sole, distorted toe, mismatched pair, readable text, brand, logo, trademark, watermark, collage, split screen, frame, or border.

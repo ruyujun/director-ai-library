@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+ <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+ <title>导演影视元素知识库</title><meta name="description" content="提示词、高清参考、镜头知识与来源资料，在一个工作台里查找和使用。">
+ <meta name="color-scheme" content="dark light"><meta name="theme-color" content="#151a19">
+ <script src="workspace-theme.js?v=20261103c"></script>
+ <link rel="stylesheet" href="workspace.css?v=20261104-public1">
+ <script defer src="workspace-data.js?v=20261104-public1"></script><script defer src="workspace.js?v=20261104-public1"></script><script defer src="workspace-more.js?v=20261104-public1"></script>
+</head>
+<body>
+ <a class="skip" href="#main">跳到正文</a>
+ <aside class="sidebar" id="sidebar">
+  <a class="brand" href="#video-prompts"><span class="brand-mark">D／</span><span>导演影视元素<small>创作资料库</small></span></a>
+  <p class="nav-label">常用工作</p>
+  <nav aria-label="主导航" id="primary-nav">
+   <a href="#video-prompts" data-nav="video-prompts"><span class="nav-icon">影</span><span>视频提示词</span><small id="video-prompt-count"></small></a>
+   <a href="#image-prompts" data-nav="image-prompts"><span class="nav-icon">绘</span><span>图片提示词</span><small id="image-prompt-count"></small></a>
+   <a href="#images" data-nav="images"><span class="nav-icon">图</span><span>参考图片</span><small id="image-count"></small></a>
+   <a href="#dictionary" data-nav="dictionary"><span class="nav-icon">知</span><span>AI字典</span><small id="knowledge-count"></small></a>
+   <a href="#courses" data-nav="courses"><span class="nav-icon">课</span><span>课程笔记</span><small>39</small></a>
+   <a href="#sources" data-nav="sources"><span class="nav-icon">源</span><span>工具与来源</span></a>
+   <a href="#archive" data-nav="archive"><span class="nav-icon">档</span><span>历史档案</span></a>
+  </nav>
+  <div class="sidebar-separator"></div>
+  <a href="#favorites" class="favorite-nav" data-nav="favorites">我的收藏 <span id="favorite-count">0</span></a>
+  <div class="sidebar-bottom"><span class="live-dot"></span>公开资料 · 随时阅读<button class="text-button" id="show-order">查看常用排序依据</button></div>
+ </aside>
+ <div class="shade" id="nav-shade" hidden></div>
+ <div class="app">
+  <header class="topbar">
+   <button class="menu-button" id="nav-toggle" aria-label="打开导航" aria-expanded="false">☰</button>
+   <span class="location" id="location">提示词库</span>
+   <label class="global-search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6.5"></circle><path d="m15 15 5 5"></path></svg><input type="search" id="global-search" placeholder="搜索提示词、图片、知识与课程" aria-label="全库搜索"><kbd>/</kbd></label>
+   <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="true" aria-label="当前夜间配色，切换为白天配色" title="切换为白天配色"><svg class="theme-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.3 15.2A8.8 8.8 0 0 1 8.8 3.7a8.8 8.8 0 1 0 11.5 11.5Z"/></svg><svg class="theme-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.4 1.4m11.2 11.2L19 19M5 19l1.4-1.4M17.6 6.4 19 5"/></svg><span id="theme-label">夜间</span></button>
+   <div class="record-actions"><button id="export-state" class="text-button">导出记录</button><button id="import-state" class="text-button">导入</button><input type="file" id="import-file" accept=".json,application/json" hidden></div>
+  </header>
+  <main id="main" tabindex="-1"></main>
+  <footer class="footer"><span>先看清关系，再决定怎样表达。</span><span id="storage-status">收藏与排序保存在本机</span></footer>
+ </div>
+ <dialog id="image-dialog"><div class="dialog-heading"><strong id="image-label"></strong><button data-close="image-dialog" aria-label="关闭图片">关闭 ×</button></div><img id="image-full" alt=""><p id="image-info"></p><a id="image-original" target="_blank" class="text-link">打开原始图片 ↗</a></dialog>
+ <dialog id="copy-dialog"><h2>复制完整正文</h2><p>请全选下方文字后复制。</p><textarea readonly aria-label="待复制的完整正文"></textarea><button data-close="copy-dialog">完成</button></dialog>
+ <dialog id="order-dialog"><h2>常用顺序</h2><p>按你的提示词采集、修仙场景与角色参考、自然人物视频制作任务安排；没有把初始排序当成真实点击统计。</p><p>视频提示词、图片提示词和参考图片在前，随后是AI字典、课程和来源。字典先放运镜、景别、构图与灯光，进阶镜头配方、音乐和基础长课靠后。</p><p>原资料编号与正文保留；左侧目录显示的是新的阅读顺序。</p><button data-close="order-dialog">知道了</button></dialog>
+ <div id="toast" role="status" aria-live="polite"></div>
+ <noscript>请启用JavaScript。请启用JavaScript以浏览提示词、参考图和AI字典。</noscript>
+</body></html>

@@ -1,0 +1,4814 @@
+AI视频镜头手册
+
+L001 · 窗边温柔
+爱情亲密
+自然肤色与温和焦点过渡。
+
+为什么选它〔整理说明〕
+自然肤色与温和焦点过渡。
+
+观察重点〔整理说明〕
+看两人肤色。
+场景检查：肤色、灯光过渡、散景。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 50 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；胶片采集观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。两位成年人在窗边相对站立，一人轻把手放在对方肩上，末秒停住。机位高1.5米，距两人中心3米，水平固定。左侧窗光，远处两盏暖灯。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：50mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《卡罗尔》（2015）；导演：Todd Haynes；摄影：Ed Lachman
+416拍摄Super16。日外主要Speed Panchro，内景S4；用过四种VISION3负片。
+Ektachrome仅为外观参考；不能指定每场片基。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L002 · 复古相望
+爱情亲密
+用较低反差倾向托住情绪。
+
+为什么选它〔整理说明〕
+用较低反差倾向托住情绪。
+
+观察重点〔整理说明〕
+看灯光层次。
+场景检查：肤色、灯光过渡、散景。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke Panchro/i Classic S35；1× 球面；复古镀膜倾向；65mm为微距款。
+[焦距] 50 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 200T 5213；胶片采集观感；模拟Kodak VISION3 200T 5213，钨丝灯平衡、细颗粒，保留灯光原有色差。
+[固定场景] 4秒单镜头。两位成年人在窗边相对站立，一人轻把手放在对方肩上，末秒停住。机位高1.5米，距两人中心3米，水平固定。左侧窗光，远处两盏暖灯。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke Panchro/i Classic S35；卡口：PL；变形倍率：1×
+焦距：50mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 200T 5213
+
+相关影片与适用边界〔影片资料记录〕
+《卡罗尔》（2015）；导演：Todd Haynes；摄影：Ed Lachman
+416拍摄Super16。日外主要Speed Panchro，内景S4；用过四种VISION3负片。
+Ektachrome仅为外观参考；不能指定每场片基。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Panchro Classic S35 规格 https://cookeoptics.com/wp-content/uploads/2022/10/COOKE_Panchro-i-Classic-S35_Specification_030623.pdf
+Panchro 光学设计 https://cookeoptics.com/news-and-events/recreating-the-panchro-look/
+VISION3 200T 技术表 https://www.kodak.com/content/pdfs/motion/KODAK-VISION3-200T-5213-7213-technical-information.pdf
+
+L003 · 银幕约会
+爱情亲密
+用变形镜头观察双人关系。
+
+为什么选它〔整理说明〕
+用变形镜头观察双人关系。
+
+观察重点〔整理说明〕
+看焦外形状。
+场景检查：肤色、灯光过渡、散景。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision C Series；2× 变形宽银幕；2×变形；与球面不是纯系列对比。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。两位成年人在窗边相对站立，一人轻把手放在对方肩上，末秒停住。机位高1.5米，距两人中心3米，水平固定。左侧窗光，远处两盏暖灯。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision C Series；卡口：PV；变形倍率：2×
+焦距：40mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《爱乐之城》（2016）；导演：Damien Chazelle；摄影：Linus Sandgren
+35mm主片用XL2与C系列，40mm较常用。日外250D，内景与夜景500T；两者均降冲一档。
+本库配方为取向启发；16mm小段片基资料存在冲突。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision C Series https://www.panavision.com/camera-and-optics/optics/product-detail/c-c-series
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L004 · 柔和亲近
+爱情亲密
+检验大画幅人像的过渡。
+
+为什么选它〔整理说明〕
+检验大画幅人像的过渡。
+
+观察重点〔整理说明〕
+看脸部边缘。
+场景检查：肤色、灯光过渡、散景。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 58 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；数字采集，模拟胶片观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。两位成年人在窗边相对站立，一人轻把手放在对方肩上，末秒停住。机位高1.5米，距两人中心3米，水平固定。左侧窗光，远处两盏暖灯。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：58mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 250D 5207
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+
+L005 · 清透双人
+爱情亲密
+让中性影像保留目光细节。
+
+为什么选它〔整理说明〕
+让中性影像保留目光细节。
+
+观察重点〔整理说明〕
+看中性色。
+场景检查：肤色、灯光过渡、散景。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA 35 · 4K 16:9裁切
+[镜头] ZEISS Supreme Prime；1× 球面；大画幅球面；关注焦内外过渡。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。两位成年人在窗边相对站立，一人轻把手放在对方肩上，末秒停住。机位高1.5米，距两人中心3米，水平固定。左侧窗光，远处两盏暖灯。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA 35 · 4K 16:9裁切；画幅：S35；介质：digital
+镜头：ZEISS Supreme Prime；卡口：PL；变形倍率：1×
+焦距：40mm；本例光圈：T4；场景机距：3m
+质感参考：中性数字
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+Supreme Prime 规格 https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-lenses.html
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+
+L006 · 贴身冲击
+动作张力
+较宽画角保留身体周围空间。
+
+为什么选它〔整理说明〕
+较宽画角保留身体周围空间。
+
+观察重点〔整理说明〕
+看四肢边缘。
+场景检查：运动轮廓、边缘、空间感。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA 35 · 4K 16:9裁切
+[镜头] ARRI/ZEISS Ultra Prime；1× 球面；S35球面；8mm为8R直线超广角。
+[焦距] 20 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。运动员横向跑三步，在指定落点急停，扬起少量灰尘，末秒站稳。机位高0.9米，距落点5米，水平固定。混凝土地面，右侧硬日光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA 35 · 4K 16:9裁切；画幅：S35；介质：digital
+镜头：ARRI/ZEISS Ultra Prime；卡口：PL；变形倍率：1×
+焦距：20mm；本例光圈：T4；场景机距：5m
+质感参考：中性数字
+
+相关影片与适用边界〔影片资料记录〕
+《荒野猎人》（2015）；导演：Alejandro G. Iñárritu；摄影：Emmanuel Lubezki
+数字拍摄：ALEXA XT/M搭Master Primes；部分段落ALEXA65搭Prime65；24mm只对应指定段落。
+不要将Master Prime配未裁切ALEXA65。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+Ultra Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses/arri-ultra-prime-lenses-technical-data
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+
+L007 · 利落打点
+动作张力
+观察急停动作的轮廓稳定。
+
+为什么选它〔整理说明〕
+观察急停动作的轮廓稳定。
+
+观察重点〔整理说明〕
+看灰尘细节。
+场景检查：运动轮廓、边缘、空间感。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA 35 · 4K 16:9裁切
+[镜头] ARRI/ZEISS Master Prime；1× 球面；S35球面；关注细节与边缘。
+[焦距] 32 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；数字采集，模拟胶片观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。运动员横向跑三步，在指定落点急停，扬起少量灰尘，末秒站稳。机位高0.9米，距落点5米，水平固定。混凝土地面，右侧硬日光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA 35 · 4K 16:9裁切；画幅：S35；介质：digital
+镜头：ARRI/ZEISS Master Prime；卡口：PL；变形倍率：1×
+焦距：32mm；本例光圈：T4；场景机距：5m
+质感参考：Kodak VISION3 250D 5207
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+Master Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes/arri-master-prime-technical-data
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L008 · 宽幅追逐
+动作张力
+变形宽幅与清楚动作并置。
+
+为什么选它〔整理说明〕
+变形宽幅与清楚动作并置。
+
+观察重点〔整理说明〕
+看动作完整。
+场景检查：运动轮廓、边缘、空间感。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision G Series；2× 变形宽银幕；2×变形；关注反差与耀斑控制。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。运动员横向跑三步，在指定落点急停，扬起少量灰尘，末秒站稳。机位高0.9米，距落点5米，水平固定。混凝土地面，右侧硬日光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision G Series；卡口：PV；变形倍率：2×
+焦距：40mm；本例光圈：T4；场景机距：5m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《007：无暇赴死》（2021）；导演：Cary Joji Fukunaga；摄影：Linus Sandgren
+35mm部分用XL2与G系列，40/75mm较常用；日外50D、较暗日景250D、夜景500T。
+另有65mm与IMAX系统；G系列不直接配IMAX。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision G Series https://www.panavision.com/camera-and-optics/optics/product-detail/g-g-series
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L009 · 连续身法
+动作张力
+让身体与环境同时参与动作。
+
+为什么选它〔整理说明〕
+让身体与环境同时参与动作。
+
+观察重点〔整理说明〕
+看背景层次。
+场景检查：运动轮廓、边缘、空间感。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。运动员横向跑三步，在指定落点急停，扬起少量灰尘，末秒站稳。机位高0.9米，距落点5米，水平固定。混凝土地面，右侧硬日光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：40mm；本例光圈：T4；场景机距：5m
+质感参考：中性数字
+
+相关影片与适用边界〔影片资料记录〕
+《1917》（2019）；导演：Sam Mendes；摄影：Roger Deakins
+ALEXA Mini LF搭Signature Prime。Deakins称约99%用40mm；另有35mm与47mm。
+数字摄影；连续运动还依赖调度与隐藏剪辑。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+
+L010 · 硬光胶片
+动作张力
+用细颗粒观感检验明暗边界。
+
+为什么选它〔整理说明〕
+用细颗粒观感检验明暗边界。
+
+观察重点〔整理说明〕
+看地面高光。
+场景检查：运动轮廓、边缘、空间感。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 25 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 50D 5203；胶片采集观感；模拟Kodak VISION3 50D 5203，日光色彩、细颗粒、柔和高光。
+[固定场景] 4秒单镜头。运动员横向跑三步，在指定落点急停，扬起少量灰尘，末秒站稳。机位高0.9米，距落点5米，水平固定。混凝土地面，右侧硬日光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：25mm；本例光圈：T4；场景机距：5m
+质感参考：Kodak VISION3 50D 5203
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+VISION3 50D 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_50D_5203_TI-2657_Technical-Data_EN.pdf
+
+L011 · 脚边压迫
+巨物尺度
+超广角检验近处参照物关系。
+
+为什么选它〔整理说明〕
+超广角检验近处参照物关系。
+
+观察重点〔整理说明〕
+看轿车比例。
+场景检查：大小关系、边缘、远近层次。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA 35 · 4K 16:9裁切
+[镜头] ARRI/ZEISS Ultra Prime；1× 球面；S35球面；8mm为8R直线超广角。
+[焦距] 12 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；数字采集，模拟胶片观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。30米高机甲在一辆静止轿车旁缓慢落下一只脚，末秒停住。机位高0.4米，距落脚点25米，固定仰角20度。阴天柔光，地面薄雾。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA 35 · 4K 16:9裁切；画幅：S35；介质：digital
+镜头：ARRI/ZEISS Ultra Prime；卡口：PL；变形倍率：1×
+焦距：12mm；本例光圈：T4；场景机距：25m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《不》（2022）；导演：Jordan Peele；摄影：Hoyte van Hoytema
+IMAX与System65混合；日拍夜用System65、红外ALEXA65与配对Sphero双机合成。
+深远夜景不是只加250D名称；双机需后期合成。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+Ultra Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses/arri-ultra-prime-lenses-technical-data
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L012 · 巨构显现
+巨物尺度
+宽画角展现机械与雾的层次。
+
+为什么选它〔整理说明〕
+宽画角展现机械与雾的层次。
+
+观察重点〔整理说明〕
+看机甲边缘。
+场景检查：大小关系、边缘、远近层次。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 18 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。30米高机甲在一辆静止轿车旁缓慢落下一只脚，末秒停住。机位高0.4米，距落脚点25米，固定仰角20度。阴天柔光，地面薄雾。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：18mm；本例光圈：T4；场景机距：25m
+质感参考：中性数字
+
+相关影片与适用边界〔影片资料记录〕
+《沙丘》（2021）；导演：Denis Villeneuve；摄影：Greig Fraser
+ALEXA LF/Mini LF搭Panavision H-Series球面与Ultra Vista 1.65×变形镜头。
+本库替代光学仅为尺度取向；不是原片器材复刻。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+
+L013 · 尺度对照
+巨物尺度
+借小车观察大物的空间位置。
+
+为什么选它〔整理说明〕
+借小车观察大物的空间位置。
+
+观察重点〔整理说明〕
+看远近关系。
+场景检查：大小关系、边缘、远近层次。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ZEISS Supreme Prime；1× 球面；大画幅球面；关注焦内外过渡。
+[焦距] 21 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；数字采集，模拟胶片观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。30米高机甲在一辆静止轿车旁缓慢落下一只脚，末秒停住。机位高0.4米，距落脚点25米，固定仰角20度。阴天柔光，地面薄雾。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ZEISS Supreme Prime；卡口：PL；变形倍率：1×
+焦距：21mm；本例光圈：T4；场景机距：25m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《奥本海默》（2023）；导演：Christopher Nolan；摄影：Hoyte van Hoytema
+IMAX与System65拍摄；定制大画幅光学，IMAX50/80mm。250D、500T及特制65mm Double-X。
+IMAX焦距不等于全幅视角；特制器材未收入组合。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Supreme Prime 规格 https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-lenses.html
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L014 · 银幕巨影
+巨物尺度
+用宽银幕观察落脚的重量感。
+
+为什么选它〔整理说明〕
+用宽银幕观察落脚的重量感。
+
+观察重点〔整理说明〕
+看落脚位置。
+场景检查：大小关系、边缘、远近层次。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision G Series；2× 变形宽银幕；2×变形；关注反差与耀斑控制。
+[焦距] 30 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。30米高机甲在一辆静止轿车旁缓慢落下一只脚，末秒停住。机位高0.4米，距落脚点25米，固定仰角20度。阴天柔光，地面薄雾。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision G Series；卡口：PV；变形倍率：2×
+焦距：30mm；本例光圈：T4；场景机距：25m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《不》（2022）；导演：Jordan Peele；摄影：Hoyte van Hoytema
+IMAX与System65混合；日拍夜用System65、红外ALEXA65与配对Sphero双机合成。
+深远夜景不是只加250D名称；双机需后期合成。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision G Series https://www.panavision.com/camera-and-optics/optics/product-detail/g-g-series
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L015 · 边缘张力
+巨物尺度
+强调近处线条与巨大结构。
+
+为什么选它〔整理说明〕
+强调近处线条与巨大结构。
+
+观察重点〔整理说明〕
+看直线弯曲。
+场景检查：大小关系、边缘、远近层次。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] ARRI/ZEISS Master Prime；1× 球面；S35球面；关注细节与边缘。
+[焦距] 14 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；胶片采集观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。30米高机甲在一辆静止轿车旁缓慢落下一只脚，末秒停住。机位高0.4米，距落脚点25米，固定仰角20度。阴天柔光，地面薄雾。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：ARRI/ZEISS Master Prime；卡口：PL；变形倍率：1×
+焦距：14mm；本例光圈：T4；场景机距：25m
+质感参考：Kodak VISION3 250D 5207
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Master Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes/arri-master-prime-technical-data
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L016 · 辽阔地平线
+大景史诗
+检验晴空与远山的细节分离。
+
+为什么选它〔整理说明〕
+检验晴空与远山的细节分离。
+
+观察重点〔整理说明〕
+看天空高光。
+场景检查：高光、远景细节、空气层次。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ZEISS Supreme Prime；1× 球面；大画幅球面；关注焦内外过渡。
+[焦距] 25 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 50D 5203；数字采集，模拟胶片观感；模拟Kodak VISION3 50D 5203，日光色彩、细颗粒、柔和高光。
+[固定场景] 4秒单镜头。徒步者站在山谷岩石上不动，外套被风吹起，远处河流缓慢流动。机位高1.6米，距人物8米，水平固定。左侧清晨日光，远山薄雾。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ZEISS Supreme Prime；卡口：PL；变形倍率：1×
+焦距：25mm；本例光圈：T4；场景机距：8m
+质感参考：Kodak VISION3 50D 5203
+
+相关影片与适用边界〔影片资料记录〕
+《沙丘》（2021）；导演：Denis Villeneuve；摄影：Greig Fraser
+ALEXA LF/Mini LF搭Panavision H-Series球面与Ultra Vista 1.65×变形镜头。
+本库替代光学仅为尺度取向；不是原片器材复刻。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Supreme Prime 规格 https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-lenses.html
+VISION3 50D 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_50D_5203_TI-2657_Technical-Data_EN.pdf
+
+L017 · 山谷呼吸
+大景史诗
+兼顾人物存在与空气层次。
+
+为什么选它〔整理说明〕
+兼顾人物存在与空气层次。
+
+观察重点〔整理说明〕
+看远山渐变。
+场景检查：高光、远景细节、空气层次。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 29 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；数字采集，模拟胶片观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。徒步者站在山谷岩石上不动，外套被风吹起，远处河流缓慢流动。机位高1.6米，距人物8米，水平固定。左侧清晨日光，远山薄雾。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：29mm；本例光圈：T4；场景机距：8m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《荒野猎人》（2015）；导演：Alejandro G. Iñárritu；摄影：Emmanuel Lubezki
+数字拍摄：ALEXA XT/M搭Master Primes；部分段落ALEXA65搭Prime65；24mm只对应指定段落。
+不要将Master Prime配未裁切ALEXA65。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+
+L018 · 胶片旷野
+大景史诗
+让日光负片观感服务开阔空间。
+
+为什么选它〔整理说明〕
+让日光负片观感服务开阔空间。
+
+观察重点〔整理说明〕
+看岩石纹理。
+场景检查：高光、远景细节、空气层次。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 18 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 50D 5203；胶片采集观感；模拟Kodak VISION3 50D 5203，日光色彩、细颗粒、柔和高光。
+[固定场景] 4秒单镜头。徒步者站在山谷岩石上不动，外套被风吹起，远处河流缓慢流动。机位高1.6米，距人物8米，水平固定。左侧清晨日光，远山薄雾。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：18mm；本例光圈：T4；场景机距：8m
+质感参考：Kodak VISION3 50D 5203
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+VISION3 50D 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_50D_5203_TI-2657_Technical-Data_EN.pdf
+
+L019 · 史诗宽幅
+大景史诗
+观察横向空间与尺度参照。
+
+为什么选它〔整理说明〕
+观察横向空间与尺度参照。
+
+观察重点〔整理说明〕
+看画面两端。
+场景检查：高光、远景细节、空气层次。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision G Series；2× 变形宽银幕；2×变形；关注反差与耀斑控制。
+[焦距] 35 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；胶片采集观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。徒步者站在山谷岩石上不动，外套被风吹起，远处河流缓慢流动。机位高1.6米，距人物8米，水平固定。左侧清晨日光，远山薄雾。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision G Series；卡口：PV；变形倍率：2×
+焦距：35mm；本例光圈：T4；场景机距：8m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《敦刻尔克》（2017）；导演：Christopher Nolan；摄影：Hoyte van Hoytema
+IMAX与Panaflex65SPFX，全片球面；IMAX定制50/80mm，250D主用，500T拍夜景。
+访谈未精确标量产镜头系列；本库仅借鉴尺度。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision G Series https://www.panavision.com/camera-and-optics/optics/product-detail/g-g-series
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L020 · 鲜彩远行
+大景史诗
+以反转片观感检验风景色彩。
+
+为什么选它〔整理说明〕
+以反转片观感检验风景色彩。
+
+观察重点〔整理说明〕
+看色彩溢出。
+场景检查：高光、远景细节、空气层次。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ZEISS Supreme Prime；1× 球面；大画幅球面；关注焦内外过渡。
+[焦距] 35 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak EKTACHROME 100D 5294；数字采集，模拟胶片观感；模拟Kodak EKTACHROME 100D 5294彩色反转片，鲜明色彩、细颗粒和较密实暗部。
+[固定场景] 4秒单镜头。徒步者站在山谷岩石上不动，外套被风吹起，远处河流缓慢流动。机位高1.6米，距人物8米，水平固定。左侧清晨日光，远山薄雾。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ZEISS Supreme Prime；卡口：PL；变形倍率：1×
+焦距：35mm；本例光圈：T4；场景机距：8m
+质感参考：Kodak EKTACHROME 100D 5294
+
+相关影片与适用边界〔影片资料记录〕
+《可怜的东西》（2023）；导演：Yorgos Lanthimos；摄影：Robbie Ryan
+ARRICAM LT/ST搭多种变焦、4mm Optex和58/85mm Petzval；5222、5294与5219分段使用。
+不能把任一镜头与全部片基交叉称为原片配方。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Supreme Prime 规格 https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-lenses.html
+EKTACHROME 产品资料 https://www.kodak.com/en/company/press-release/ektachrome-film-begins-shipping/
+可怜的东西｜Ryan访谈 https://www.kodak.com/en/motion/blog-post/poor-things/
+
+L021 · 霓虹情书
+雨夜霓虹
+把彩色光源交给变形镜头。
+
+为什么选它〔整理说明〕
+把彩色光源交给变形镜头。
+
+观察重点〔整理说明〕
+看耀斑抢戏。
+场景检查：肤色、彩色高光、暗部。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision C Series；2× 变形宽银幕；2×变形；与球面不是纯系列对比。
+[焦距] 50 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。成年人撑伞站在雨后街边，缓慢抬起下巴，后2秒停住。机位高1.5米，距人物3米，水平固定。左红招牌、右青店灯，湿路反光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision C Series；卡口：PV；变形倍率：2×
+焦距：50mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《爱乐之城》（2016）；导演：Damien Chazelle；摄影：Linus Sandgren
+35mm主片用XL2与C系列，40mm较常用。日外250D，内景与夜景500T；两者均降冲一档。
+本库配方为取向启发；16mm小段片基资料存在冲突。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision C Series https://www.panavision.com/camera-and-optics/optics/product-detail/c-c-series
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L022 · 利落夜街
+雨夜霓虹
+观察较收敛的宽银幕夜景。
+
+为什么选它〔整理说明〕
+观察较收敛的宽银幕夜景。
+
+观察重点〔整理说明〕
+看暗部轮廓。
+场景检查：肤色、彩色高光、暗部。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision G Series；2× 变形宽银幕；2×变形；关注反差与耀斑控制。
+[焦距] 50 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。成年人撑伞站在雨后街边，缓慢抬起下巴，后2秒停住。机位高1.5米，距人物3米，水平固定。左红招牌、右青店灯，湿路反光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision G Series；卡口：PV；变形倍率：2×
+焦距：50mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《007：无暇赴死》（2021）；导演：Cary Joji Fukunaga；摄影：Linus Sandgren
+35mm部分用XL2与G系列，40/75mm较常用；日外50D、较暗日景250D、夜景500T。
+另有65mm与IMAX系统；G系列不直接配IMAX。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision G Series https://www.panavision.com/camera-and-optics/optics/product-detail/g-g-series
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L023 · 雨中目光
+雨夜霓虹
+检验红青混光下的肤色。
+
+为什么选它〔整理说明〕
+检验红青混光下的肤色。
+
+观察重点〔整理说明〕
+看脸部色偏。
+场景检查：肤色、彩色高光、暗部。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 47 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；数字采集，模拟胶片观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。成年人撑伞站在雨后街边，缓慢抬起下巴，后2秒停住。机位高1.5米，距人物3米，水平固定。左红招牌、右青店灯，湿路反光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：47mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 500T 5219
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+
+L024 · 暗巷纪实
+雨夜霓虹
+用S35视角观察真实街头关系。
+
+为什么选它〔整理说明〕
+用S35视角观察真实街头关系。
+
+观察重点〔整理说明〕
+看暗部颗粒。
+场景检查：肤色、彩色高光、暗部。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 2.8K S35 16:9
+[镜头] ARRI/ZEISS Master Prime；1× 球面；S35球面；关注细节与边缘。
+[焦距] 35 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；数字采集，模拟胶片观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。成年人撑伞站在雨后街边，缓慢抬起下巴，后2秒停住。机位高1.5米，距人物3米，水平固定。左红招牌、右青店灯，湿路反光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 2.8K S35 16:9；画幅：S35；介质：digital
+镜头：ARRI/ZEISS Master Prime；卡口：PL；变形倍率：1×
+焦距：35mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 500T 5219
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Master Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes/arri-master-prime-technical-data
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L025 · 黑白雨痕
+雨夜霓虹
+移除色彩后观察反光层次。
+
+为什么选它〔整理说明〕
+移除色彩后观察反光层次。
+
+观察重点〔整理说明〕
+看灰阶断层。
+场景检查：肤色、彩色高光、暗部。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke Panchro/i Classic S35；1× 球面；复古镀膜倾向；65mm为微距款。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Eastman Double-X 5222；胶片采集观感；模拟Eastman Double-X 5222黑白负片，丰富灰阶与可见颗粒，保持原有光照方向。
+[固定场景] 4秒单镜头。成年人撑伞站在雨后街边，缓慢抬起下巴，后2秒停住。机位高1.5米，距人物3米，水平固定。左红招牌、右青店灯，湿路反光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke Panchro/i Classic S35；卡口：PL；变形倍率：1×
+焦距：40mm；本例光圈：T4；场景机距：3m
+质感参考：Eastman Double-X 5222
+
+相关影片与适用边界〔影片资料记录〕
+《灯塔》（2019）；导演：Robert Eggers；摄影：Jarin Blaschke
+XL2、Baltar与Petzval、35mm Double-X 5222，1.19:1；另加定制光谱滤镜。
+5222是全色片；原片灰度响应不只来自胶片。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Panchro Classic S35 规格 https://cookeoptics.com/wp-content/uploads/2022/10/COOKE_Panchro-i-Classic-S35_Specification_030623.pdf
+Panchro 光学设计 https://cookeoptics.com/news-and-events/recreating-the-panchro-look/
+Double-X 技术表 https://www.kodak.com/content/products-brochures/Film/DOUBLEX-Technical-Data-EN.pdf
+
+L026 · 走廊压迫
+悬疑压迫
+宽画角强化门与人的距离。
+
+为什么选它〔整理说明〕
+宽画角强化门与人的距离。
+
+观察重点〔整理说明〕
+看边缘变形。
+场景检查：阴影细节、边缘、空间张力。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA 35 · 4K 16:9裁切
+[镜头] ARRI/ZEISS Ultra Prime；1× 球面；S35球面；8mm为8R直线超广角。
+[焦距] 14 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。成年人站在旧走廊中心，1秒后转头看向右侧半开门，末秒停住。机位高1.5米，距人物4米，水平固定。头顶一盏白灯，远端红灯。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA 35 · 4K 16:9裁切；画幅：S35；介质：digital
+镜头：ARRI/ZEISS Ultra Prime；卡口：PL；变形倍率：1×
+焦距：14mm；本例光圈：T4；场景机距：4m
+质感参考：中性数字
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+Ultra Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses/arri-ultra-prime-lenses-technical-data
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+
+L027 · 中心窥视
+悬疑压迫
+复古光学倾向承接幽暗空间。
+
+为什么选它〔整理说明〕
+复古光学倾向承接幽暗空间。
+
+观察重点〔整理说明〕
+看中心焦点。
+场景检查：阴影细节、边缘、空间张力。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke Panchro/i Classic S35；1× 球面；复古镀膜倾向；65mm为微距款。
+[焦距] 32 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。成年人站在旧走廊中心，1秒后转头看向右侧半开门，末秒停住。机位高1.5米，距人物4米，水平固定。头顶一盏白灯，远端红灯。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke Panchro/i Classic S35；卡口：PL；变形倍率：1×
+焦距：32mm；本例光圈：T4；场景机距：4m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《可怜的东西》（2023）；导演：Yorgos Lanthimos；摄影：Robbie Ryan
+ARRICAM LT/ST搭多种变焦、4mm Optex和58/85mm Petzval；5222、5294与5219分段使用。
+不能把任一镜头与全部片基交叉称为原片配方。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Panchro Classic S35 规格 https://cookeoptics.com/wp-content/uploads/2022/10/COOKE_Panchro-i-Classic-S35_Specification_030623.pdf
+Panchro 光学设计 https://cookeoptics.com/news-and-events/recreating-the-panchro-look/
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L028 · 冷静留白
+悬疑压迫
+用清晰空白等待人物转头。
+
+为什么选它〔整理说明〕
+用清晰空白等待人物转头。
+
+观察重点〔整理说明〕
+看空处层次。
+场景检查：阴影细节、边缘、空间张力。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ZEISS Supreme Prime；1× 球面；大画幅球面；关注焦内外过渡。
+[焦距] 35 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。成年人站在旧走廊中心，1秒后转头看向右侧半开门，末秒停住。机位高1.5米，距人物4米，水平固定。头顶一盏白灯，远端红灯。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ZEISS Supreme Prime；卡口：PL；变形倍率：1×
+焦距：35mm；本例光圈：T4；场景机距：4m
+质感参考：中性数字
+
+相关影片与适用边界〔影片资料记录〕
+《沙丘》（2021）；导演：Denis Villeneuve；摄影：Greig Fraser
+ALEXA LF/Mini LF搭Panavision H-Series球面与Ultra Vista 1.65×变形镜头。
+本库替代光学仅为尺度取向；不是原片器材复刻。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Supreme Prime 规格 https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-lenses.html
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+
+L029 · 阴影悬念
+悬疑压迫
+较紧取景观察门后的光线。
+
+为什么选它〔整理说明〕
+较紧取景观察门后的光线。
+
+观察重点〔整理说明〕
+看门边高光。
+场景检查：阴影细节、边缘、空间张力。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision C Series；2× 变形宽银幕；2×变形；与球面不是纯系列对比。
+[焦距] 60 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。成年人站在旧走廊中心，1秒后转头看向右侧半开门，末秒停住。机位高1.5米，距人物4米，水平固定。头顶一盏白灯，远端红灯。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision C Series；卡口：PV；变形倍率：2×
+焦距：60mm；本例光圈：T4；场景机距：4m
+质感参考：Kodak VISION3 500T 5219
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision C Series https://www.panavision.com/camera-and-optics/optics/product-detail/c-c-series
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L030 · 黑白孤立
+悬疑压迫
+通过灰阶与裁取集中人物。
+
+为什么选它〔整理说明〕
+通过灰阶与裁取集中人物。
+
+观察重点〔整理说明〕
+看脸与墙。
+场景检查：阴影细节、边缘、空间张力。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 50 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Eastman Double-X 5222；胶片采集观感；模拟Eastman Double-X 5222黑白负片，丰富灰阶与可见颗粒，保持原有光照方向。
+[固定场景] 4秒单镜头。成年人站在旧走廊中心，1秒后转头看向右侧半开门，末秒停住。机位高1.5米，距人物4米，水平固定。头顶一盏白灯，远端红灯。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：50mm；本例光圈：T4；场景机距：4m
+质感参考：Eastman Double-X 5222
+
+相关影片与适用边界〔影片资料记录〕
+《灯塔》（2019）；导演：Robert Eggers；摄影：Jarin Blaschke
+XL2、Baltar与Petzval、35mm Double-X 5222，1.19:1；另加定制光谱滤镜。
+5222是全色片；原片灰度响应不只来自胶片。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+Double-X 技术表 https://www.kodak.com/content/products-brochures/Film/DOUBLEX-Technical-Data-EN.pdf
+
+L031 · 温柔轮廓
+人像情绪
+较紧画角检验肤色与轮廓。
+
+为什么选它〔整理说明〕
+较紧画角检验肤色与轮廓。
+
+观察重点〔整理说明〕
+看肤质层次。
+场景检查：皮肤、眼睛、焦点过渡。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 75 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 200T 5213；胶片采集观感；模拟Kodak VISION3 200T 5213，钨丝灯平衡、细颗粒，保留灯光原有色差。
+[固定场景] 4秒单镜头。成年人站定，从看向画外缓慢转眼直视镜头，眨眼一次。机位高1.6米，距人物2米，水平固定。左侧大柔光，灰墙前有远处暖灯。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：75mm；本例光圈：T4；场景机距：2m
+质感参考：Kodak VISION3 200T 5213
+
+相关影片与适用边界〔影片资料记录〕
+《卡罗尔》（2015）；导演：Todd Haynes；摄影：Ed Lachman
+416拍摄Super16。日外主要Speed Panchro，内景S4；用过四种VISION3负片。
+Ektachrome仅为外观参考；不能指定每场片基。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+VISION3 200T 技术表 https://www.kodak.com/content/pdfs/motion/KODAK-VISION3-200T-5213-7213-technical-information.pdf
+
+L032 · 大画幅神情
+人像情绪
+细看眼睛与面部过渡关系。
+
+为什么选它〔整理说明〕
+细看眼睛与面部过渡关系。
+
+观察重点〔整理说明〕
+看眼睛焦点。
+场景检查：皮肤、眼睛、焦点过渡。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 95 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。成年人站定，从看向画外缓慢转眼直视镜头，眨眼一次。机位高1.6米，距人物2米，水平固定。左侧大柔光，灰墙前有远处暖灯。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：95mm；本例光圈：T4；场景机距：2m
+质感参考：中性数字
+
+相关影片与适用边界〔影片资料记录〕
+《奥本海默》（2023）；导演：Christopher Nolan；摄影：Hoyte van Hoytema
+IMAX与System65拍摄；定制大画幅光学，IMAX50/80mm。250D、500T及特制65mm Double-X。
+IMAX焦距不等于全幅视角；特制器材未收入组合。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+
+L033 · 复古目光
+人像情绪
+比较复古镀膜与皮肤质感。
+
+为什么选它〔整理说明〕
+比较复古镀膜与皮肤质感。
+
+观察重点〔整理说明〕
+看高光扩散。
+场景检查：皮肤、眼睛、焦点过渡。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke Panchro/i Classic S35；1× 球面；复古镀膜倾向；65mm为微距款。
+[焦距] 75 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；胶片采集观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。成年人站定，从看向画外缓慢转眼直视镜头，眨眼一次。机位高1.6米，距人物2米，水平固定。左侧大柔光，灰墙前有远处暖灯。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke Panchro/i Classic S35；卡口：PL；变形倍率：1×
+焦距：75mm；本例光圈：T4；场景机距：2m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《卡罗尔》（2015）；导演：Todd Haynes；摄影：Ed Lachman
+416拍摄Super16。日外主要Speed Panchro，内景S4；用过四种VISION3负片。
+Ektachrome仅为外观参考；不能指定每场片基。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Panchro Classic S35 规格 https://cookeoptics.com/wp-content/uploads/2022/10/COOKE_Panchro-i-Classic-S35_Specification_030623.pdf
+Panchro 光学设计 https://cookeoptics.com/news-and-events/recreating-the-panchro-look/
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L034 · 干净肤色
+人像情绪
+以细颗粒观感观察中性色。
+
+为什么选它〔整理说明〕
+以细颗粒观感观察中性色。
+
+观察重点〔整理说明〕
+看皮肤色阶。
+场景检查：皮肤、眼睛、焦点过渡。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ZEISS Supreme Prime；1× 球面；大画幅球面；关注焦内外过渡。
+[焦距] 85 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 50D 5203；数字采集，模拟胶片观感；模拟Kodak VISION3 50D 5203，日光色彩、细颗粒、柔和高光。
+[固定场景] 4秒单镜头。成年人站定，从看向画外缓慢转眼直视镜头，眨眼一次。机位高1.6米，距人物2米，水平固定。左侧大柔光，灰墙前有远处暖灯。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ZEISS Supreme Prime；卡口：PL；变形倍率：1×
+焦距：85mm；本例光圈：T4；场景机距：2m
+质感参考：Kodak VISION3 50D 5203
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Supreme Prime 规格 https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-lenses.html
+VISION3 50D 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_50D_5203_TI-2657_Technical-Data_EN.pdf
+
+L035 · 银幕侧影
+人像情绪
+观察变形焦外与人物分离。
+
+为什么选它〔整理说明〕
+观察变形焦外与人物分离。
+
+观察重点〔整理说明〕
+看散景轮廓。
+场景检查：皮肤、眼睛、焦点过渡。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision C Series；2× 变形宽银幕；2×变形；与球面不是纯系列对比。
+[焦距] 75 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。成年人站定，从看向画外缓慢转眼直视镜头，眨眼一次。机位高1.6米，距人物2米，水平固定。左侧大柔光，灰墙前有远处暖灯。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision C Series；卡口：PV；变形倍率：2×
+焦距：75mm；本例光圈：T4；场景机距：2m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《爱乐之城》（2016）；导演：Damien Chazelle；摄影：Linus Sandgren
+35mm主片用XL2与C系列，40mm较常用。日外250D，内景与夜景500T；两者均降冲一档。
+本库配方为取向启发；16mm小段片基资料存在冲突。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision C Series https://www.panavision.com/camera-and-optics/optics/product-detail/c-c-series
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L036 · 自然厨房
+日常纪实
+以白杯和白墙建立日常基线。
+
+为什么选它〔整理说明〕
+以白杯和白墙建立日常基线。
+
+观察重点〔整理说明〕
+看白色是否偏。
+场景检查：中性色、材质、自然肤色。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA 35 · 4K 16:9裁切
+[镜头] ARRI/ZEISS Ultra Prime；1× 球面；S35球面；8mm为8R直线超广角。
+[焦距] 32 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。成年人在厨房拿起白杯，停在胸前，末秒保持。机位高1.4米，距人物3米，水平固定。左侧窗光，白墙、木桌与绿色盆栽不动。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA 35 · 4K 16:9裁切；画幅：S35；介质：digital
+镜头：ARRI/ZEISS Ultra Prime；卡口：PL；变形倍率：1×
+焦距：32mm；本例光圈：T4；场景机距：3m
+质感参考：中性数字
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+Ultra Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses/arri-ultra-prime-lenses-technical-data
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+
+L037 · 纪实颗粒
+日常纪实
+S16规格为颗粒测试提供参照。
+
+为什么选它〔整理说明〕
+S16规格为颗粒测试提供参照。
+
+观察重点〔整理说明〕
+看颗粒闪动。
+场景检查：中性色、材质、自然肤色。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 16 视觉画幅约定；固定同一有效成像区域并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRIFLEX 416 · Super16
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 25 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 7207；胶片采集观感；模拟Kodak VISION3 250D 7207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。成年人在厨房拿起白杯，停在胸前，末秒保持。机位高1.4米，距人物3米，水平固定。左侧窗光，白墙、木桌与绿色盆栽不动。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRIFLEX 416 · Super16；画幅：S16；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：25mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《月升王国》（2012）；导演：Wes Anderson；摄影：Robert Yeoman
+Aaton XTerà/A-Minima拍Super16，全片7213；Zeiss Super Speeds较常用12mm，另有Canon变焦。
+暖黄也来自美术与调色；本库S16镜头是替代方案。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L038 · 生活留白
+日常纪实
+将人物放在真实生活空间中。
+
+为什么选它〔整理说明〕
+将人物放在真实生活空间中。
+
+观察重点〔整理说明〕
+看背景过渡。
+场景检查：中性色、材质、自然肤色。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；数字采集，模拟胶片观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。成年人在厨房拿起白杯，停在胸前，末秒保持。机位高1.4米，距人物3米，水平固定。左侧窗光，白墙、木桌与绿色盆栽不动。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：40mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《1917》（2019）；导演：Sam Mendes；摄影：Roger Deakins
+ALEXA Mini LF搭Signature Prime。Deakins称约99%用40mm；另有35mm与47mm。
+数字摄影；连续运动还依赖调度与隐藏剪辑。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+
+L039 · 胶片家常
+日常纪实
+检验窗光与室内中性色关系。
+
+为什么选它〔整理说明〕
+检验窗光与室内中性色关系。
+
+观察重点〔整理说明〕
+看白杯色差。
+场景检查：中性色、材质、自然肤色。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 35 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 200T 5213；胶片采集观感；模拟Kodak VISION3 200T 5213，钨丝灯平衡、细颗粒，保留灯光原有色差。
+[固定场景] 4秒单镜头。成年人在厨房拿起白杯，停在胸前，末秒保持。机位高1.4米，距人物3米，水平固定。左侧窗光，白墙、木桌与绿色盆栽不动。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：35mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 200T 5213
+
+相关影片与适用边界〔影片资料记录〕
+《法兰西特派》（2021）；导演：Wes Anderson；摄影：Robert Yeoman
+ARRICAM ST/LT与Cooke S4；彩色5213、黑白5222，主要1.37:1；另有少量变形段落。
+对称构图和美术不由器材名称自动产生。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+VISION3 200T 技术表 https://www.kodak.com/content/pdfs/motion/KODAK-VISION3-200T-5213-7213-technical-information.pdf
+
+L040 · 旧日温度
+日常纪实
+用小画幅和复古光学写日常。
+
+为什么选它〔整理说明〕
+用小画幅和复古光学写日常。
+
+观察重点〔整理说明〕
+看木桌纹理。
+场景检查：中性色、材质、自然肤色。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 16 视觉画幅约定；固定同一有效成像区域并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRIFLEX 416 · Super16
+[镜头] Cooke Panchro/i Classic S35；1× 球面；复古镀膜倾向；65mm为微距款。
+[焦距] 18 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 200T 7213；胶片采集观感；模拟Kodak VISION3 200T 7213，钨丝灯平衡、细颗粒，保留灯光原有色差。
+[固定场景] 4秒单镜头。成年人在厨房拿起白杯，停在胸前，末秒保持。机位高1.4米，距人物3米，水平固定。左侧窗光，白墙、木桌与绿色盆栽不动。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRIFLEX 416 · Super16；画幅：S16；介质：film
+镜头：Cooke Panchro/i Classic S35；卡口：PL；变形倍率：1×
+焦距：18mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 200T 5213
+
+相关影片与适用边界〔影片资料记录〕
+《月升王国》（2012）；导演：Wes Anderson；摄影：Robert Yeoman
+Aaton XTerà/A-Minima拍Super16，全片7213；Zeiss Super Speeds较常用12mm，另有Canon变焦。
+暖黄也来自美术与调色；本库S16镜头是替代方案。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Panchro Classic S35 规格 https://cookeoptics.com/wp-content/uploads/2022/10/COOKE_Panchro-i-Classic-S35_Specification_030623.pdf
+Panchro 光学设计 https://cookeoptics.com/news-and-events/recreating-the-panchro-look/
+VISION3 200T 技术表 https://www.kodak.com/content/pdfs/motion/KODAK-VISION3-200T-5213-7213-technical-information.pdf
+
+L041 · 近脸夸张
+荒诞喜剧
+直线超广角检验探头反差。
+
+为什么选它〔整理说明〕
+直线超广角检验探头反差。
+
+观察重点〔整理说明〕
+看脸形变化。
+场景检查：近远变化、边缘变形、表情。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA 35 · 4K 16:9裁切
+[镜头] ARRI/ZEISS Ultra Prime；1× 球面；S35球面；8mm为8R直线超广角。
+[焦距] 8 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。直立黑色卡通猫在灰房间内，用1秒向镜头探头30厘米，保持1秒，再退回，末秒站定。初始机距1.2米、机高1米，水平固定，均匀柔光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA 35 · 4K 16:9裁切；画幅：S35；介质：digital
+镜头：ARRI/ZEISS Ultra Prime；卡口：PL；变形倍率：1×
+焦距：8mm；本例光圈：T4；场景机距：0.9m
+质感参考：中性数字
+
+相关影片与适用边界〔影片资料记录〕
+《可怜的东西》（2023）；导演：Yorgos Lanthimos；摄影：Robbie Ryan
+ARRICAM LT/ST搭多种变焦、4mm Optex和58/85mm Petzval；5222、5294与5219分段使用。
+不能把任一镜头与全部片基交叉称为原片配方。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+Ultra Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses/arri-ultra-prime-lenses-technical-data
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+
+L042 · 怪诞探头
+荒诞喜剧
+宽视角与鲜彩检验荒诞动作。
+
+为什么选它〔整理说明〕
+宽视角与鲜彩检验荒诞动作。
+
+观察重点〔整理说明〕
+看身体连贯。
+场景检查：近远变化、边缘变形、表情。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] ARRI/ZEISS Master Prime；1× 球面；S35球面；关注细节与边缘。
+[焦距] 12 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak EKTACHROME 100D 5294；胶片采集观感；模拟Kodak EKTACHROME 100D 5294彩色反转片，鲜明色彩、细颗粒和较密实暗部。
+[固定场景] 4秒单镜头。直立黑色卡通猫在灰房间内，用1秒向镜头探头30厘米，保持1秒，再退回，末秒站定。初始机距1.2米、机高1米，水平固定，均匀柔光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：ARRI/ZEISS Master Prime；卡口：PL；变形倍率：1×
+焦距：12mm；本例光圈：T4；场景机距：0.9m
+质感参考：Kodak EKTACHROME 100D 5294
+
+相关影片与适用边界〔影片资料记录〕
+《可怜的东西》（2023）；导演：Yorgos Lanthimos；摄影：Robbie Ryan
+ARRICAM LT/ST搭多种变焦、4mm Optex和58/85mm Petzval；5222、5294与5219分段使用。
+不能把任一镜头与全部片基交叉称为原片配方。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Master Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes/arri-master-prime-technical-data
+EKTACHROME 产品资料 https://www.kodak.com/en/company/press-release/ektachrome-film-begins-shipping/
+可怜的东西｜Ryan访谈 https://www.kodak.com/en/motion/blog-post/poor-things/
+
+L043 · 广角反应
+荒诞喜剧
+大画幅超广角扩大空间参与。
+
+为什么选它〔整理说明〕
+大画幅超广角扩大空间参与。
+
+观察重点〔整理说明〕
+看房间直线。
+场景检查：近远变化、边缘变形、表情。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 12 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；数字采集，模拟胶片观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。直立黑色卡通猫在灰房间内，用1秒向镜头探头30厘米，保持1秒，再退回，末秒站定。初始机距1.2米、机高1米，水平固定，均匀柔光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：12mm；本例光圈：T4；场景机距：0.9m
+质感参考：Kodak VISION3 250D 5207
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+
+L044 · 复古小剧场
+荒诞喜剧
+让幽默动作带一点旧片触感。
+
+为什么选它〔整理说明〕
+让幽默动作带一点旧片触感。
+
+观察重点〔整理说明〕
+看动作落点。
+场景检查：近远变化、边缘变形、表情。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke Panchro/i Classic S35；1× 球面；复古镀膜倾向；65mm为微距款。
+[焦距] 18 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 200T 5213；胶片采集观感；模拟Kodak VISION3 200T 5213，钨丝灯平衡、细颗粒，保留灯光原有色差。
+[固定场景] 4秒单镜头。直立黑色卡通猫在灰房间内，用1秒向镜头探头30厘米，保持1秒，再退回，末秒站定。初始机距1.2米、机高1米，水平固定，均匀柔光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke Panchro/i Classic S35；卡口：PL；变形倍率：1×
+焦距：18mm；本例光圈：T4；场景机距：0.9m
+质感参考：Kodak VISION3 200T 5213
+
+相关影片与适用边界〔影片资料记录〕
+《月升王国》（2012）；导演：Wes Anderson；摄影：Robert Yeoman
+Aaton XTerà/A-Minima拍Super16，全片7213；Zeiss Super Speeds较常用12mm，另有Canon变焦。
+暖黄也来自美术与调色；本库S16镜头是替代方案。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Panchro Classic S35 规格 https://cookeoptics.com/wp-content/uploads/2022/10/COOKE_Panchro-i-Classic-S35_Specification_030623.pdf
+Panchro 光学设计 https://cookeoptics.com/news-and-events/recreating-the-panchro-look/
+VISION3 200T 技术表 https://www.kodak.com/content/pdfs/motion/KODAK-VISION3-200T-5213-7213-technical-information.pdf
+
+L045 · 冷面小舞台
+荒诞喜剧
+以人物周围空间放大猫的停顿。
+
+为什么选它〔整理说明〕
+以人物周围空间放大猫的停顿。
+
+观察重点〔整理说明〕
+看边缘表情。
+场景检查：近远变化、边缘变形、表情。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 21 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；胶片采集观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。直立黑色卡通猫在灰房间内，用1秒向镜头探头30厘米，保持1秒，再退回，末秒站定。初始机距1.2米、机高1米，水平固定，均匀柔光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：21mm；本例光圈：T4；场景机距：0.9m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《小行星城》（2023）；导演：Wes Anderson；摄影：Robert Yeoman
+ARRICAM ST。彩色用Master Anamorphic、5213、2.40:1；黑白用S4、5222、1.37:1。
+两套系统分属叙事世界；不要混称全片同配方。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L046 · 老屋回忆
+年代回忆
+用S16规格观察颗粒与旧物。
+
+为什么选它〔整理说明〕
+用S16规格观察颗粒与旧物。
+
+观察重点〔整理说明〕
+看照片边缘。
+场景检查：颗粒、暗部、灯泡高光。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 16 视觉画幅约定；固定同一有效成像区域并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRIFLEX 416 · Super16
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 25 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 200T 7213；胶片采集观感；模拟Kodak VISION3 200T 7213，钨丝灯平衡、细颗粒，保留灯光原有色差。
+[固定场景] 4秒单镜头。成年人坐在旧木桌旁，把无字照片放平，末秒松手。机位高1.3米，距人物2.5米，水平固定。右后台灯3200K，左侧微弱窗光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRIFLEX 416 · Super16；画幅：S16；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：25mm；本例光圈：T4；场景机距：2.5m
+质感参考：Kodak VISION3 200T 5213
+
+相关影片与适用边界〔影片资料记录〕
+《月升王国》（2012）；导演：Wes Anderson；摄影：Robert Yeoman
+Aaton XTerà/A-Minima拍Super16，全片7213；Zeiss Super Speeds较常用12mm，另有Canon变焦。
+暖黄也来自美术与调色；本库S16镜头是替代方案。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+VISION3 200T 技术表 https://www.kodak.com/content/pdfs/motion/KODAK-VISION3-200T-5213-7213-technical-information.pdf
+
+L047 · 柔和年代
+年代回忆
+较低反差倾向融入台灯场景。
+
+为什么选它〔整理说明〕
+较低反差倾向融入台灯场景。
+
+观察重点〔整理说明〕
+看灯泡光晕。
+场景检查：颗粒、暗部、灯泡高光。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke Panchro/i Classic S35；1× 球面；复古镀膜倾向；65mm为微距款。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 200T 5213；胶片采集观感；模拟Kodak VISION3 200T 5213，钨丝灯平衡、细颗粒，保留灯光原有色差。
+[固定场景] 4秒单镜头。成年人坐在旧木桌旁，把无字照片放平，末秒松手。机位高1.3米，距人物2.5米，水平固定。右后台灯3200K，左侧微弱窗光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke Panchro/i Classic S35；卡口：PL；变形倍率：1×
+焦距：40mm；本例光圈：T4；场景机距：2.5m
+质感参考：Kodak VISION3 200T 5213
+
+相关影片与适用边界〔影片资料记录〕
+《卡罗尔》（2015）；导演：Todd Haynes；摄影：Ed Lachman
+416拍摄Super16。日外主要Speed Panchro，内景S4；用过四种VISION3负片。
+Ektachrome仅为外观参考；不能指定每场片基。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Panchro Classic S35 规格 https://cookeoptics.com/wp-content/uploads/2022/10/COOKE_Panchro-i-Classic-S35_Specification_030623.pdf
+Panchro 光学设计 https://cookeoptics.com/news-and-events/recreating-the-panchro-look/
+VISION3 200T 技术表 https://www.kodak.com/content/pdfs/motion/KODAK-VISION3-200T-5213-7213-technical-information.pdf
+
+L048 · 饱和幻忆
+年代回忆
+观察反转片风格的记忆色彩。
+
+为什么选它〔整理说明〕
+观察反转片风格的记忆色彩。
+
+观察重点〔整理说明〕
+看暗部堆积。
+场景检查：颗粒、暗部、灯泡高光。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 35 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak EKTACHROME 100D 5294；胶片采集观感；模拟Kodak EKTACHROME 100D 5294彩色反转片，鲜明色彩、细颗粒和较密实暗部。
+[固定场景] 4秒单镜头。成年人坐在旧木桌旁，把无字照片放平，末秒松手。机位高1.3米，距人物2.5米，水平固定。右后台灯3200K，左侧微弱窗光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：35mm；本例光圈：T4；场景机距：2.5m
+质感参考：Kodak EKTACHROME 100D 5294
+
+相关影片与适用边界〔影片资料记录〕
+《可怜的东西》（2023）；导演：Yorgos Lanthimos；摄影：Robbie Ryan
+ARRICAM LT/ST搭多种变焦、4mm Optex和58/85mm Petzval；5222、5294与5219分段使用。
+不能把任一镜头与全部片基交叉称为原片配方。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+EKTACHROME 产品资料 https://www.kodak.com/en/company/press-release/ektachrome-film-begins-shipping/
+可怜的东西｜Ryan访谈 https://www.kodak.com/en/motion/blog-post/poor-things/
+
+L049 · 细腻往事
+年代回忆
+大画幅与柔光观察静态细节。
+
+为什么选它〔整理说明〕
+大画幅与柔光观察静态细节。
+
+观察重点〔整理说明〕
+看手与木纹。
+场景检查：颗粒、暗部、灯泡高光。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 47 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；数字采集，模拟胶片观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。成年人坐在旧木桌旁，把无字照片放平，末秒松手。机位高1.3米，距人物2.5米，水平固定。右后台灯3200K，左侧微弱窗光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：47mm；本例光圈：T4；场景机距：2.5m
+质感参考：Kodak VISION3 250D 5207
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+
+L050 · 旧银幕一页
+年代回忆
+用变形镜头观察灯光与旧物。
+
+为什么选它〔整理说明〕
+用变形镜头观察灯光与旧物。
+
+观察重点〔整理说明〕
+看灯点散景。
+场景检查：颗粒、暗部、灯泡高光。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision C Series；2× 变形宽银幕；2×变形；与球面不是纯系列对比。
+[焦距] 60 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 200T 5213；胶片采集观感；模拟Kodak VISION3 200T 5213，钨丝灯平衡、细颗粒，保留灯光原有色差。
+[固定场景] 4秒单镜头。成年人坐在旧木桌旁，把无字照片放平，末秒松手。机位高1.3米，距人物2.5米，水平固定。右后台灯3200K，左侧微弱窗光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision C Series；卡口：PV；变形倍率：2×
+焦距：60mm；本例光圈：T4；场景机距：2.5m
+质感参考：Kodak VISION3 200T 5213
+
+相关影片与适用边界〔影片资料记录〕
+《爱乐之城》（2016）；导演：Damien Chazelle；摄影：Linus Sandgren
+35mm主片用XL2与C系列，40mm较常用。日外250D，内景与夜景500T；两者均降冲一档。
+本库配方为取向启发；16mm小段片基资料存在冲突。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision C Series https://www.panavision.com/camera-and-optics/optics/product-detail/c-c-series
+VISION3 200T 技术表 https://www.kodak.com/content/pdfs/motion/KODAK-VISION3-200T-5213-7213-technical-information.pdf
+
+L051 · 硬光肖像
+黑白光影
+较紧画角集中皮肤与影子。
+
+为什么选它〔整理说明〕
+较紧画角集中皮肤与影子。
+
+观察重点〔整理说明〕
+看黑位层次。
+场景检查：灰阶、黑位、面部纹理。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke Panchro/i Classic S35；1× 球面；复古镀膜倾向；65mm为微距款。
+[焦距] 75 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Eastman Double-X 5222；胶片采集观感；模拟Eastman Double-X 5222黑白负片，丰富灰阶与可见颗粒，保持原有光照方向。
+[固定场景] 4秒单镜头。穿深色外套的人站在墙边，慢抬帽檐，末秒保持。机位高1.5米，距人物3米，水平固定。左侧单一硬光穿过百叶窗，背景无补光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke Panchro/i Classic S35；卡口：PL；变形倍率：1×
+焦距：75mm；本例光圈：T4；场景机距：3m
+质感参考：Eastman Double-X 5222
+
+相关影片与适用边界〔影片资料记录〕
+《灯塔》（2019）；导演：Robert Eggers；摄影：Jarin Blaschke
+XL2、Baltar与Petzval、35mm Double-X 5222，1.19:1；另加定制光谱滤镜。
+5222是全色片；原片灰度响应不只来自胶片。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Panchro Classic S35 规格 https://cookeoptics.com/wp-content/uploads/2022/10/COOKE_Panchro-i-Classic-S35_Specification_030623.pdf
+Panchro 光学设计 https://cookeoptics.com/news-and-events/recreating-the-panchro-look/
+Double-X 技术表 https://www.kodak.com/content/products-brochures/Film/DOUBLEX-Technical-Data-EN.pdf
+
+L052 · 黑白纵深
+黑白光影
+让人物与百叶影子保留距离。
+
+为什么选它〔整理说明〕
+让人物与百叶影子保留距离。
+
+观察重点〔整理说明〕
+看影子边缘。
+场景检查：灰阶、黑位、面部纹理。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] ARRI/ZEISS Master Prime；1× 球面；S35球面；关注细节与边缘。
+[焦距] 32 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Eastman Double-X 5222；胶片采集观感；模拟Eastman Double-X 5222黑白负片，丰富灰阶与可见颗粒，保持原有光照方向。
+[固定场景] 4秒单镜头。穿深色外套的人站在墙边，慢抬帽檐，末秒保持。机位高1.5米，距人物3米，水平固定。左侧单一硬光穿过百叶窗，背景无补光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：ARRI/ZEISS Master Prime；卡口：PL；变形倍率：1×
+焦距：32mm；本例光圈：T4；场景机距：3m
+质感参考：Eastman Double-X 5222
+
+相关影片与适用边界〔影片资料记录〕
+《灯塔》（2019）；导演：Robert Eggers；摄影：Jarin Blaschke
+XL2、Baltar与Petzval、35mm Double-X 5222，1.19:1；另加定制光谱滤镜。
+5222是全色片；原片灰度响应不只来自胶片。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Master Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes/arri-master-prime-technical-data
+Double-X 技术表 https://www.kodak.com/content/products-brochures/Film/DOUBLEX-Technical-Data-EN.pdf
+
+L053 · 影调层次
+黑白光影
+比较大画幅灰阶与焦外过渡。
+
+为什么选它〔整理说明〕
+比较大画幅灰阶与焦外过渡。
+
+观察重点〔整理说明〕
+看脸部灰阶。
+场景检查：灰阶、黑位、面部纹理。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 58 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Eastman Double-X 5222；数字采集，模拟胶片观感；模拟Eastman Double-X 5222黑白负片，丰富灰阶与可见颗粒，保持原有光照方向。
+[固定场景] 4秒单镜头。穿深色外套的人站在墙边，慢抬帽檐，末秒保持。机位高1.5米，距人物3米，水平固定。左侧单一硬光穿过百叶窗，背景无补光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：58mm；本例光圈：T4；场景机距：3m
+质感参考：Eastman Double-X 5222
+
+相关影片与适用边界〔影片资料记录〕
+《奥本海默》（2023）；导演：Christopher Nolan；摄影：Hoyte van Hoytema
+IMAX与System65拍摄；定制大画幅光学，IMAX50/80mm。250D、500T及特制65mm Double-X。
+IMAX焦距不等于全幅视角；特制器材未收入组合。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+Double-X 技术表 https://www.kodak.com/content/products-brochures/Film/DOUBLEX-Technical-Data-EN.pdf
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+
+L054 · 街头银盐
+黑白光影
+S16黑白观感强调细小纹理。
+
+为什么选它〔整理说明〕
+S16黑白观感强调细小纹理。
+
+观察重点〔整理说明〕
+看颗粒稳定。
+场景检查：灰阶、黑位、面部纹理。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 16 视觉画幅约定；固定同一有效成像区域并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRIFLEX 416 · Super16
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 25 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Eastman Double-X 7222；胶片采集观感；模拟Eastman Double-X 7222黑白负片，丰富灰阶与可见颗粒，保持原有光照方向。
+[固定场景] 4秒单镜头。穿深色外套的人站在墙边，慢抬帽檐，末秒保持。机位高1.5米，距人物3米，水平固定。左侧单一硬光穿过百叶窗，背景无补光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRIFLEX 416 · Super16；画幅：S16；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：25mm；本例光圈：T4；场景机距：3m
+质感参考：Eastman Double-X 5222
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+Double-X 技术表 https://www.kodak.com/content/products-brochures/Film/DOUBLEX-Technical-Data-EN.pdf
+
+L055 · 宽幅黑影
+黑白光影
+观察宽银幕中的光影分区。
+
+为什么选它〔整理说明〕
+观察宽银幕中的光影分区。
+
+观察重点〔整理说明〕
+看两端阴影。
+场景检查：灰阶、黑位、面部纹理。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision G Series；2× 变形宽银幕；2×变形；关注反差与耀斑控制。
+[焦距] 50 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Eastman Double-X 5222；胶片采集观感；模拟Eastman Double-X 5222黑白负片，丰富灰阶与可见颗粒，保持原有光照方向。
+[固定场景] 4秒单镜头。穿深色外套的人站在墙边，慢抬帽檐，末秒保持。机位高1.5米，距人物3米，水平固定。左侧单一硬光穿过百叶窗，背景无补光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision G Series；卡口：PV；变形倍率：2×
+焦距：50mm；本例光圈：T4；场景机距：3m
+质感参考：Eastman Double-X 5222
+
+相关影片与适用边界〔影片资料记录〕
+《法兰西特派》（2021）；导演：Wes Anderson；摄影：Robert Yeoman
+ARRICAM ST/LT与Cooke S4；彩色5213、黑白5222，主要1.37:1；另有少量变形段落。
+对称构图和美术不由器材名称自动产生。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision G Series https://www.panavision.com/camera-and-optics/optics/product-detail/g-g-series
+Double-X 技术表 https://www.kodak.com/content/products-brochures/Film/DOUBLEX-Technical-Data-EN.pdf
+
+L056 · 干净金属
+产品广告
+以中性影像检查亮部轮廓。
+
+为什么选它〔整理说明〕
+以中性影像检查亮部轮廓。
+
+观察重点〔整理说明〕
+看高光断层。
+场景检查：高光边缘、透明度、轮廓。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ZEISS Supreme Prime；1× 球面；大画幅球面；关注焦内外过渡。
+[焦距] 85 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。高15厘米、带银色金属盖的无字香水瓶在慢速转台上转动20度后停住。机位在桌面上方25厘米，距瓶身1米，固定对准瓶身。黑台面，左上条形柔光、右白反光板。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ZEISS Supreme Prime；卡口：PL；变形倍率：1×
+焦距：85mm；本例光圈：T4；场景机距：1m
+质感参考：中性数字
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Supreme Prime 规格 https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-lenses.html
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+
+L057 · 温润表面
+产品广告
+柔和过渡配细颗粒商品观感。
+
+为什么选它〔整理说明〕
+柔和过渡配细颗粒商品观感。
+
+观察重点〔整理说明〕
+看玻璃边缘。
+场景检查：高光边缘、透明度、轮廓。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 95 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 50D 5203；数字采集，模拟胶片观感；模拟Kodak VISION3 50D 5203，日光色彩、细颗粒、柔和高光。
+[固定场景] 4秒单镜头。高15厘米、带银色金属盖的无字香水瓶在慢速转台上转动20度后停住。机位在桌面上方25厘米，距瓶身1米，固定对准瓶身。黑台面，左上条形柔光、右白反光板。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：95mm；本例光圈：T4；场景机距：1m
+质感参考：Kodak VISION3 50D 5203
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+VISION3 50D 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_50D_5203_TI-2657_Technical-Data_EN.pdf
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+
+L058 · 复古陈列
+产品广告
+微距款观察旧式商品触感。
+
+为什么选它〔整理说明〕
+微距款观察旧式商品触感。
+
+观察重点〔整理说明〕
+看瓶身纹理。
+场景检查：高光边缘、透明度、轮廓。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke Panchro/i Classic S35；1× 球面；复古镀膜倾向；65mm为微距款。
+[焦距] 65 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 200T 5213；胶片采集观感；模拟Kodak VISION3 200T 5213，钨丝灯平衡、细颗粒，保留灯光原有色差。
+[固定场景] 4秒单镜头。高15厘米、带银色金属盖的无字香水瓶在慢速转台上转动20度后停住。机位在桌面上方25厘米，距瓶身1米，固定对准瓶身。黑台面，左上条形柔光、右白反光板。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke Panchro/i Classic S35；卡口：PL；变形倍率：1×
+焦距：65mm；本例光圈：T4；场景机距：1m
+质感参考：Kodak VISION3 200T 5213
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Panchro Classic S35 规格 https://cookeoptics.com/wp-content/uploads/2022/10/COOKE_Panchro-i-Classic-S35_Specification_030623.pdf
+Panchro 光学设计 https://cookeoptics.com/news-and-events/recreating-the-panchro-look/
+VISION3 200T 技术表 https://www.kodak.com/content/pdfs/motion/KODAK-VISION3-200T-5213-7213-technical-information.pdf
+
+L059 · 鲜彩广告
+产品广告
+检验反转片色彩与透明材质。
+
+为什么选它〔整理说明〕
+检验反转片色彩与透明材质。
+
+观察重点〔整理说明〕
+看亮部色偏。
+场景检查：高光边缘、透明度、轮廓。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ZEISS Supreme Prime；1× 球面；大画幅球面；关注焦内外过渡。
+[焦距] 65 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak EKTACHROME 100D 5294；数字采集，模拟胶片观感；模拟Kodak EKTACHROME 100D 5294彩色反转片，鲜明色彩、细颗粒和较密实暗部。
+[固定场景] 4秒单镜头。高15厘米、带银色金属盖的无字香水瓶在慢速转台上转动20度后停住。机位在桌面上方25厘米，距瓶身1米，固定对准瓶身。黑台面，左上条形柔光、右白反光板。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ZEISS Supreme Prime；卡口：PL；变形倍率：1×
+焦距：65mm；本例光圈：T4；场景机距：1m
+质感参考：Kodak EKTACHROME 100D 5294
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Supreme Prime 规格 https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-lenses.html
+EKTACHROME 产品资料 https://www.kodak.com/en/company/press-release/ektachrome-film-begins-shipping/
+可怜的东西｜Ryan访谈 https://www.kodak.com/en/motion/blog-post/poor-things/
+
+L060 · 细节特写
+产品广告
+微距镜头观察瓶身细小结构。
+
+为什么选它〔整理说明〕
+微距镜头观察瓶身细小结构。
+
+观察重点〔整理说明〕
+看边界重影。
+场景检查：高光边缘、透明度、轮廓。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] Laowa 100mm T2.9 2X Macro APO Cine；1× 球面；PL版、FF；以T4测试，非Probe。
+[焦距] 100 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；数字采集，模拟胶片观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。高15厘米、带银色金属盖的无字香水瓶在慢速转台上转动20度后停住。机位在桌面上方25厘米，距瓶身1米，固定对准瓶身。黑台面，左上条形柔光、右白反光板。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：Laowa 100mm T2.9 2X Macro APO Cine；卡口：PL；变形倍率：1×
+焦距：100mm；本例光圈：T4；场景机距：1m
+质感参考：Kodak VISION3 250D 5207
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Laowa 100mm Macro Cine https://www.laowa.jp/cat/3725bbe6c86c88beb6861f2b24d92ae57ff38fb1.html
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L061 · 探针近看
+微观材质
+广角探针同时观察水珠环境。
+
+为什么选它〔整理说明〕
+广角探针同时观察水珠环境。
+
+观察重点〔整理说明〕
+看周围叶脉。
+场景检查：微小纹理、焦点、颗粒稳定。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：f/14。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] Laowa 24mm f/14 2X Macro Probe Cine；1× 球面；PL版、FF；探针长镜身，f/14单独成组。
+[焦距] 24 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。水珠沿架高12厘米的叶片滑动1厘米后停住。摄影机感光面距水珠50厘米、高12厘米，水平固定，焦点锁在水珠。左后方明亮柔光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：Laowa 24mm f/14 2X Macro Probe Cine；卡口：PL；变形倍率：1×
+焦距：24mm；本例光圈：T4；场景机距：0.5m
+质感参考：中性数字
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Laowa 24mm Probe Cine https://www.laowa.jp/cat/c16d207e145c555fbfd37f35ba9a708d2620f1a5.html
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+
+L062 · 光学细节
+微观材质
+先建立中性材质与焦点基线。
+
+为什么选它〔整理说明〕
+先建立中性材质与焦点基线。
+
+观察重点〔整理说明〕
+看水珠边缘。
+场景检查：微小纹理、焦点、颗粒稳定。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] Laowa 100mm T2.9 2X Macro APO Cine；1× 球面；PL版、FF；以T4测试，非Probe。
+[焦距] 100 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。水珠沿架高12厘米的叶片滑动1厘米后停住。摄影机感光面距水珠50厘米、高12厘米，水平固定，焦点锁在水珠。左后方明亮柔光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：Laowa 100mm T2.9 2X Macro APO Cine；卡口：PL；变形倍率：1×
+焦距：100mm；本例光圈：T4；场景机距：0.5m
+质感参考：中性数字
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Laowa 100mm Macro Cine https://www.laowa.jp/cat/3725bbe6c86c88beb6861f2b24d92ae57ff38fb1.html
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+
+L063 · 细颗粒叶脉
+微观材质
+将细颗粒观感放到微小纹理。
+
+为什么选它〔整理说明〕
+将细颗粒观感放到微小纹理。
+
+观察重点〔整理说明〕
+看纹理糊化。
+场景检查：微小纹理、焦点、颗粒稳定。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] Laowa 100mm T2.9 2X Macro APO Cine；1× 球面；PL版、FF；以T4测试，非Probe。
+[焦距] 100 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 50D 5203；数字采集，模拟胶片观感；模拟Kodak VISION3 50D 5203，日光色彩、细颗粒、柔和高光。
+[固定场景] 4秒单镜头。水珠沿架高12厘米的叶片滑动1厘米后停住。摄影机感光面距水珠50厘米、高12厘米，水平固定，焦点锁在水珠。左后方明亮柔光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：Laowa 100mm T2.9 2X Macro APO Cine；卡口：PL；变形倍率：1×
+焦距：100mm；本例光圈：T4；场景机距：0.5m
+质感参考：Kodak VISION3 50D 5203
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Laowa 100mm Macro Cine https://www.laowa.jp/cat/3725bbe6c86c88beb6861f2b24d92ae57ff38fb1.html
+VISION3 50D 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_50D_5203_TI-2657_Technical-Data_EN.pdf
+
+L064 · 鲜彩微观
+微观材质
+S35微距与鲜彩观察叶片层次。
+
+为什么选它〔整理说明〕
+S35微距与鲜彩观察叶片层次。
+
+观察重点〔整理说明〕
+看绿色溢出。
+场景检查：微小纹理、焦点、颗粒稳定。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 2.8K S35 16:9
+[镜头] Cooke Panchro/i Classic S35；1× 球面；复古镀膜倾向；65mm为微距款。
+[焦距] 65 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak EKTACHROME 100D 5294；数字采集，模拟胶片观感；模拟Kodak EKTACHROME 100D 5294彩色反转片，鲜明色彩、细颗粒和较密实暗部。
+[固定场景] 4秒单镜头。水珠沿架高12厘米的叶片滑动1厘米后停住。摄影机感光面距水珠50厘米、高12厘米，水平固定，焦点锁在水珠。左后方明亮柔光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 2.8K S35 16:9；画幅：S35；介质：digital
+镜头：Cooke Panchro/i Classic S35；卡口：PL；变形倍率：1×
+焦距：65mm；本例光圈：T4；场景机距：0.5m
+质感参考：Kodak EKTACHROME 100D 5294
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Panchro Classic S35 规格 https://cookeoptics.com/wp-content/uploads/2022/10/COOKE_Panchro-i-Classic-S35_Specification_030623.pdf
+Panchro 光学设计 https://cookeoptics.com/news-and-events/recreating-the-panchro-look/
+EKTACHROME 产品资料 https://www.kodak.com/en/company/press-release/ektachrome-film-begins-shipping/
+可怜的东西｜Ryan访谈 https://www.kodak.com/en/motion/blog-post/poor-things/
+
+L065 · 黑白质地
+微观材质
+用灰阶分开水珠与叶片表面。
+
+为什么选它〔整理说明〕
+用灰阶分开水珠与叶片表面。
+
+观察重点〔整理说明〕
+看银盐纹理。
+场景检查：微小纹理、焦点、颗粒稳定。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke Panchro/i Classic S35；1× 球面；复古镀膜倾向；65mm为微距款。
+[焦距] 65 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Eastman Double-X 5222；胶片采集观感；模拟Eastman Double-X 5222黑白负片，丰富灰阶与可见颗粒，保持原有光照方向。
+[固定场景] 4秒单镜头。水珠沿架高12厘米的叶片滑动1厘米后停住。摄影机感光面距水珠50厘米、高12厘米，水平固定，焦点锁在水珠。左后方明亮柔光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke Panchro/i Classic S35；卡口：PL；变形倍率：1×
+焦距：65mm；本例光圈：T4；场景机距：0.5m
+质感参考：Eastman Double-X 5222
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Panchro Classic S35 规格 https://cookeoptics.com/wp-content/uploads/2022/10/COOKE_Panchro-i-Classic-S35_Specification_030623.pdf
+Panchro 光学设计 https://cookeoptics.com/news-and-events/recreating-the-panchro-look/
+Double-X 技术表 https://www.kodak.com/content/products-brochures/Film/DOUBLEX-Technical-Data-EN.pdf
+
+L066 · 桌上热气
+美食液体
+柔和焦点过渡观察蒸汽层次。
+
+为什么选它〔整理说明〕
+柔和焦点过渡观察蒸汽层次。
+
+观察重点〔整理说明〕
+看蒸汽闪烁。
+场景检查：液体高光、蒸汽、食物色泽。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 58 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 200T 5213；数字采集，模拟胶片观感；模拟Kodak VISION3 200T 5213，钨丝灯平衡、细颗粒，保留灯光原有色差。
+[固定场景] 4秒单镜头。蜂蜜从固定位置滴在吐司中心，形成小亮点，旁边咖啡缓慢冒汽。机位在桌面上方45厘米，感光面距滴落点60厘米，固定对准滴落点。左后大柔光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：58mm；本例光圈：T4；场景机距：0.6m
+质感参考：Kodak VISION3 200T 5213
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+VISION3 200T 技术表 https://www.kodak.com/content/pdfs/motion/KODAK-VISION3-200T-5213-7213-technical-information.pdf
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+
+L067 · 醇厚食色
+美食液体
+用自然色彩观察吐司与蜂蜜。
+
+为什么选它〔整理说明〕
+用自然色彩观察吐司与蜂蜜。
+
+观察重点〔整理说明〕
+看食物色偏。
+场景检查：液体高光、蒸汽、食物色泽。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；胶片采集观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。蜂蜜从固定位置滴在吐司中心，形成小亮点，旁边咖啡缓慢冒汽。机位在桌面上方45厘米，感光面距滴落点60厘米，固定对准滴落点。左后大柔光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：40mm；本例光圈：T4；场景机距：0.6m
+质感参考：Kodak VISION3 250D 5207
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L068 · 鲜彩饮品
+美食液体
+反转片观感强调色彩关系。
+
+为什么选它〔整理说明〕
+反转片观感强调色彩关系。
+
+观察重点〔整理说明〕
+看黄色饱和。
+场景检查：液体高光、蒸汽、食物色泽。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ZEISS Supreme Prime；1× 球面；大画幅球面；关注焦内外过渡。
+[焦距] 50 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak EKTACHROME 100D 5294；数字采集，模拟胶片观感；模拟Kodak EKTACHROME 100D 5294彩色反转片，鲜明色彩、细颗粒和较密实暗部。
+[固定场景] 4秒单镜头。蜂蜜从固定位置滴在吐司中心，形成小亮点，旁边咖啡缓慢冒汽。机位在桌面上方45厘米，感光面距滴落点60厘米，固定对准滴落点。左后大柔光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ZEISS Supreme Prime；卡口：PL；变形倍率：1×
+焦距：50mm；本例光圈：T4；场景机距：0.6m
+质感参考：Kodak EKTACHROME 100D 5294
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Supreme Prime 规格 https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-lenses.html
+EKTACHROME 产品资料 https://www.kodak.com/en/company/press-release/ektachrome-film-begins-shipping/
+可怜的东西｜Ryan访谈 https://www.kodak.com/en/motion/blog-post/poor-things/
+
+L069 · 液滴切片
+美食液体
+微距观察滴落边缘与纹理。
+
+为什么选它〔整理说明〕
+微距观察滴落边缘与纹理。
+
+观察重点〔整理说明〕
+看液滴断裂。
+场景检查：液体高光、蒸汽、食物色泽。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA 35 · 4K 16:9裁切
+[镜头] Laowa 100mm T2.9 2X Macro APO Cine；1× 球面；PL版、FF；以T4测试，非Probe。
+[焦距] 100 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 50D 5203；数字采集，模拟胶片观感；模拟Kodak VISION3 50D 5203，日光色彩、细颗粒、柔和高光。
+[固定场景] 4秒单镜头。蜂蜜从固定位置滴在吐司中心，形成小亮点，旁边咖啡缓慢冒汽。机位在桌面上方45厘米，感光面距滴落点60厘米，固定对准滴落点。左后大柔光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA 35 · 4K 16:9裁切；画幅：S35；介质：digital
+镜头：Laowa 100mm T2.9 2X Macro APO Cine；卡口：PL；变形倍率：1×
+焦距：100mm；本例光圈：T4；场景机距：0.6m
+质感参考：Kodak VISION3 50D 5203
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+Laowa 100mm Macro Cine https://www.laowa.jp/cat/3725bbe6c86c88beb6861f2b24d92ae57ff38fb1.html
+VISION3 50D 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_50D_5203_TI-2657_Technical-Data_EN.pdf
+
+L070 · 探针食境
+美食液体
+广角探针让食物与桌面同场。
+
+为什么选它〔整理说明〕
+广角探针让食物与桌面同场。
+
+观察重点〔整理说明〕
+看前后关系。
+场景检查：液体高光、蒸汽、食物色泽。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：f/14。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] Laowa 24mm f/14 2X Macro Probe Cine；1× 球面；PL版、FF；探针长镜身，f/14单独成组。
+[焦距] 24 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；数字采集，模拟胶片观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。蜂蜜从固定位置滴在吐司中心，形成小亮点，旁边咖啡缓慢冒汽。机位在桌面上方45厘米，感光面距滴落点60厘米，固定对准滴落点。左后大柔光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：Laowa 24mm f/14 2X Macro Probe Cine；卡口：PL；变形倍率：1×
+焦距：24mm；本例光圈：T4；场景机距：0.6m
+质感参考：Kodak VISION3 250D 5207
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Laowa 24mm Probe Cine https://www.laowa.jp/cat/c16d207e145c555fbfd37f35ba9a708d2620f1a5.html
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L071 · 空间纵深
+建筑空间
+大画幅广角检查立柱关系。
+
+为什么选它〔整理说明〕
+大画幅广角检查立柱关系。
+
+观察重点〔整理说明〕
+看垂直线。
+场景检查：直线、边缘、纵深、反射。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 21 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。一人沿大厅横向走两步后站定，玻璃门和立柱不动。机位高1.5米，距门12米，水平固定。左侧大片窗光，地面有柔和反射。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：21mm；本例光圈：T4；场景机距：12m
+质感参考：中性数字
+
+相关影片与适用边界〔影片资料记录〕
+《沙丘》（2021）；导演：Denis Villeneuve；摄影：Greig Fraser
+ALEXA LF/Mini LF搭Panavision H-Series球面与Ultra Vista 1.65×变形镜头。
+本库替代光学仅为尺度取向；不是原片器材复刻。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+
+L072 · 线条秩序
+建筑空间
+用清楚直线观察大厅结构。
+
+为什么选它〔整理说明〕
+用清楚直线观察大厅结构。
+
+观察重点〔整理说明〕
+看边缘拉伸。
+场景检查：直线、边缘、纵深、反射。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA 35 · 4K 16:9裁切
+[镜头] ARRI/ZEISS Ultra Prime；1× 球面；S35球面；8mm为8R直线超广角。
+[焦距] 16 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。一人沿大厅横向走两步后站定，玻璃门和立柱不动。机位高1.5米，距门12米，水平固定。左侧大片窗光，地面有柔和反射。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA 35 · 4K 16:9裁切；画幅：S35；介质：digital
+镜头：ARRI/ZEISS Ultra Prime；卡口：PL；变形倍率：1×
+焦距：16mm；本例光圈：T4；场景机距：12m
+质感参考：中性数字
+
+相关影片与适用边界〔影片资料记录〕
+《法兰西特派》（2021）；导演：Wes Anderson；摄影：Robert Yeoman
+ARRICAM ST/LT与Cooke S4；彩色5213、黑白5222，主要1.37:1；另有少量变形段落。
+对称构图和美术不由器材名称自动产生。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+Ultra Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses/arri-ultra-prime-lenses-technical-data
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+
+L073 · 冷峻立面
+建筑空间
+比较玻璃反射与空间层次。
+
+为什么选它〔整理说明〕
+比较玻璃反射与空间层次。
+
+观察重点〔整理说明〕
+看玻璃高光。
+场景检查：直线、边缘、纵深、反射。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ZEISS Supreme Prime；1× 球面；大画幅球面；关注焦内外过渡。
+[焦距] 25 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；数字采集，模拟胶片观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。一人沿大厅横向走两步后站定，玻璃门和立柱不动。机位高1.5米，距门12米，水平固定。左侧大片窗光，地面有柔和反射。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ZEISS Supreme Prime；卡口：PL；变形倍率：1×
+焦距：25mm；本例光圈：T4；场景机距：12m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《沙丘》（2021）；导演：Denis Villeneuve；摄影：Greig Fraser
+ALEXA LF/Mini LF搭Panavision H-Series球面与Ultra Vista 1.65×变形镜头。
+本库替代光学仅为尺度取向；不是原片器材复刻。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Supreme Prime 规格 https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-lenses.html
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L074 · 胶片大厅
+建筑空间
+让日光负片观感进入室内。
+
+为什么选它〔整理说明〕
+让日光负片观感进入室内。
+
+观察重点〔整理说明〕
+看窗边过渡。
+场景检查：直线、边缘、纵深、反射。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 18 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；胶片采集观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。一人沿大厅横向走两步后站定，玻璃门和立柱不动。机位高1.5米，距门12米，水平固定。左侧大片窗光，地面有柔和反射。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：18mm；本例光圈：T4；场景机距：12m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《小行星城》（2023）；导演：Wes Anderson；摄影：Robert Yeoman
+ARRICAM ST。彩色用Master Anamorphic、5213、2.40:1；黑白用S4、5222、1.37:1。
+两套系统分属叙事世界；不要混称全片同配方。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L075 · 银幕建筑
+建筑空间
+用变形宽幅观察横向空间。
+
+为什么选它〔整理说明〕
+用变形宽幅观察横向空间。
+
+观察重点〔整理说明〕
+看立柱边缘。
+场景检查：直线、边缘、纵深、反射。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision G Series；2× 变形宽银幕；2×变形；关注反差与耀斑控制。
+[焦距] 25 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；胶片采集观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。一人沿大厅横向走两步后站定，玻璃门和立柱不动。机位高1.5米，距门12米，水平固定。左侧大片窗光，地面有柔和反射。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision G Series；卡口：PV；变形倍率：2×
+焦距：25mm；本例光圈：T4；场景机距：12m
+质感参考：Kodak VISION3 250D 5207
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision G Series https://www.panavision.com/camera-and-optics/optics/product-detail/g-g-series
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L076 · 洁净舱室
+科幻未来
+中性数字影像检查机械细节。
+
+为什么选它〔整理说明〕
+中性数字影像检查机械细节。
+
+观察重点〔整理说明〕
+看面板光边。
+场景检查：发光边缘、金属、肤色。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ZEISS Supreme Prime；1× 球面；大画幅球面；关注焦内外过渡。
+[焦距] 29 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。穿无标识防护服的人站在飞船舱室，抬手触碰面板后停住。机位高1.4米，距人物3米，水平固定。左侧冷白舱灯，面板固定琥珀光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ZEISS Supreme Prime；卡口：PL；变形倍率：1×
+焦距：29mm；本例光圈：T4；场景机距：3m
+质感参考：中性数字
+
+相关影片与适用边界〔影片资料记录〕
+《沙丘》（2021）；导演：Denis Villeneuve；摄影：Greig Fraser
+ALEXA LF/Mini LF搭Panavision H-Series球面与Ultra Vista 1.65×变形镜头。
+本库替代光学仅为尺度取向；不是原片器材复刻。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Supreme Prime 规格 https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-lenses.html
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+
+L077 · 科幻亲近
+科幻未来
+在发光空间里保留人物关系。
+
+为什么选它〔整理说明〕
+在发光空间里保留人物关系。
+
+观察重点〔整理说明〕
+看皮肤色差。
+场景检查：发光边缘、金属、肤色。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 35 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；数字采集，模拟胶片观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。穿无标识防护服的人站在飞船舱室，抬手触碰面板后停住。机位高1.4米，距人物3米，水平固定。左侧冷白舱灯，面板固定琥珀光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：35mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《沙丘》（2021）；导演：Denis Villeneuve；摄影：Greig Fraser
+ALEXA LF/Mini LF搭Panavision H-Series球面与Ultra Vista 1.65×变形镜头。
+本库替代光学仅为尺度取向；不是原片器材复刻。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+
+L078 · 异星颗粒
+科幻未来
+将负片触感与机械空间并置。
+
+为什么选它〔整理说明〕
+将负片触感与机械空间并置。
+
+观察重点〔整理说明〕
+看颗粒稳态。
+场景检查：发光边缘、金属、肤色。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] ARRI/ZEISS Master Prime；1× 球面；S35球面；关注细节与边缘。
+[焦距] 21 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。穿无标识防护服的人站在飞船舱室，抬手触碰面板后停住。机位高1.4米，距人物3米，水平固定。左侧冷白舱灯，面板固定琥珀光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：ARRI/ZEISS Master Prime；卡口：PL；变形倍率：1×
+焦距：21mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《不》（2022）；导演：Jordan Peele；摄影：Hoyte van Hoytema
+IMAX与System65混合；日拍夜用System65、红外ALEXA65与配对Sphero双机合成。
+深远夜景不是只加250D名称；双机需后期合成。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Master Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes/arri-master-prime-technical-data
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L079 · 霓虹光痕
+科幻未来
+观察变形镜头对发光面的响应。
+
+为什么选它〔整理说明〕
+观察变形镜头对发光面的响应。
+
+观察重点〔整理说明〕
+看耀斑干扰。
+场景检查：发光边缘、金属、肤色。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision C Series；2× 变形宽银幕；2×变形；与球面不是纯系列对比。
+[焦距] 35 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。穿无标识防护服的人站在飞船舱室，抬手触碰面板后停住。机位高1.4米，距人物3米，水平固定。左侧冷白舱灯，面板固定琥珀光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision C Series；卡口：PV；变形倍率：2×
+焦距：35mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《007：无暇赴死》（2021）；导演：Cary Joji Fukunaga；摄影：Linus Sandgren
+35mm部分用XL2与G系列，40/75mm较常用；日外50D、较暗日景250D、夜景500T。
+另有65mm与IMAX系统；G系列不直接配IMAX。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision C Series https://www.panavision.com/camera-and-optics/optics/product-detail/c-c-series
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L080 · 鲜彩异域
+科幻未来
+用反转片观感比较异域色彩。
+
+为什么选它〔整理说明〕
+用反转片观感比较异域色彩。
+
+观察重点〔整理说明〕
+看橙光溢出。
+场景检查：发光边缘、金属、肤色。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 25 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak EKTACHROME 100D 5294；胶片采集观感；模拟Kodak EKTACHROME 100D 5294彩色反转片，鲜明色彩、细颗粒和较密实暗部。
+[固定场景] 4秒单镜头。穿无标识防护服的人站在飞船舱室，抬手触碰面板后停住。机位高1.4米，距人物3米，水平固定。左侧冷白舱灯，面板固定琥珀光。无BGM、对白、字幕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：25mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak EKTACHROME 100D 5294
+
+相关影片与适用边界〔影片资料记录〕
+《可怜的东西》（2023）；导演：Yorgos Lanthimos；摄影：Robbie Ryan
+ARRICAM LT/ST搭多种变焦、4mm Optex和58/85mm Petzval；5222、5294与5219分段使用。
+不能把任一镜头与全部片基交叉称为原片配方。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+EKTACHROME 产品资料 https://www.kodak.com/en/company/press-release/ektachrome-film-begins-shipping/
+可怜的东西｜Ryan访谈 https://www.kodak.com/en/motion/blog-post/poor-things/
+
+L081 · 门后留白
+恐怖异象
+近侧门框与远处暗门同时留在画中，恐惧来自可以看见的空处。
+
+为什么选它〔整理说明〕
+近侧门框与远处暗门同时留在画中，恐惧来自可以看见的空处。
+
+观察重点〔整理说明〕
+看人身后的空白和暗门是否仍有层次。
+场景检查：画外空间、暗部可读性、光源高光与景深。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 18 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。一名成年人站在旧卧室门边不动，身后薄窗帘被微风轻轻吹动，末秒保持。机位高1.4米，感光面距人物4米，水平固定。左后窗外冷月光，右后床头一盏低亮度暖灯；人物左侧亮、右侧暗，远处半开的门内保持深暗。无BGM、对白、字幕。
+[观感设计] 18mm大画幅直线广角；保持墙与门框直线，用透视形成清楚的前中后层次；人物置于左侧三分线，右侧暗门占据留白。冷月光与小面积琥珀灯相互分离，暗处仍能辨认门框，不做全黑剪影；自然皮肤纹理、细腻连续高光，不添加胶片颗粒。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：18mm；本例光圈：T4；场景机距：4m
+质感参考：中性数字
+
+相关影片与适用边界〔影片资料记录〕
+《长腿》（2024）；导演：Osgood Perkins；摄影：Andrés Arochi
+主叙事1990年代段落用ALEXA Mini LF搭Signature Prime；回忆段落另以ARRI 35mm摄影机与Cooke S4拍摄。摄影师强调广视角、身后留白与局部暖灯。
+本文明确的Signature最广焦段为车内12mm，18/75mm等本库焦距未逐镜核实；数字部分的LUT、灯光和美术不能仅靠器材名还原。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+
+L082 · 阴影里的轮廓
+恐怖异象
+用清楚的主体轮廓和有细节的阴影建立威胁感。
+
+为什么选它〔整理说明〕
+用清楚的主体轮廓和有细节的阴影建立威胁感。
+
+观察重点〔整理说明〕
+看脸部暗侧和门口亮暗交界。
+场景检查：画外空间、暗部可读性、光源高光与景深。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA 35 · 4K 16:9裁切
+[镜头] ARRI/ZEISS Master Prime；1× 球面；S35球面；关注细节与边缘。
+[焦距] 27 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。一名成年人站在旧卧室门边不动，身后薄窗帘被微风轻轻吹动，末秒保持。机位高1.4米，感光面距人物4米，水平固定。左后窗外冷月光，右后床头一盏低亮度暖灯；人物左侧亮、右侧暗，远处半开的门内保持深暗。无BGM、对白、字幕。
+[观感设计] 27mm Super35球面中广角；人物与后方门口都可辨识，焦点落在人物眼睛。脸部明暗比约8:1，保留暗侧肤色和木门纹理；窗光冷蓝、床头灯暖黄保持局部，整体低饱和，避免霓虹染满脸；中性数字细节，亮灯柔顺收敛，不加额外颗粒或光晕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA 35 · 4K 16:9裁切；画幅：S35；介质：digital
+镜头：ARRI/ZEISS Master Prime；卡口：PL；变形倍率：1×
+焦距：27mm；本例光圈：T4；场景机距：4m
+质感参考：中性数字
+
+相关影片与适用边界〔影片资料记录〕
+《异形：夺命舰》（2024）；导演：Fede Álvarez；摄影：Galo Olivares
+ALEXA 35搭ARRI/ZEISS Master Prime为主；偶用Ultra Prime及8R超广角。摄影师与调色师Mitch Paulson合作制作LUT。
+访谈未列本库27/35mm等每个焦距的具体镜头；原片为数字摄影，500T模拟项不是原片片基，也不继承原片LUT。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+Master Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes/arri-master-prime-technical-data
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+
+L083 · 旧宅低语
+恐怖异象
+复古球面、可见颗粒与局部暖灯适合旧宅的不安感。
+
+为什么选它〔整理说明〕
+复古球面、可见颗粒与局部暖灯适合旧宅的不安感。
+
+观察重点〔整理说明〕
+看灯泡边缘与墙面颗粒是否稳定。
+场景检查：画外空间、暗部可读性、光源高光与景深。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke Panchro/i Classic S35；1× 球面；复古镀膜倾向；65mm为微距款。
+[焦距] 32 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。一名成年人站在旧卧室门边不动，身后薄窗帘被微风轻轻吹动，末秒保持。机位高1.4米，感光面距人物4米，水平固定。左后窗外冷月光，右后床头一盏低亮度暖灯；人物左侧亮、右侧暗，远处半开的门内保持深暗。无BGM、对白、字幕。
+[观感设计] 32mm Super35球面视角；人物和门口保持前后纵深，焦内眼睛清楚，远床与灯柔和虚化。低饱和青灰阴影、克制暖灯，灯泡外有很轻的高光扩散，细颗粒随画面自然变化但不爬成噪点；压低背景亮度并保留墙面层次。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke Panchro/i Classic S35；卡口：PL；变形倍率：1×
+焦距：32mm；本例光圈：T4；场景机距：4m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《诺斯费拉图》（2024）；导演：Robert Eggers；摄影：Jarin Blaschke
+ARRICAM ST搭复古Baltar及专门调整的Panavision超高速镜头，全片Kodak VISION3 500T 5219；摄影师列出27/35/40mm，常按EI320并增感半档。
+本库没有Baltar、特调镜头或ARRICAM ST；与本库500T条目只确认片基相同。近单色月光还用光谱过滤及调色，不能把彩色5219称为黑白胶片。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Panchro Classic S35 规格 https://cookeoptics.com/wp-content/uploads/2022/10/COOKE_Panchro-i-Classic-S35_Specification_030623.pdf
+Panchro 光学设计 https://cookeoptics.com/news-and-events/recreating-the-panchro-look/
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L084 · 宽幅空屋
+恐怖异象
+变形宽银幕的横向空间把人物身后的空处放大。
+
+为什么选它〔整理说明〕
+变形宽银幕的横向空间把人物身后的空处放大。
+
+观察重点〔整理说明〕
+看椭圆焦外与空门的相对位置。
+场景检查：画外空间、暗部可读性、光源高光与景深。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision C Series；2× 变形宽银幕；2×变形；与球面不是纯系列对比。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。一名成年人站在旧卧室门边不动，身后薄窗帘被微风轻轻吹动，末秒保持。机位高1.4米，感光面距人物4米，水平固定。左后窗外冷月光，右后床头一盏低亮度暖灯；人物左侧亮、右侧暗，远处半开的门内保持深暗。无BGM、对白、字幕。
+[观感设计] 40mm 2×变形宽银幕观感，正确解压后裁为16:9全幅画面，人物比例自然；人物在左三分线，暗门和床头灯分处后景。暖灯焦外呈轻微竖向椭圆，少量水平耀斑只在亮灯附近，不能横盖人物眼睛；冷暗部有纹理，胶片颗粒细且稳定。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision C Series；卡口：PV；变形倍率：2×
+焦距：40mm；本例光圈：T4；场景机距：4m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《北欧人》（2022）；导演：Robert Eggers；摄影：Jarin Blaschke
+主要Panavision Millennium XL2搭经Dan Sasaki调整的Primo球面；50D 5203用于大量日景及火山终场，200T 5213、250D 5207、500T 5219分用于不同光线段落。
+本库C/G是变形镜头，不是原片特调Primo球面。只能逐项标机身或片基相同；夜景还使用光谱滤镜、灯色和调色。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision C Series https://www.panavision.com/camera-and-optics/optics/product-detail/c-c-series
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L085 · 空椅子的重量
+心理惊悚
+中焦与前景遮挡让日常空间带上疑虑。
+
+为什么选它〔整理说明〕
+中焦与前景遮挡让日常空间带上疑虑。
+
+观察重点〔整理说明〕
+看眼神、门框和远灯的焦点层次。
+场景检查：负空间、人物与背景距离、脸部明暗分界。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 50 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。一名成年人坐在办公室桌边，缓慢抬眼看向画面右侧空椅子，末秒停住。机位高1.35米，感光面距人物3米，水平固定。前景左侧虚化门框遮住少量画面；左上白色日光灯照亮额头，右后台灯发出低亮度琥珀暖光，背后有一扇关着的门。无BGM、对白、字幕。
+[观感设计] 50mm Super35球面中焦，焦点锁在双眼；左侧门框柔和虚化，后方空椅子可辨但细节柔化。脸部明暗比约4:1，冷白顶光与很小面积琥珀后灯保留分离；肤色克制、黑位厚实但可读，细颗粒与柔顺高光，不制造锐化白边。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：50mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《小妇人》（2019）；导演：Greta Gerwig；摄影：Yorick Le Saux
+ARRICAM ST/LT搭Cooke S4，40/50mm属常用焦段；全部日夜及内外场景均用35mmKodak VISION3 500T 5219，常在T2至T2.8拍摄。
+还用柔光滤镜、Varicon预闪及增感等手法；本库T4、16:9和固定场景不同。来源也列出32mm，但其与本库S4焦段表不符，本库不采用该档。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L086 · 远处的凝视
+心理惊悚
+较紧的取景与背景压缩加强被观察的感觉。
+
+为什么选它〔整理说明〕
+较紧的取景与背景压缩加强被观察的感觉。
+
+观察重点〔整理说明〕
+看脸部到后景的过渡是否自然。
+场景检查：负空间、人物与背景距离、脸部明暗分界。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 75 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。一名成年人坐在办公室桌边，缓慢抬眼看向画面右侧空椅子，末秒停住。机位高1.35米，感光面距人物3米，水平固定。前景左侧虚化门框遮住少量画面；左上白色日光灯照亮额头，右后台灯发出低亮度琥珀暖光，背后有一扇关着的门。无BGM、对白、字幕。
+[观感设计] 75mm大画幅球面中长焦；固定3米机距自然形成较紧人物取景，不人为后退。双眼锐利、耳后逐渐柔化，空椅子轮廓融入柔和焦外；只在视线方向保留一块安静留白。冷顶光下的皮肤保持自然，琥珀后灯不过曝，不添加胶片颗粒或夸张光晕。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：75mm；本例光圈：T4；场景机距：3m
+质感参考：中性数字
+
+相关影片与适用边界〔影片资料记录〕
+《长腿》（2024）；导演：Osgood Perkins；摄影：Andrés Arochi
+主叙事1990年代段落用ALEXA Mini LF搭Signature Prime；回忆段落另以ARRI 35mm摄影机与Cooke S4拍摄。摄影师强调广视角、身后留白与局部暖灯。
+本文明确的Signature最广焦段为车内12mm，18/75mm等本库焦距未逐镜核实；数字部分的LUT、灯光和美术不能仅靠器材名还原。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+
+L087 · 冷静的失序
+心理惊悚
+清晰的空间和克制色彩让紧张缓慢积累。
+
+为什么选它〔整理说明〕
+清晰的空间和克制色彩让紧张缓慢积累。
+
+观察重点〔整理说明〕
+看脸和门边的微反差、暗部信息。
+场景检查：负空间、人物与背景距离、脸部明暗分界。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA 35 · 4K 16:9裁切
+[镜头] ARRI/ZEISS Master Prime；1× 球面；S35球面；关注细节与边缘。
+[焦距] 35 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；数字采集，模拟胶片观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。一名成年人坐在办公室桌边，缓慢抬眼看向画面右侧空椅子，末秒停住。机位高1.35米，感光面距人物3米，水平固定。前景左侧虚化门框遮住少量画面；左上白色日光灯照亮额头，右后台灯发出低亮度琥珀暖光，背后有一扇关着的门。无BGM、对白、字幕。
+[观感设计] 35mm Super35球面，保持人物、空椅子与关门的层次，前景门框轻虚；不改变固定机位。低饱和灰绿环境，肤色保持自然微暖，琥珀灯仅为小面积色彩；脸部明暗比约4:1，暗处有细节。数字采集上的500T观感模拟，细颗粒、柔顺灯光高光，无大幅耀斑。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA 35 · 4K 16:9裁切；画幅：S35；介质：digital
+镜头：ARRI/ZEISS Master Prime；卡口：PL；变形倍率：1×
+焦距：35mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《异形：夺命舰》（2024）；导演：Fede Álvarez；摄影：Galo Olivares
+ALEXA 35搭ARRI/ZEISS Master Prime为主；偶用Ultra Prime及8R超广角。摄影师与调色师Mitch Paulson合作制作LUT。
+访谈未列本库27/35mm等每个焦距的具体镜头；原片为数字摄影，500T模拟项不是原片片基，也不继承原片LUT。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+Master Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes/arri-master-prime-technical-data
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L088 · 无色审讯
+心理惊悚
+丰富灰阶与局部硬光表达心理封闭。
+
+为什么选它〔整理说明〕
+丰富灰阶与局部硬光表达心理封闭。
+
+观察重点〔整理说明〕
+看眼睛、灰墙与暗门是否分得开。
+场景检查：负空间、人物与背景距离、脸部明暗分界。
+
+完整参数与执行正文〔原工具默认复制正文〕
+纯黑白银盐影像，全程只有黑白中性灰；4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向，所有人物、灯光与环境只表现黑白及中性灰亮度层次。
+[机身] ARRICAM LT
+[镜头] ARRI/ZEISS Ultra Prime；1× 球面；S35球面；8mm为8R直线超广角。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Eastman Double-X 5222；胶片采集观感；模拟Eastman Double-X 5222黑白负片，丰富灰阶与可见颗粒，保持原有光照方向。
+[固定场景] 4秒单镜头。一名成年人坐在办公室桌边，缓慢抬眼看向画面右侧空椅子，末秒停住。机位高1.35米，感光面距人物3米，水平固定。前景左侧虚化门框遮住少量画面；左上白色日光灯照亮额头，右后台灯发出低亮度灰阶暖光，背后有一扇关着的门。无BGM、对白、字幕。
+[观感设计] 全程严格黑、白与中性灰，不出现任何彩色。40mm Super35球面，双眼清楚，前景门框与后景空椅子逐渐虚化。白色顶灯和灰阶灯只形成不同亮度，不仅保留光源亮度差；脸部明暗比约8:1，灰墙与深色衣服有明度分离。Double-X可见颗粒，黑位厚实、亮处细节完整。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：ARRI/ZEISS Ultra Prime；卡口：PL；变形倍率：1×
+焦距：40mm；本例光圈：T4；场景机距：3m
+质感参考：Eastman Double-X 5222
+
+相关影片与适用边界〔影片资料记录〕
+《灯塔》（2019）；导演：Robert Eggers；摄影：Jarin Blaschke
+XL2、Baltar与Petzval、35mm Double-X 5222，1.19:1；另加定制光谱滤镜。
+5222是全色片；原片灰度响应不只来自胶片。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Ultra Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses/arri-ultra-prime-lenses-technical-data
+Double-X 技术表 https://www.kodak.com/content/products-brochures/Film/DOUBLEX-Technical-Data-EN.pdf
+
+L089 · 百叶窗证词
+犯罪黑色
+黑白层次与硬光条纹给侦探场景明确视觉重心。
+
+为什么选它〔整理说明〕
+黑白层次与硬光条纹给侦探场景明确视觉重心。
+
+观察重点〔整理说明〕
+看脸部暗侧与窗影的灰阶分离。
+场景检查：脸部光比、玻璃反射、暗部层次与焦外。
+
+完整参数与执行正文〔原工具默认复制正文〕
+纯黑白银盐影像，全程只有黑白中性灰；4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向，所有人物、灯光与环境只表现黑白及中性灰亮度层次。
+[机身] ARRICAM LT
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 50 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Eastman Double-X 5222；胶片采集观感；模拟Eastman Double-X 5222黑白负片，丰富灰阶与可见颗粒，保持原有光照方向。
+[固定场景] 4秒单镜头。一名成年人坐在警局证物室的桌边，将无字信封平放在桌上，末秒松手。机位高1.3米，感光面距人物3米，水平固定。左侧百叶窗透入一道灰阶硬光，右后有一盏钨丝台灯；背景是模糊的无字玻璃隔断。无武器、无血腥。无BGM、对白、字幕。
+[观感设计] 全程严格黑、白与中性灰，台灯暖光只呈亮度。50mm Super35球面，焦点锁在眼睛和脸部，桌面信封仍可辨认；硬光落在一侧脸颊，另一侧保留少量灰阶，不整块死黑。玻璃反射柔和、Double-X颗粒可见，明暗边界清楚而不锐化。
+[构图尺度] 固定3米机距、50mm与S35视觉画幅，竖向可见范围约0.8米；上半身取景，保留完整头顶、肩与部分桌缘，不强求整张桌子。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：50mm；本例光圈：T4；场景机距：3m
+质感参考：Eastman Double-X 5222
+
+相关影片与适用边界〔影片资料记录〕
+《灯塔》（2019）；导演：Robert Eggers；摄影：Jarin Blaschke
+XL2、Baltar与Petzval、35mm Double-X 5222，1.19:1；另加定制光谱滤镜。
+5222是全色片；原片灰度响应不只来自胶片。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+Double-X 技术表 https://www.kodak.com/content/products-brochures/Film/DOUBLEX-Technical-Data-EN.pdf
+
+L090 · 夜色嫌疑人
+犯罪黑色
+紧一些的宽幅取景与椭圆焦外强调孤立的人物。
+
+为什么选它〔整理说明〕
+紧一些的宽幅取景与椭圆焦外强调孤立的人物。
+
+观察重点〔整理说明〕
+看人物比例和台灯焦外是否自然。
+场景检查：脸部光比、玻璃反射、暗部层次与焦外。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision G Series；2× 变形宽银幕；2×变形；关注反差与耀斑控制。
+[焦距] 75 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。一名成年人坐在警局证物室的桌边，将无字信封平放在桌上，末秒松手。机位高1.3米，感光面距人物3米，水平固定。左侧百叶窗透入一道冷白硬光，右后有一盏钨丝台灯；背景是模糊的无字玻璃隔断。无武器、无血腥。无BGM、对白、字幕。
+[观感设计] 75mm 2×变形宽银幕，正确解压裁16:9，固定3米机距自然形成紧的人物取景。双眼清楚，玻璃隔断与远台灯虚化，台灯焦外轻微竖椭圆；冷白条纹与小面积暖台灯有冷暖分离，脸部明暗比约8:1，暗侧仍有皮肤纹理。细颗粒、微弱局部水平耀斑，不遮脸。
+[构图尺度] 固定3米机距、75mm与S35视觉画幅，竖向可见范围约0.6米；头肩近景，保留完整头顶至胸口，桌面与手部可在下缘外。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision G Series；卡口：PV；变形倍率：2×
+焦距：75mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《好时光》（2017）；导演：Josh Safdie / Benny Safdie；摄影：Sean Price Williams
+以ARRI LT搭Zeiss Super Speed手持拍2-perf35mm；多数夜景用500T 5219，开场银行与部分监狱段落用250D 5207，彩色灯在现场建立。
+本库S4/Panchro/Master Prime均非原片Zeiss Super Speed；仅确认LT机身与相关片基，夜间强色还依赖灯光、美术、曝光和调色。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision G Series https://www.panavision.com/camera-and-optics/optics/product-detail/g-g-series
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L091 · 玻璃后的真相
+犯罪黑色
+清晰的玻璃层次与克制肤色适合现代刑侦。
+
+为什么选它〔整理说明〕
+清晰的玻璃层次与克制肤色适合现代刑侦。
+
+观察重点〔整理说明〕
+看玻璃反射是否抢走眼神。
+场景检查：脸部光比、玻璃反射、暗部层次与焦外。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ZEISS Supreme Prime；1× 球面；大画幅球面；关注焦内外过渡。
+[焦距] 50 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。一名成年人坐在警局证物室的桌边，将无字信封平放在桌上，末秒松手。机位高1.3米，感光面距人物3米，水平固定。左侧百叶窗透入一道冷白硬光，右后有一盏钨丝台灯；背景是模糊的无字玻璃隔断。无武器、无血腥。无BGM、对白、字幕。
+[观感设计] 50mm大画幅球面，焦点在人眼，玻璃反射略柔而不覆盖脸。构图保留右侧玻璃后的一块暗空间；中性灰青环境、自然肤色、小面积暖灯，保持约4:1脸部光比。高光过渡平滑，黑位可读，中性数字画面不加胶片颗粒。
+[构图尺度] 固定3米机距、50mm与LF视觉画幅，竖向可见范围约1.2米；坐姿中景，保留完整头顶、上身与桌缘，背景隔断仍有空间。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ZEISS Supreme Prime；卡口：PL；变形倍率：1×
+焦距：50mm；本例光圈：T4；场景机距：3m
+质感参考：中性数字
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Supreme Prime 规格 https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-lenses.html
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+
+L092 · 冷光追问
+犯罪黑色
+保留空间信息的中广角适合犯罪剧情与问询场景。
+
+为什么选它〔整理说明〕
+保留空间信息的中广角适合犯罪剧情与问询场景。
+
+观察重点〔整理说明〕
+看信封、人物与隔断的前后关系。
+场景检查：脸部光比、玻璃反射、暗部层次与焦外。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA 35 · 4K 16:9裁切
+[镜头] ARRI/ZEISS Master Prime；1× 球面；S35球面；关注细节与边缘。
+[焦距] 35 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；数字采集，模拟胶片观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。一名成年人坐在警局证物室的桌边，将无字信封平放在桌上，末秒松手。机位高1.3米，感光面距人物3米，水平固定。左侧百叶窗透入一道冷白硬光，右后有一盏钨丝台灯；背景是模糊的无字玻璃隔断。无武器、无血腥。无BGM、对白、字幕。
+[观感设计] 35mm Super35球面；眼睛与身体轮廓清楚，桌面信封和玻璃隔断构成前中后景。灰绿色暗部、自然肤色与琥珀台灯局部区分；脸部明暗比约4:1，窗影有形状，背景低一至两档。数字采集模拟500T细颗粒与高光收敛，避免粗大噪点。
+[构图尺度] 固定3米机距、35mm与S35视觉画幅，竖向可见范围约1.2米；坐姿中景，保留完整头顶、上身与桌缘，背景隔断仍有空间。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA 35 · 4K 16:9裁切；画幅：S35；介质：digital
+镜头：ARRI/ZEISS Master Prime；卡口：PL；变形倍率：1×
+焦距：35mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《异形：夺命舰》（2024）；导演：Fede Álvarez；摄影：Galo Olivares
+ALEXA 35搭ARRI/ZEISS Master Prime为主；偶用Ultra Prime及8R超广角。摄影师与调色师Mitch Paulson合作制作LUT。
+访谈未列本库27/35mm等每个焦距的具体镜头；原片为数字摄影，500T模拟项不是原片片基，也不继承原片LUT。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+Master Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes/arri-master-prime-technical-data
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L093 · 战壕边的天光
+战争现场
+中广角让人物、沙袋和树林一起讲述战地空间。
+
+为什么选它〔整理说明〕
+中广角让人物、沙袋和树林一起讲述战地空间。
+
+观察重点〔整理说明〕
+看烟雾和沙袋是否有不同层次。
+场景检查：沙袋纹理、烟中层次、人物与远景尺度。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] ARRI/ZEISS Master Prime；1× 球面；S35球面；关注细节与边缘。
+[焦距] 25 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；胶片采集观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。一名身穿无标识旧军服的成年通信员站在战壕沙袋旁，抬头望向远方后保持，衣角被风轻吹。机位高1.2米，感光面距人物8米，水平固定。左后阴天散射光，远处树林与薄烟；无开火、无爆炸、无伤者。无BGM、对白、字幕。
+[观感设计] 25mm Super35直线广角，沙袋近景、通信员中景、树林烟雾远景都可辨；保持透视纵深，不把背景压成平面。阴天冷灰天光、克制橄榄绿与自然肤色，湿泥和布料有细纹理；细颗粒、柔顺白云高光，避免脏黄滤镜覆盖全画面。
+[构图尺度] 固定8米机距、25mm与S35视觉画幅，竖向可见范围约4.5米；人物完整全身占画高约31–45%，保留头顶与脚下环境。保持16:9全矩形与直线透视，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：ARRI/ZEISS Master Prime；卡口：PL；变形倍率：1×
+焦距：25mm；本例光圈：T4；场景机距：8m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《星际探索》（2019）；导演：James Gray；摄影：Hoyte van Hoytema
+ARRICAM ST/LT及Aaton Penelope以2-perf球面拍250D 5207和500T 5219；大量使用由Master Prime修改的Astra Prime，也带标准Master Prime全套。
+特调Astra Prime与标准Master Prime不能混称；未逐镜核定哪一焦距、机身与片基同时使用。月面追车另有红外数字/胶片双机合成，不是一个片基名的效果。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Master Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes/arri-master-prime-technical-data
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L094 · 前线的呼吸
+战争现场
+大画幅40mm与分层烟雾支持有临场感的战争叙事。
+
+为什么选它〔整理说明〕
+大画幅40mm与分层烟雾支持有临场感的战争叙事。
+
+观察重点〔整理说明〕
+看人物与烟雾中的树林层次。
+场景检查：沙袋纹理、烟中层次、人物与远景尺度。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。一名身穿无标识旧军服的成年通信员站在战壕沙袋旁，抬头望向远方后保持，衣角被风轻吹。机位高1.2米，感光面距人物8米，水平固定。左后阴天散射光，远处树林与薄烟；无开火、无爆炸、无伤者。无BGM、对白、字幕。
+[观感设计] 40mm大画幅球面；固定8米机距保持环境与人物关系，沙袋稍近且有清楚透视，树林在雾中逐层降低反差。柔和阴天顶侧光，肤色克制，军服与泥土分离，天空保持层次；平滑高光与自然皮肤纹理，不加胶片颗粒。
+[构图尺度] 固定8米机距、40mm与LF视觉画幅，竖向可见范围约4.1米；人物完整全身占画高约34–48%，保留头顶与脚下环境。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：40mm；本例光圈：T4；场景机距：8m
+质感参考：中性数字
+
+相关影片与适用边界〔影片资料记录〕
+《1917》（2019）；导演：Sam Mendes；摄影：Roger Deakins
+ALEXA Mini LF搭Signature Prime。Deakins称约99%用40mm；另有35mm与47mm。
+数字摄影；连续运动还依赖调度与隐藏剪辑。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+
+L095 · 烟中的守望
+战争现场
+略密实的暗部与500T颗粒让烟尘画面更有触感。
+
+为什么选它〔整理说明〕
+略密实的暗部与500T颗粒让烟尘画面更有触感。
+
+观察重点〔整理说明〕
+看衣物、烟层和暗部是否稳定。
+场景检查：沙袋纹理、烟中层次、人物与远景尺度。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] ARRI/ZEISS Ultra Prime；1× 球面；S35球面；8mm为8R直线超广角。
+[焦距] 32 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。一名身穿无标识旧军服的成年通信员站在战壕沙袋旁，抬头望向远方后保持，衣角被风轻吹。机位高1.2米，感光面距人物8米，水平固定。左后阴天散射光，远处树林与薄烟；无开火、无爆炸、无伤者。无BGM、对白、字幕。
+[观感设计] 32mm Super35球面，人物轮廓清楚，焦点落在脸和上身，近处沙袋与远树逐步柔化。冷灰环境保持少量自然橄榄绿和肤色，不去色成纯黑白；暗部有衣物细节，烟层只轻轻降低远景反差。500T细密可见颗粒与柔和云层高光，不添加抖动或模糊。
+[构图尺度] 固定8米机距、32mm与S35视觉画幅，竖向可见范围约3.5米；人物完整全身占画高约42–56%，保留头顶与脚下环境。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：ARRI/ZEISS Ultra Prime；卡口：PL；变形倍率：1×
+焦距：32mm；本例光圈：T4；场景机距：8m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《龙卷风之武士》（2025）；导演：John Maclean；摄影：Robbie Ryan
+ARRICAM LT/ST改为2-perf，搭Panavision Primo定焦及变焦；日内外250D 5207，夜外及密林500T 5219；多用T8/T11乃至T22获得深焦。
+本库镜头并非Primo，T4不是原片深焦光圈；仅把机身、片基对应项标为已核实。中文译名存在差异，保留英文Tornado和2025年避免与Twisters混淆。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Ultra Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses/arri-ultra-prime-lenses-technical-data
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L096 · 小画幅战地记
+战争现场
+Super16的紧凑视角与颗粒让战地记录更朴素。
+
+为什么选它〔整理说明〕
+Super16的紧凑视角与颗粒让战地记录更朴素。
+
+观察重点〔整理说明〕
+看7207颗粒与人物占比。
+场景检查：沙袋纹理、烟中层次、人物与远景尺度。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 16 视觉画幅约定；固定同一有效成像区域并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRIFLEX 416 · Super16
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 25 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 7207；胶片采集观感；模拟Kodak VISION3 250D 7207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。一名身穿无标识旧军服的成年通信员站在战壕沙袋旁，抬头望向远方后保持，衣角被风轻吹。机位高1.2米，感光面距人物8米，水平固定。左后阴天散射光，远处树林与薄烟；无开火、无爆炸、无伤者。无BGM、对白、字幕。
+[观感设计] 25mm Super16裁16:9，固定8米距离自然得到较紧的人物环境关系，不冒充Super35同焦距画角。沙袋纹理清楚、树林柔化；冷灰天光下肤色自然，绿色低饱和。7207胶片颗粒清晰但不是数字噪点，天空与衣服亮部有过渡。
+[构图尺度] 固定8米机距、25mm与S16视觉画幅，竖向可见范围约2.2米；以完整全身或近全身为主，人物约占画高68–80%，头顶脚下留少量余地。保持16:9全矩形与直线透视，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRIFLEX 416 · Super16；画幅：S16；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：25mm；本例光圈：T4；场景机距：8m
+质感参考：Kodak VISION3 250D 5207
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L097 · 荒野的边界
+西部荒野
+中广角与逆光的细节适合朴素而开阔的西部画面。
+
+为什么选它〔整理说明〕
+中广角与逆光的细节适合朴素而开阔的西部画面。
+
+观察重点〔整理说明〕
+看帽檐阴影和远山的层次。
+场景检查：逆光边缘、肤色、天空高光与地平线。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] ARRI/ZEISS Master Prime；1× 球面；S35球面；关注细节与边缘。
+[焦距] 35 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；胶片采集观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。一名穿旧长外套的成年旅人在荒漠木栅栏边站定，缓慢抬起帽檐后保持，微风卷动少量尘土。机位高1.3米，感光面距人物7米，水平固定。左后低角度夕阳，远处干旱山脊与空旷地平线，无武器。无BGM、对白、字幕。
+[观感设计] 35mm Super35球面，人物置于偏左，地平线在上三分之一，前景栅栏与远山形成纵深。夕阳轮廓暖金，面部靠天空反光自然提亮，帽檐下可读；沙土低饱和赭色，天空不过曝，细颗粒与克制高光，不加橙青重滤镜。
+[构图尺度] 固定7米机距、35mm与S35视觉画幅，竖向可见范围约2.8米；人物完整全身占画高约54–68%，保留头顶与脚下环境。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：ARRI/ZEISS Master Prime；卡口：PL；变形倍率：1×
+焦距：35mm；本例光圈：T4；场景机距：7m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《大地惊雷》（2010）；导演：Joel Coen / Ethan Coen；摄影：Roger Deakins
+摄影师列ARRI 535B主机与ARRILite备机，ARRI/ZEISS Master Prime常用27/32/35/40mm，近景有50mm；夜景与内景用500T 5219。
+本库机身与场景未逐镜对应；只确认Master Prime及列出的焦距。来源将日景200T 5217标为VISION3，与片基代际不符，本库不沿用该称谓或拿5213替换成事实。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Master Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes/arri-master-prime-technical-data
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L098 · 日落宽银幕
+西部荒野
+宽幅空间和细颗粒突出夕阳中的荒野轮廓。
+
+为什么选它〔整理说明〕
+宽幅空间和细颗粒突出夕阳中的荒野轮廓。
+
+观察重点〔整理说明〕
+看横向空间、帽沿高光和自然比例。
+场景检查：逆光边缘、肤色、天空高光与地平线。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision C Series；2× 变形宽银幕；2×变形；与球面不是纯系列对比。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 50D 5203；胶片采集观感；模拟Kodak VISION3 50D 5203，日光色彩、细颗粒、柔和高光。
+[固定场景] 4秒单镜头。一名穿旧长外套的成年旅人在荒漠木栅栏边站定，缓慢抬起帽檐后保持，微风卷动少量尘土。机位高1.3米，感光面距人物7米，水平固定。左后低角度夕阳，远处干旱山脊与空旷地平线，无武器。无BGM、对白、字幕。
+[观感设计] 40mm 2×变形宽银幕，正确解压裁16:9全幅；固定7米机距，人物与远山自然比例，不横向拉胖。栅栏在近处提供引导，远尘薄而分层；夕阳暖金高光柔顺，天空保留渐变，50D细颗粒；局部微弱水平耀斑只靠近太阳边缘。
+[构图尺度] 固定7米机距、40mm与S35视觉画幅，竖向可见范围约2.5米；以完整全身或近全身为主，人物约占画高61–73%，头顶脚下留少量余地。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision C Series；卡口：PV；变形倍率：2×
+焦距：40mm；本例光圈：T4；场景机距：7m
+质感参考：Kodak VISION3 50D 5203
+
+相关影片与适用边界〔影片资料记录〕
+《北欧人》（2022）；导演：Robert Eggers；摄影：Jarin Blaschke
+主要Panavision Millennium XL2搭经Dan Sasaki调整的Primo球面；50D 5203用于大量日景及火山终场，200T 5213、250D 5207、500T 5219分用于不同光线段落。
+本库C/G是变形镜头，不是原片特调Primo球面。只能逐项标机身或片基相同；夜景还使用光谱滤镜、灯色和调色。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision C Series https://www.panavision.com/camera-and-optics/optics/product-detail/c-c-series
+VISION3 50D 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_50D_5203_TI-2657_Technical-Data_EN.pdf
+
+L099 · 旷野孤身
+西部荒野
+大画幅广角的环境信息让孤独感来自人与土地的比例。
+
+为什么选它〔整理说明〕
+大画幅广角的环境信息让孤独感来自人与土地的比例。
+
+观察重点〔整理说明〕
+看空旷部分是否有细节。
+场景检查：逆光边缘、肤色、天空高光与地平线。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ZEISS Supreme Prime；1× 球面；大画幅球面；关注焦内外过渡。
+[焦距] 35 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。一名穿旧长外套的成年旅人在荒漠木栅栏边站定，缓慢抬起帽檐后保持，微风卷动少量尘土。机位高1.3米，感光面距人物7米，水平固定。左后低角度夕阳，远处干旱山脊与空旷地平线，无武器。无BGM、对白、字幕。
+[观感设计] 35mm大画幅球面，人物偏左，右侧大片荒地留白，前景栅栏与远山距离清楚；不靠模糊整片背景表现电影感。暖金边缘光与稍冷天空补光分开，脸部自然，灰赭大地与蓝灰远山低饱和；中性数字细节与平滑天空高光，无颗粒。
+[构图尺度] 固定7米机距、35mm与LF视觉画幅，竖向可见范围约4.1米；人物完整全身占画高约34–48%，保留头顶与脚下环境。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ZEISS Supreme Prime；卡口：PL；变形倍率：1×
+焦距：35mm；本例光圈：T4；场景机距：7m
+质感参考：中性数字
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Supreme Prime 规格 https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-lenses.html
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+
+L100 · 风沙中的面孔
+西部荒野
+较紧的取景把帽檐阴影和风吹面部放在重点。
+
+为什么选它〔整理说明〕
+较紧的取景把帽檐阴影和风吹面部放在重点。
+
+观察重点〔整理说明〕
+看脸部纹理和逆光散景。
+场景检查：逆光边缘、肤色、天空高光与地平线。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke Panchro/i Classic S35；1× 球面；复古镀膜倾向；65mm为微距款。
+[焦距] 75 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；胶片采集观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。一名穿旧长外套的成年旅人在荒漠木栅栏边站定，缓慢抬起帽檐后保持，微风卷动少量尘土。机位高1.3米，感光面距人物7米，水平固定。左后低角度夕阳，远处干旱山脊与空旷地平线，无武器。无BGM、对白、字幕。
+[观感设计] 75mm Super35球面，在固定7米距离得到较紧人物取景；焦点在眼睛，近栅栏和远山逐渐虚化。帽檐下有天空反射的微弱填光，脸部明暗比约4:1，夕阳边缘柔和不过曝；土色克制、自然肤色、细颗粒和轻微高光扩散。
+[构图尺度] 固定7米机距、75mm与S35视觉画幅，竖向可见范围约1.3米；较紧的大半身取景，约头顶至大腿或膝上，保持环境轮廓，不裁成只有脸的特写。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke Panchro/i Classic S35；卡口：PL；变形倍率：1×
+焦距：75mm；本例光圈：T4；场景机距：7m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《龙卷风之武士》（2025）；导演：John Maclean；摄影：Robbie Ryan
+ARRICAM LT/ST改为2-perf，搭Panavision Primo定焦及变焦；日内外250D 5207，夜外及密林500T 5219；多用T8/T11乃至T22获得深焦。
+本库镜头并非Primo，T4不是原片深焦光圈；仅把机身、片基对应项标为已核实。中文译名存在差异，保留英文Tornado和2025年避免与Twisters混淆。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Panchro Classic S35 规格 https://cookeoptics.com/wp-content/uploads/2022/10/COOKE_Panchro-i-Classic-S35_Specification_030623.pdf
+Panchro 光学设计 https://cookeoptics.com/news-and-events/recreating-the-panchro-look/
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L101 · 薄雾石门
+奇幻童话
+宽阔而有层次的树林承载轻盈的奇幻感。
+
+为什么选它〔整理说明〕
+宽阔而有层次的树林承载轻盈的奇幻感。
+
+观察重点〔整理说明〕
+看暖灯是否只影响附近区域。
+场景检查：透视层次、薄雾、点光源与肤色。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 29 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；数字采集，模拟胶片观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。一名穿朴素旅行披风的成年人站在林间石拱门前，缓慢托起一只微亮的暖色小灯后保持。机位高1.4米，感光面距人物5米，水平固定。左后傍晚柔光穿过树叶，地面薄雾，远处树干层层退远；无变身、无魔法爆发。无BGM、对白、字幕。
+[观感设计] 29mm大画幅球面广角，石门、人物与远处树干构成清楚的层层透视，树干保持直线；薄雾仅在后景逐渐增加。傍晚环境青灰微绿，手中小灯为克制暖金，只照亮指尖附近，不把整张脸染橙。数字采集模拟250D细颗粒与柔顺高光，避免发光皮肤。
+[构图尺度] 固定5米机距、29mm与LF视觉画幅，竖向可见范围约3.6米；人物完整全身占画高约41–55%，保留头顶与脚下环境。保持16:9全矩形与直线透视，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：29mm；本例光圈：T4；场景机距：5m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《坎塔拉》（2022）；导演：Rishab Shetty；摄影：Arvind Kashyap
+ALEXA Mini LF与LF搭Signature Prime；摄影师将日景设计得鲜活，夜景则收窄到少量蓝青色，并与调色师检查暗部。
+来源未逐项列本库29/58/95mm等焦距，数字摄影没有Kodak片基；本库胶片观感项是另行模拟，不能标作原片胶片。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L102 · 林间的暖意
+奇幻童话
+自然肤色与清透环境适合明亮、温柔的童话叙事。
+
+为什么选它〔整理说明〕
+自然肤色与清透环境适合明亮、温柔的童话叙事。
+
+观察重点〔整理说明〕
+看叶片与皮肤是否保持自然色彩。
+场景检查：透视层次、薄雾、点光源与肤色。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 35 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 50D 5203；胶片采集观感；模拟Kodak VISION3 50D 5203，日光色彩、细颗粒、柔和高光。
+[固定场景] 4秒单镜头。一名穿朴素旅行披风的成年人站在林间石拱门前，缓慢托起一只微亮的暖色小灯后保持。机位高1.4米，感光面距人物5米，水平固定。左后傍晚柔光穿过树叶，地面薄雾，远处树干层层退远；无变身、无魔法爆发。无BGM、对白、字幕。
+[观感设计] 35mm Super35球面中广角，人物和石门清楚，远树柔化仍可辨；薄雾轻透，不遮住树叶。保留叶片的自然微绿、灰石和温暖肤色，小灯暖金面积很小；50D细颗粒与柔和明亮天光，饱和度适中，不用梦幻粉雾覆盖画面。
+[构图尺度] 固定5米机距、35mm与S35视觉画幅，竖向可见范围约2米；以完整全身或近全身为主，人物约占画高77–89%，头顶脚下留少量余地。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：35mm；本例光圈：T4；场景机距：5m
+质感参考：Kodak VISION3 50D 5203
+
+相关影片与适用边界〔影片资料记录〕
+《北欧人》（2022）；导演：Robert Eggers；摄影：Jarin Blaschke
+主要Panavision Millennium XL2搭经Dan Sasaki调整的Primo球面；50D 5203用于大量日景及火山终场，200T 5213、250D 5207、500T 5219分用于不同光线段落。
+本库C/G是变形镜头，不是原片特调Primo球面。只能逐项标机身或片基相同；夜景还使用光谱滤镜、灯色和调色。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+VISION3 50D 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_50D_5203_TI-2657_Technical-Data_EN.pdf
+
+L103 · 旧童话的回声
+奇幻童话
+较柔的高光和低饱和色彩适合带神秘感的古老童话。
+
+为什么选它〔整理说明〕
+较柔的高光和低饱和色彩适合带神秘感的古老童话。
+
+观察重点〔整理说明〕
+看灯光过渡和石材表面。
+场景检查：透视层次、薄雾、点光源与肤色。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke Panchro/i Classic S35；1× 球面；复古镀膜倾向；65mm为微距款。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。一名穿朴素旅行披风的成年人站在林间石拱门前，缓慢托起一只微亮的暖色小灯后保持。机位高1.4米，感光面距人物5米，水平固定。左后傍晚柔光穿过树叶，地面薄雾，远处树干层层退远；无变身、无魔法爆发。无BGM、对白、字幕。
+[观感设计] 40mm Super35球面，双眼与披风纹理清楚，远树温和散开；灰石拱门维持纵深。低饱和蓝灰与橄榄绿环境，小灯暖金高光略柔化但不变成光球；肤色自然，暗处石材可读，500T细颗粒稳定，神秘感来自层次而非漆黑。
+[构图尺度] 固定5米机距、40mm与S35视觉画幅，竖向可见范围约1.8米；以完整全身或近全身为主，人物约占画高89–98%，头顶脚下留少量余地。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke Panchro/i Classic S35；卡口：PL；变形倍率：1×
+焦距：40mm；本例光圈：T4；场景机距：5m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《牡丹花下》（2017）；导演：Sofia Coppola；摄影：Philippe Le Sourd
+摄影师自述列ARRICAM LT与Kodak VISION3 500T 5219，全片降冲一档；日景用复古Cooke S2/Panchro，暗夜另用经调整的高速镜头。
+本库Panchro/i Classic S35不等于原片复古S2；只能确认LT与5219这两个组件，不声称同镜头系列或同冲洗流程。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Panchro Classic S35 规格 https://cookeoptics.com/wp-content/uploads/2022/10/COOKE_Panchro-i-Classic-S35_Specification_030623.pdf
+Panchro 光学设计 https://cookeoptics.com/news-and-events/recreating-the-panchro-look/
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L104 · 宽幅奇境
+奇幻童话
+横向画面容纳树干、拱门与小人物的关系。
+
+为什么选它〔整理说明〕
+横向画面容纳树干、拱门与小人物的关系。
+
+观察重点〔整理说明〕
+看竖向椭圆散景和人物比例。
+场景检查：透视层次、薄雾、点光源与肤色。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision C Series；2× 变形宽银幕；2×变形；与球面不是纯系列对比。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 200T 5213；胶片采集观感；模拟Kodak VISION3 200T 5213，钨丝灯平衡、细颗粒，保留灯光原有色差。
+[固定场景] 4秒单镜头。一名穿朴素旅行披风的成年人站在林间石拱门前，缓慢托起一只微亮的暖色小灯后保持。机位高1.4米，感光面距人物5米，水平固定。左后傍晚柔光穿过树叶，地面薄雾，远处树干层层退远；无变身、无魔法爆发。无BGM、对白、字幕。
+[观感设计] 40mm 2×变形宽银幕，正确解压裁16:9，人物与树干自然比例；人物偏左，拱门内远树成为第二层景。远处小亮斑轻微竖椭圆，暖灯附近极轻水平光晕；青灰环境与暖金灯光分离，200T细颗粒，柔顺高光，不把背景拉成抽象条纹。
+[构图尺度] 固定5米机距、40mm与S35视觉画幅，竖向可见范围约1.8米；以完整全身或近全身为主，人物约占画高89–98%，头顶脚下留少量余地。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision C Series；卡口：PV；变形倍率：2×
+焦距：40mm；本例光圈：T4；场景机距：5m
+质感参考：Kodak VISION3 200T 5213
+
+相关影片与适用边界〔影片资料记录〕
+《北欧人》（2022）；导演：Robert Eggers；摄影：Jarin Blaschke
+主要Panavision Millennium XL2搭经Dan Sasaki调整的Primo球面；50D 5203用于大量日景及火山终场，200T 5213、250D 5207、500T 5219分用于不同光线段落。
+本库C/G是变形镜头，不是原片特调Primo球面。只能逐项标机身或片基相同；夜景还使用光谱滤镜、灯色和调色。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision C Series https://www.panavision.com/camera-and-optics/optics/product-detail/c-c-series
+VISION3 200T 技术表 https://www.kodak.com/content/pdfs/motion/KODAK-VISION3-200T-5213-7213-technical-information.pdf
+
+L105 · 窗下旧书
+年代古装
+窗光和织物细节适合细腻的年代人物叙事。
+
+为什么选它〔整理说明〕
+窗光和织物细节适合细腻的年代人物叙事。
+
+观察重点〔整理说明〕
+看皮肤与木屏风是否分得开。
+场景检查：织物、木材、肤色与暖光高光。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；胶片采集观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。一名穿无纹样传统长袍的成年人坐在旧木书桌边，缓慢合上一本无字封面的书后保持。机位高1.35米，感光面距人物3米，水平固定。左侧大窗柔光，右后小油灯发出暖光，背景有深色木屏风和素色帷幔。无现代物件。无BGM、对白、字幕。
+[观感设计] 40mm Super35球面；眼睛、书与桌缘清楚，后方屏风与帷幔柔和分离。左窗大柔光让脸部明暗比约4:1，肤色温润但自然，深木色和素布保留纹理；油灯只为小面积暖色，250D细颗粒，高光柔顺，避免统一泛黄。
+[构图尺度] 固定3米机距、40mm与S35视觉画幅，竖向可见范围约1.1米；坐姿中景，保留完整头顶、上身与桌缘，背景隔断仍有空间。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：40mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《小妇人》（2019）；导演：Greta Gerwig；摄影：Yorick Le Saux
+ARRICAM ST/LT搭Cooke S4，40/50mm属常用焦段；全部日夜及内外场景均用35mmKodak VISION3 500T 5219，常在T2至T2.8拍摄。
+还用柔光滤镜、Varicon预闪及增感等手法；本库T4、16:9和固定场景不同。来源也列出32mm，但其与本库S4焦段表不符，本库不采用该档。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L106 · 油灯旧梦
+年代古装
+微暖肤色、旧木器与局部油灯营造温和的时代感。
+
+为什么选它〔整理说明〕
+微暖肤色、旧木器与局部油灯营造温和的时代感。
+
+观察重点〔整理说明〕
+看油灯亮部是否仍有形状。
+场景检查：织物、木材、肤色与暖光高光。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke Panchro/i Classic S35；1× 球面；复古镀膜倾向；65mm为微距款。
+[焦距] 50 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。一名穿无纹样传统长袍的成年人坐在旧木书桌边，缓慢合上一本无字封面的书后保持。机位高1.35米，感光面距人物3米，水平固定。左侧大窗柔光，右后小油灯发出暖光，背景有深色木屏风和素色帷幔。无现代物件。无BGM、对白、字幕。
+[观感设计] 50mm Super35球面，焦点在眼睛与合书的手，屏风与帷幔逐步虚化；不改变固定3米距离。侧窗光微冷、油灯柔暖，皮肤中性色自然，暗部木纹可读。500T细颗粒与轻微高光扩散，油灯亮芯仍有形状，不以大光晕或褐色滤镜代替年代质感。
+[构图尺度] 固定3米机距、50mm与S35视觉画幅，竖向可见范围约0.8米；上半身取景，保留完整头顶、肩与部分桌缘，不强求整张桌子。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke Panchro/i Classic S35；卡口：PL；变形倍率：1×
+焦距：50mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《牡丹花下》（2017）；导演：Sofia Coppola；摄影：Philippe Le Sourd
+摄影师自述列ARRICAM LT与Kodak VISION3 500T 5219，全片降冲一档；日景用复古Cooke S2/Panchro，暗夜另用经调整的高速镜头。
+本库Panchro/i Classic S35不等于原片复古S2；只能确认LT与5219这两个组件，不声称同镜头系列或同冲洗流程。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Panchro Classic S35 规格 https://cookeoptics.com/wp-content/uploads/2022/10/COOKE_Panchro-i-Classic-S35_Specification_030623.pdf
+Panchro 光学设计 https://cookeoptics.com/news-and-events/recreating-the-panchro-look/
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L107 · 屏风后的光
+年代古装
+大画幅中焦把织物和人像的过渡放在中心。
+
+为什么选它〔整理说明〕
+大画幅中焦把织物和人像的过渡放在中心。
+
+观察重点〔整理说明〕
+看脸部、布料和灯光焦外。
+场景检查：织物、木材、肤色与暖光高光。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 58 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 200T 5213；数字采集，模拟胶片观感；模拟Kodak VISION3 200T 5213，钨丝灯平衡、细颗粒，保留灯光原有色差。
+[固定场景] 4秒单镜头。一名穿无纹样传统长袍的成年人坐在旧木书桌边，缓慢合上一本无字封面的书后保持。机位高1.35米，感光面距人物3米，水平固定。左侧大窗柔光，右后小油灯发出暖光，背景有深色木屏风和素色帷幔。无现代物件。无BGM、对白、字幕。
+[观感设计] 58mm大画幅球面，固定3米距人物，双眼和脸部清楚，帷幔焦外柔和，木屏风轮廓仍可辨。左窗柔光与局部暖灯分离，低饱和灰木色、素布与自然肤色；数字采集模拟200T细颗粒和柔和灯光高光，暗部不糊成一团。
+[构图尺度] 固定3米机距、58mm与LF视觉画幅，竖向可见范围约1.1米；坐姿中景，保留完整头顶、上身与桌缘，背景隔断仍有空间。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：58mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 200T 5213
+
+相关影片与适用边界〔影片资料记录〕
+《坎塔拉》（2022）；导演：Rishab Shetty；摄影：Arvind Kashyap
+ALEXA Mini LF与LF搭Signature Prime；摄影师将日景设计得鲜活，夜景则收窄到少量蓝青色，并与调色师检查暗部。
+来源未逐项列本库29/58/95mm等焦距，数字摄影没有Kodak片基；本库胶片观感项是另行模拟，不能标作原片胶片。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+VISION3 200T 技术表 https://www.kodak.com/content/pdfs/motion/KODAK-VISION3-200T-5213-7213-technical-information.pdf
+
+L108 · 旧时代札记
+年代古装
+Super16颗粒把平静日常转化为亲近的年代记录。
+
+为什么选它〔整理说明〕
+Super16颗粒把平静日常转化为亲近的年代记录。
+
+观察重点〔整理说明〕
+看7213颗粒和木器中间调。
+场景检查：织物、木材、肤色与暖光高光。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 16 视觉画幅约定；固定同一有效成像区域并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRIFLEX 416 · Super16
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 25 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 200T 7213；胶片采集观感；模拟Kodak VISION3 200T 7213，钨丝灯平衡、细颗粒，保留灯光原有色差。
+[固定场景] 4秒单镜头。一名穿无纹样传统长袍的成年人坐在旧木书桌边，缓慢合上一本无字封面的书后保持。机位高1.35米，感光面距人物3米，水平固定。左侧大窗柔光，右后小油灯发出暖光，背景有深色木屏风和素色帷幔。无现代物件。无BGM、对白、字幕。
+[观感设计] 25mm Super16裁16:9，固定3米距人物产生较紧构图，不等同Super35的25mm广角。双眼与衣纹清楚、后景温和虚化；左窗光自然，右后油灯小而暖，木器中间调丰富。7213可见但细密的颗粒与柔和明暗过渡，保持肤色，不做全黄旧照片。
+[构图尺度] 固定3米机距、25mm与S16视觉画幅，竖向可见范围约0.8米；上半身取景，保留完整头顶、肩与部分桌缘，不强求整张桌子。保持16:9全矩形与直线透视，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRIFLEX 416 · Super16；画幅：S16；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：25mm；本例光圈：T4；场景机距：3m
+质感参考：Kodak VISION3 200T 5213
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+VISION3 200T 技术表 https://www.kodak.com/content/pdfs/motion/KODAK-VISION3-200T-5213-7213-technical-information.pdf
+
+L109 · 金色舞台梦
+音乐舞台
+变形宽幅与局部色彩灯适合歌舞片的浪漫舞台。
+
+为什么选它〔整理说明〕
+变形宽幅与局部色彩灯适合歌舞片的浪漫舞台。
+
+观察重点〔整理说明〕
+看灯的椭圆焦外与肤色。
+场景检查：肤色、亮灯边缘、焦外形状与舞台纵深。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision C Series；2× 变形宽银幕；2×变形；与球面不是纯系列对比。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。一名成年舞者站在空剧院舞台上，缓慢展开一只手臂后保持。机位高1.4米，感光面距舞者5米，水平固定。左上白色柔光照脸，右后暖金轮廓灯，远处两盏低亮度蓝色舞台灯，少量舞台薄雾。无观众特写、无字幕、无对白、无BGM。
+[观感设计] 40mm 2×变形宽银幕，正确解压裁16:9，固定5米机距；舞者与舞台形成清楚前后层次。白色面光让肤色自然，暖金轮廓与远蓝灯分离；亮灯焦外轻微竖椭圆，水平耀斑仅在灯旁，保留人眼。500T细颗粒、高光柔顺，薄雾只衬托光束。
+[构图尺度] 固定5米机距、40mm与S35视觉画幅，竖向可见范围约1.8米；以完整全身或近全身为主，人物约占画高89–98%，头顶脚下留少量余地。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision C Series；卡口：PV；变形倍率：2×
+焦距：40mm；本例光圈：T4；场景机距：5m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《爱乐之城》（2016）；导演：Damien Chazelle；摄影：Linus Sandgren
+35mm主片用XL2与C系列，40mm较常用。日外250D，内景与夜景500T；两者均降冲一档。
+本库配方为取向启发；16mm小段片基资料存在冲突。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision C Series https://www.panavision.com/camera-and-optics/optics/product-detail/c-c-series
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L110 · 舞台的边缘
+音乐舞台
+控制反差的变形画面适合表演与空间并重的舞台。
+
+为什么选它〔整理说明〕
+控制反差的变形画面适合表演与空间并重的舞台。
+
+观察重点〔整理说明〕
+看脸部面光和蓝灯亮部。
+场景检查：肤色、亮灯边缘、焦外形状与舞台纵深。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision G Series；2× 变形宽银幕；2×变形；关注反差与耀斑控制。
+[焦距] 50 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 200T 5213；胶片采集观感；模拟Kodak VISION3 200T 5213，钨丝灯平衡、细颗粒，保留灯光原有色差。
+[固定场景] 4秒单镜头。一名成年舞者站在空剧院舞台上，缓慢展开一只手臂后保持。机位高1.4米，感光面距舞者5米，水平固定。左上白色柔光照脸，右后暖金轮廓灯，远处两盏低亮度蓝色舞台灯，少量舞台薄雾。无观众特写、无字幕、无对白、无BGM。
+[观感设计] 50mm 2×变形宽银幕，正确解压裁16:9，不拉伸人体；固定5米距离自然形成较紧取景。双眼清楚、后景蓝灯轻微竖椭圆，舞台仍有空间。自然肤色、白面光与金边光，蓝色灯保留边缘细节；200T细颗粒，耀斑轻且局部，不让薄雾洗白全画面。
+[构图尺度] 固定5米机距、50mm与S35视觉画幅，竖向可见范围约1.4米；较紧的大半身取景，约头顶至大腿或膝上，保持环境轮廓，不裁成只有脸的特写。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision G Series；卡口：PV；变形倍率：2×
+焦距：50mm；本例光圈：T4；场景机距：5m
+质感参考：Kodak VISION3 200T 5213
+
+相关影片与适用边界〔影片资料记录〕
+《西区故事》（2021）；导演：Steven Spielberg；摄影：Janusz Kamiński
+用Panavision C/T系列变形镜头；夜外500T 5219，公寓内景多200T 5213，日外50D 5203并视光线改用250D 5207；常用T8至T11保持较深景深。
+本库G系列不是原片C/T系列，T4也不是原片常用T8至T11。必须逐项标注只对应镜头系列或片基，不把不同场景片基混成同一原片配方。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision G Series https://www.panavision.com/camera-and-optics/optics/product-detail/g-g-series
+VISION3 200T 技术表 https://www.kodak.com/content/pdfs/motion/KODAK-VISION3-200T-5213-7213-technical-information.pdf
+
+L111 · 独舞的近处
+音乐舞台
+中长焦把舞者脸上的情绪和灯光过渡放大。
+
+为什么选它〔整理说明〕
+中长焦把舞者脸上的情绪和灯光过渡放大。
+
+观察重点〔整理说明〕
+看眼睛、发丝轮廓和远灯散景。
+场景检查：肤色、亮灯边缘、焦外形状与舞台纵深。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] Cooke S4/i；1× 球面；S35球面；关注肤色与焦点过渡。
+[焦距] 75 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。一名成年舞者站在空剧院舞台上，缓慢展开一只手臂后保持。机位高1.4米，感光面距舞者5米，水平固定。左上白色柔光照脸，右后暖金轮廓灯，远处两盏低亮度蓝色舞台灯，少量舞台薄雾。无观众特写、无字幕、无对白、无BGM。
+[观感设计] 75mm Super35球面，固定5米机距，双眼与脸部轮廓清楚，后方舞台蓝灯圆形柔化；不强求全身构图。白面光自然、金色轮廓不过曝，蓝灯仅在后景，脸不染蓝；明暗比约4:1，细密500T颗粒与平滑高光，没有过强磨皮。
+[构图尺度] 固定5米机距、75mm与S35视觉画幅，竖向可见范围约0.9米；半身取景，约头顶至腰部，双眼清楚，背景柔化，不擅自移近成脸部特写。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：Cooke S4/i；卡口：PL；变形倍率：1×
+焦距：75mm；本例光圈：T4；场景机距：5m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《小妇人》（2019）；导演：Greta Gerwig；摄影：Yorick Le Saux
+ARRICAM ST/LT搭Cooke S4，40/50mm属常用焦段；全部日夜及内外场景均用35mmKodak VISION3 500T 5219，常在T2至T2.8拍摄。
+还用柔光滤镜、Varicon预闪及增感等手法；本库T4、16:9和固定场景不同。来源也列出32mm，但其与本库S4焦段表不符，本库不采用该档。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Cooke S4/i S35 https://cookeoptics.com/lens/s4-i-prime/
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L112 · 排练场的空气
+音乐舞台
+自然的焦内外过渡让舞台表演更有呼吸感。
+
+为什么选它〔整理说明〕
+自然的焦内外过渡让舞台表演更有呼吸感。
+
+观察重点〔整理说明〕
+看薄雾是否仍然通透。
+场景检查：肤色、亮灯边缘、焦外形状与舞台纵深。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ZEISS Supreme Prime；1× 球面；大画幅球面；关注焦内外过渡。
+[焦距] 50 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。一名成年舞者站在空剧院舞台上，缓慢展开一只手臂后保持。机位高1.4米，感光面距舞者5米，水平固定。左上白色柔光照脸，右后暖金轮廓灯，远处两盏低亮度蓝色舞台灯，少量舞台薄雾。无观众特写、无字幕、无对白、无BGM。
+[观感设计] 50mm大画幅球面，焦点在舞者脸部，近处舞台边缘与远灯柔和分层；适度留出伸臂方向。白面光保持皮肤纹理，金轮廓和蓝后灯局部区分，薄雾轻透不洗掉黑位；中性数字，无胶片颗粒，高光柔顺且灯泡有边界。
+[构图尺度] 固定5米机距、50mm与LF视觉画幅，竖向可见范围约2.1米；以完整全身或近全身为主，人物约占画高75–87%，头顶脚下留少量余地。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ZEISS Supreme Prime；卡口：PL；变形倍率：1×
+焦距：50mm；本例光圈：T4；场景机距：5m
+质感参考：中性数字
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Supreme Prime 规格 https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-lenses.html
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+
+L113 · 赛前专注
+运动竞技
+较紧的中长焦把竞技感放在眼神和汗水。
+
+为什么选它〔整理说明〕
+较紧的中长焦把竞技感放在眼神和汗水。
+
+观察重点〔整理说明〕
+看汗珠高光和球网虚化。
+场景检查：汗水高光、衣物纹理、背景分离与球场尺度。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] ARRI/ZEISS Ultra Prime；1× 球面；S35球面；8mm为8R直线超广角。
+[焦距] 85 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。一名成年网球运动员在球场边站定，缓慢转动握拍的手腕后保持，额头有汗珠。机位高1.2米，感光面距运动员6米，水平固定。左后低角度傍晚阳光，背景是空看台与球网，场地线保持清楚，无击球和高速动作。无BGM、对白、字幕。
+[观感设计] 85mm Super35球面，固定6米距离得到较紧人物取景，焦点在双眼与脸部汗水，球网与空看台渐进虚化；不强求全身。夕阳轮廓暖、天空反光稍冷，肤色自然，汗珠小亮点不过曝，500T细颗粒、暗衣纹理清楚。
+[构图尺度] 固定6米机距、85mm与S35视觉画幅，竖向可见范围约1米；半身取景，约头顶至腰部，双眼清楚，背景柔化，不擅自移近成脸部特写。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：ARRI/ZEISS Ultra Prime；卡口：PL；变形倍率：1×
+焦距：85mm；本例光圈：T4；场景机距：6m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《挑战者》（2024）；导演：Luca Guadagnino；摄影：Sayombhu Mukdeeprom
+ARRICAM ST/LT以3-perf35mm拍Kodak VISION3 500T 5219；主要定焦为Zeiss Standard Speed与Super Speed，比赛还使用变焦和特种装置。
+本库Ultra Prime不是该采访列出的主镜头。本库LT+5219只对应机身与片基；比赛的运动与反应镜头依赖调度、起重机及后期。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Ultra Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses/arri-ultra-prime-lenses-technical-data
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L114 · 球场边的张力
+运动竞技
+中广角保留场地线和身体关系，适合体育叙事。
+
+为什么选它〔整理说明〕
+中广角保留场地线和身体关系，适合体育叙事。
+
+观察重点〔整理说明〕
+看球场线与运动员的比例。
+场景检查：汗水高光、衣物纹理、背景分离与球场尺度。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA 35 · 4K 16:9裁切
+[镜头] ARRI/ZEISS Master Prime；1× 球面；S35球面；关注细节与边缘。
+[焦距] 27 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。一名成年网球运动员在球场边站定，缓慢转动握拍的手腕后保持，额头有汗珠。机位高1.2米，感光面距运动员6米，水平固定。左后低角度傍晚阳光，背景是空看台与球网，场地线保持清楚，无击球和高速动作。无BGM、对白、字幕。
+[观感设计] 27mm Super35球面，运动员、场地线和球网都可辨识，线条保持直，近远有自然透视。低角度夕阳勾出肩部与球拍轮廓，天空反光补足脸部；自然肤色、低饱和场地色、衣物清楚。数字影像无颗粒，汗水高光柔顺不发白。
+[构图尺度] 固定6米机距、27mm与S35视觉画幅，竖向可见范围约3.1米；人物完整全身占画高约48–62%，保留头顶与脚下环境。保持16:9全矩形与直线透视，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA 35 · 4K 16:9裁切；画幅：S35；介质：digital
+镜头：ARRI/ZEISS Master Prime；卡口：PL；变形倍率：1×
+焦距：27mm；本例光圈：T4；场景机距：6m
+质感参考：中性数字
+
+相关影片与适用边界〔影片资料记录〕
+《异形：夺命舰》（2024）；导演：Fede Álvarez；摄影：Galo Olivares
+ALEXA 35搭ARRI/ZEISS Master Prime为主；偶用Ultra Prime及8R超广角。摄影师与调色师Mitch Paulson合作制作LUT。
+访谈未列本库27/35mm等每个焦距的具体镜头；原片为数字摄影，500T模拟项不是原片片基，也不继承原片LUT。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+Master Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes/arri-master-prime-technical-data
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+
+L115 · 训练日记
+运动竞技
+Super16颗粒和紧凑环境关系适合朴素的运动记录。
+
+为什么选它〔整理说明〕
+Super16颗粒和紧凑环境关系适合朴素的运动记录。
+
+观察重点〔整理说明〕
+看7207颗粒和衣服亮部。
+场景检查：汗水高光、衣物纹理、背景分离与球场尺度。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 16 视觉画幅约定；固定同一有效成像区域并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRIFLEX 416 · Super16
+[镜头] ARRI/ZEISS Ultra Prime；1× 球面；S35球面；8mm为8R直线超广角。
+[焦距] 24 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 7207；胶片采集观感；模拟Kodak VISION3 250D 7207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。一名成年网球运动员在球场边站定，缓慢转动握拍的手腕后保持，额头有汗珠。机位高1.2米，感光面距运动员6米，水平固定。左后低角度傍晚阳光，背景是空看台与球网，场地线保持清楚，无击球和高速动作。无BGM、对白、字幕。
+[观感设计] 24mm Super16裁16:9，固定6米机距保留人物与球网环境关系，但不冒充Super35广角。焦点在人脸，背景稍柔；夕阳微暖、肤色自然，衣服亮部留纹理。7207细密可见颗粒，球场颜色克制，无抖动和模拟录像故障。
+[构图尺度] 固定6米机距、24mm与S16视觉画幅，竖向可见范围约1.8米；以完整全身或近全身为主，人物约占画高89–98%，头顶脚下留少量余地。保持16:9全矩形与直线透视，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRIFLEX 416 · Super16；画幅：S16；介质：film
+镜头：ARRI/ZEISS Ultra Prime；卡口：PL；变形倍率：1×
+焦距：24mm；本例光圈：T4；场景机距：6m
+质感参考：Kodak VISION3 250D 5207
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Ultra Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses/arri-ultra-prime-lenses-technical-data
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L116 · 看台之外
+运动竞技
+大画幅中长焦把赛前情绪从场地中分离出来。
+
+为什么选它〔整理说明〕
+大画幅中长焦把赛前情绪从场地中分离出来。
+
+观察重点〔整理说明〕
+看脸部和远看台的分离。
+场景检查：汗水高光、衣物纹理、背景分离与球场尺度。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 95 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；数字采集，模拟胶片观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。一名成年网球运动员在球场边站定，缓慢转动握拍的手腕后保持，额头有汗珠。机位高1.2米，感光面距运动员6米，水平固定。左后低角度傍晚阳光，背景是空看台与球网，场地线保持清楚，无击球和高速动作。无BGM、对白、字幕。
+[观感设计] 95mm大画幅球面，固定6米距离自然形成紧一些的人物取景，双眼与汗珠清楚，看台和球网渐进柔化；保持握拍手腕动作简单。夕阳暖轮廓、天空冷补光，肤色真实，汗珠高光平滑。数字采集模拟250D细颗粒，不以磨皮和过量锐化制造精致感。
+[构图尺度] 固定6米机距、95mm与LF视觉画幅，竖向可见范围约1.3米；较紧的大半身取景，约头顶至大腿或膝上，保持环境轮廓，不裁成只有脸的特写。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：95mm；本例光圈：T4；场景机距：6m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《坎塔拉》（2022）；导演：Rishab Shetty；摄影：Arvind Kashyap
+ALEXA Mini LF与LF搭Signature Prime；摄影师将日景设计得鲜活，夜景则收窄到少量蓝青色，并与调色师检查暗部。
+来源未逐项列本库29/58/95mm等焦距，数字摄影没有Kodak片基；本库胶片观感项是另行模拟，不能标作原片胶片。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L117 · 风暴之前
+灾难求生
+宽幅视野把小人物与巨大风暴环境放在一起。
+
+为什么选它〔整理说明〕
+宽幅视野把小人物与巨大风暴环境放在一起。
+
+观察重点〔整理说明〕
+看云层是否有灰阶和体积。
+场景检查：云层高光、雨幕层次、人物尺度与湿路反射。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] Panavision Millennium XL2
+[镜头] Panavision G Series；2× 变形宽银幕；2×变形；关注反差与耀斑控制。
+[焦距] 40 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；胶片采集观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。一名穿无标识雨衣的成年人站在乡间公路护栏旁，缓慢攥紧背包肩带后保持，衣服被大风吹动。机位高1.2米，感光面距人物8米，水平固定。左侧阴云间一束灰白天光，远处有深灰风暴云与薄雨幕，公路湿润，无倒塌、无闪电、无伤者。无BGM、对白、字幕。
+[观感设计] 40mm 2×变形宽银幕，正确解压裁16:9，人体与护栏比例自然；人物偏左，风暴云占据右侧和上部。灰白天光让雨衣和脸可辨，深灰云层层次丰富，湿路反射不过曝；500T细颗粒，克制冷灰色，无夸张闪电或蓝色滤镜。
+[构图尺度] 固定8米机距、40mm与S35视觉画幅，竖向可见范围约2.8米；人物完整全身占画高约54–68%，保留头顶与脚下环境。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：Panavision Millennium XL2；画幅：S35；介质：film
+镜头：Panavision G Series；卡口：PV；变形倍率：2×
+焦距：40mm；本例光圈：T4；场景机距：8m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《龙卷风》（2024）；导演：Lee Isaac Chung；摄影：Dan Mindel
+35mm主机包含Panavision Millennium XL，Primo Anamorphic为主并补C/T系列；日外50D 5203、车内250D 5207、暗景与夜景500T 5219。
+来源写Millennium XL，未明确XL2；也未列G系列。本库G配方不得标成该片完整组合，只能标相同片基；风暴还依赖实拍特效、VFX与调色。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+Millennium XL2 https://www.panavision.com/camera-and-optics/cameras/product-detail/pfxmxl-millennium-xl2
+Panavision G Series https://www.panavision.com/camera-and-optics/optics/product-detail/g-g-series
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf
+
+L118 · 雨幕中的人
+灾难求生
+清楚的层次与细颗粒适合风暴前的求生剧情。
+
+为什么选它〔整理说明〕
+清楚的层次与细颗粒适合风暴前的求生剧情。
+
+观察重点〔整理说明〕
+看雨幕和远处公路如何退远。
+场景检查：云层高光、雨幕层次、人物尺度与湿路反射。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRICAM LT
+[镜头] ARRI/ZEISS Master Prime；1× 球面；S35球面；关注细节与边缘。
+[焦距] 32 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 250D 5207；胶片采集观感；模拟Kodak VISION3 250D 5207，均衡日光色彩、自然肤色、细腻颗粒。
+[固定场景] 4秒单镜头。一名穿无标识雨衣的成年人站在乡间公路护栏旁，缓慢攥紧背包肩带后保持，衣服被大风吹动。机位高1.2米，感光面距人物8米，水平固定。左侧阴云间一束灰白天光，远处有深灰风暴云与薄雨幕，公路湿润，无倒塌、无闪电、无伤者。无BGM、对白、字幕。
+[观感设计] 32mm Super35球面，近护栏、中景人物和远处公路有透视层次，薄雨幕只逐渐降低远景反差。人物脸与雨衣纹理清楚；灰白天空、深灰云、湿路有不同明度，皮肤保留自然色。250D细颗粒与柔顺云层高光，不整片压黑。
+[构图尺度] 固定8米机距、32mm与S35视觉画幅，竖向可见范围约3.5米；人物完整全身占画高约42–56%，保留头顶与脚下环境。保持16:9全矩形，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRICAM LT；画幅：S35；介质：film
+镜头：ARRI/ZEISS Master Prime；卡口：PL；变形倍率：1×
+焦距：32mm；本例光圈：T4；场景机距：8m
+质感参考：Kodak VISION3 250D 5207
+
+相关影片与适用边界〔影片资料记录〕
+《龙卷风之武士》（2025）；导演：John Maclean；摄影：Robbie Ryan
+ARRICAM LT/ST改为2-perf，搭Panavision Primo定焦及变焦；日内外250D 5207，夜外及密林500T 5219；多用T8/T11乃至T22获得深焦。
+本库镜头并非Primo，T4不是原片深焦光圈；仅把机身、片基对应项标为已核实。中文译名存在差异，保留英文Tornado和2025年避免与Twisters混淆。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ARRI 胶片摄影机 https://www.arrirental.com/en/cameras/analog-film
+Master Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes/arri-master-prime-technical-data
+VISION3 250D 技术表 https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf
+
+L119 · 人在天地之间
+灾难求生
+大画幅广角的空旷环境强调自然环境的体量。
+
+为什么选它〔整理说明〕
+大画幅广角的空旷环境强调自然环境的体量。
+
+观察重点〔整理说明〕
+看人物是否仍是明确的尺度参照。
+场景检查：云层高光、雨幕层次、人物尺度与湿路反射。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：大画幅 LF 视觉画幅约定；固定16:9记录模式与同一有效成像区域。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA Mini LF · 4.3K LF 16:9
+[镜头] ARRI Signature Prime；1× 球面；大画幅球面；关注柔和焦外。
+[焦距] 25 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] 中性数字；数字画面风格；中性数字影像，忠实中性色，不添加胶片颗粒或额外光晕。
+[固定场景] 4秒单镜头。一名穿无标识雨衣的成年人站在乡间公路护栏旁，缓慢攥紧背包肩带后保持，衣服被大风吹动。机位高1.2米，感光面距人物8米，水平固定。左侧阴云间一束灰白天光，远处有深灰风暴云与薄雨幕，公路湿润，无倒塌、无闪电、无伤者。无BGM、对白、字幕。
+[观感设计] 25mm大画幅直线广角，近护栏强透视，人物偏下三分线作为尺度，远云和雨幕占画面主体，公路直线保持直。灰白侧天光、低饱和冷灰，人物脸虽小仍可辨；云层高光与深部都保留层次。中性数字影像无颗粒，无鱼眼暗圈。
+[构图尺度] 固定8米机距、25mm与LF视觉画幅，竖向可见范围约6.6米；人物全身仅占画高约21–31%，环境与天空占主要画面。保持16:9全矩形与直线透视，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA Mini LF · 4.3K LF 16:9；画幅：LF；介质：digital
+镜头：ARRI Signature Prime；卡口：LPL；变形倍率：1×
+焦距：25mm；本例光圈：T4；场景机距：8m
+质感参考：中性数字
+
+相关影片与适用边界〔影片资料记录〕
+《坎塔拉》（2022）；导演：Rishab Shetty；摄影：Arvind Kashyap
+ALEXA Mini LF与LF搭Signature Prime；摄影师将日景设计得鲜活，夜景则收窄到少量蓝青色，并与调色师检查暗部。
+来源未逐项列本库29/58/95mm等焦距，数字摄影没有Kodak片基；本库胶片观感项是另行模拟，不能标作原片胶片。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA Mini LF https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf
+Signature Prime 规格 https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes
+ARRI Signature Prime — Technical Data and Sensor-plane MOD https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes/technical-data-signature-prime
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+
+L120 · 阴云压境
+灾难求生
+广角前景与云层形成前后夹压的灾难氛围。
+
+为什么选它〔整理说明〕
+广角前景与云层形成前后夹压的灾难氛围。
+
+观察重点〔整理说明〕
+看护栏近景与天空的关系。
+场景检查：云层高光、雨幕层次、人物尺度与湿路反射。
+
+完整参数与执行正文〔原工具默认复制正文〕
+4秒；16:9；单一连续镜头；24 fps；180°快门作为自然运动模糊的视觉目标。
+采集约定：Super 35 视觉画幅约定；按同一中心有效成像区域取景并裁为16:9。
+固定光圈：T4。机距均从感光面或胶片平面起算。固定曝光与中性白、灰目标；保留场景原有光源方向及颜色，不因胶片 D/T 平衡标签改变灯光颜色。
+[机身] ARRI ALEXA 35 · 4K 16:9裁切
+[镜头] ARRI/ZEISS Ultra Prime；1× 球面；S35球面；8mm为8R直线超广角。
+[焦距] 20 mm；保持固定摄影机位置和主体距离，允许画角与主体占比随焦距自然变化。
+[质感] Kodak VISION3 500T 5219；数字采集，模拟胶片观感；模拟Kodak VISION3 500T 5219，钨丝灯平衡、自然颗粒，保留暗部层次。
+[固定场景] 4秒单镜头。一名穿无标识雨衣的成年人站在乡间公路护栏旁，缓慢攥紧背包肩带后保持，衣服被大风吹动。机位高1.2米，感光面距人物8米，水平固定。左侧阴云间一束灰白天光，远处有深灰风暴云与薄雨幕，公路湿润，无倒塌、无闪电、无伤者。无BGM、对白、字幕。
+[观感设计] 20mm Super35直线广角，护栏近景延伸向远处，人物与风暴云形成清楚尺度；保留全矩形16:9，无鱼眼弯曲和暗圈。低饱和冷灰、自然肤色，湿路亮部平滑，暗云有细部，数字采集模拟500T细颗粒；不靠全黑或闪电表达威胁。
+[构图尺度] 固定8米机距、20mm与S35视觉画幅，竖向可见范围约5.6米；人物全身仅占画高约25–35%，环境与天空占主要画面。保持16:9全矩形与直线透视，不前移或后退相机。
+[声音] 仅环境声与动作音效；无 BGM，无字幕，无对白；不添加画面文字。
+
+参数速查〔原工具参数〕
+机身：ARRI ALEXA 35 · 4K 16:9裁切；画幅：S35；介质：digital
+镜头：ARRI/ZEISS Ultra Prime；卡口：PL；变形倍率：1×
+焦距：20mm；本例光圈：T4；场景机距：8m
+质感参考：Kodak VISION3 500T 5219
+
+相关影片与适用边界〔影片资料记录〕
+《异形：夺命舰》（2024）；导演：Fede Álvarez；摄影：Galo Olivares
+ALEXA 35搭ARRI/ZEISS Master Prime为主；偶用Ultra Prime及8R超广角。摄影师与调色师Mitch Paulson合作制作LUT。
+访谈未列本库27/35mm等每个焦距的具体镜头；原片为数字摄影，500T模拟项不是原片片基，也不继承原片LUT。
+本条是创作配方，不代表该影片每个镜头均使用此组合。
+
+来源：
+镜头手册 Toy https://www.bilibili.com/toy/aijingtou/index.html
+镜头手册视频 https://www.bilibili.com/video/BV1EAJB6WE9J/
+ALEXA 35 https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35
+Ultra Prime 规格 https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses/arri-ultra-prime-lenses-technical-data
+VISION3 500T 技术表 https://www.kodak.com/content/products-brochures/Film/VISION3_5219_7219_Technical-data.pdf

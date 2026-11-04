@@ -1,0 +1,13 @@
+Use case: photorealistic-natural.
+Asset type: Pinterest home-and-garden save-worthy editorial, portrait 5:8.
+Primary request: Create one ultra-photorealistic architectural lifestyle photograph featuring exactly one fictional unbranded sculptural self-watering planter and one healthy dwarf olive tree.
+Product design: Show one large low cylindrical planter in matte terracotta-red fiberstone with a wide softly rounded rim, one narrow cobalt-blue recessed water-level channel around the lower third, and one single continuous low circular pedestal base fully supporting the planter. The pedestal is an unbroken ring, not individual feet. Show no logo, pattern, text, saucer, wheel, leg, foot, or visible plastic insert.
+Plant: Show exactly one young dwarf olive tree emerging from dark clean soil, with one natural trunk that branches plausibly into a compact airy crown of narrow silver-green leaves. Add no fruit, flower, second trunk, or exposed root.
+Scene/backdrop: Use a sunlit brutalist courtyard with pale sand-colored board-formed concrete walls, a cobalt tiled floor, and one rounded arch opening revealing a soft peach sky. Add no furniture, person, or other plant.
+Style/medium: Use elevated architectural garden editorial, save-worthy color blocking, warm Mediterranean modernism, and realistic photographic materials rather than CGI.
+Composition/framing: Use a portrait 5:8 low eye-level view. Show the complete planter, the entire continuous circular pedestal base, soil surface, entire trunk, and full tree crown with breathing room. Place the planter in the lower third and the crown through the middle.
+Lighting/mood: Use clear late-afternoon sun creating sculptural leaf shadows, controlled highlights, terracotta-cobalt-silver-green harmony, and a calm premium atmosphere.
+Materials/textures: Render matte fiberstone pores, a recessed glazed channel, dry clean soil, real bark, individual olive leaves, board-formed concrete, and handmade tiles.
+Product invariants: Preserve exactly one planter, one tree, one trunk, one cobalt channel, and one continuous ring pedestal; keep the planter continuous, base fully grounded, and plant naturally rooted.
+Constraints: Branches and leaves grow plausibly; the tree does not merge with the wall; the complete product and circular base remain commercially readable.
+Avoid: No person, hand, second plant, extra planter, fruit, flower, exposed root, floating leaf cluster, malformed trunk, separate foot, leg, wheel, saucer, watering can, chair, readable text, brand, logo, trademark, watermark, collage, split screen, frame, or border.

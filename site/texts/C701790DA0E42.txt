@@ -1,0 +1,12 @@
+Use case: product-mockup.
+Asset type: premium social-commerce portrait for Sephora, vertical 5:8.
+Primary request: Create one ultra-photorealistic high-end beauty campaign image featuring one fictional unbranded mineral sunscreen stick and one elegant adult woman.
+Product design: Exactly one compact sunscreen stick in a warm-ivory rounded rectangular tube with a matte coral cap, one thin brushed-silver collar, no label, no logo, and no text. Keep the cap securely closed.
+Scene/backdrop: Use a sunlit modern poolside terrace with pale travertine, a narrow band of saturated turquoise water, and one soft coral architectural plane; add no signage or loose props.
+Subject/pose: Frame one adult woman with healthy natural skin in a simple cobalt sleeveless swim top. Use a relaxed three-quarter portrait from head to waist. One complete anatomically correct hand holds the closed sunscreen stick upright beside, but not touching, her cheek with a natural five-finger grip; keep the wrist, elbow, shoulder, and arm-to-torso connection plausible and visible. Let the other arm rest naturally without duplication or impossible overlap.
+Composition/framing: Keep the face, product, holding hand, wrist, elbow, and both shoulders visible. Place the model across the left two-thirds and balance her with clean turquoise negative space on the right. Do not crop the product or holding hand.
+Lighting/mood: Bright late-morning sun with controlled beauty-flash fill, graphic but believable pool reflections, luminous skin, visible fine pores, restrained premium retouching, and an energetic coral-cobalt-turquoise palette.
+Materials/textures: Render matte ivory polymer, coral soft-touch coating, brushed silver, natural adult skin, wet hair, travertine pores, and realistic pool light with physically believable surfaces and photographic depth.
+Product invariants: Preserve the one warm-ivory tube, coral closed cap, thin silver collar, blank face, and compact proportions.
+Constraints: Exactly one adult and one product; keep anatomy, grip, product scale, and contact shadows plausible; use only fictional unbranded design details.
+Avoid: No application gesture, open cap, exposed balm, second product, floating object, child, distorted face, crossed eyes, extra arm, extra hand, detached limb, cropped wrist, fused or missing fingers, jewelry distraction, readable text, brand, logo, trademark, watermark, fake UI, collage, split screen, frame, or border.

@@ -1,0 +1,11 @@
+Use case: product-mockup.
+Asset type: branded hero for shopify.
+Primary request: Create one ultra-photorealistic portrait 5:8 e-commerce image featuring exactly one sculptural glass vase.
+Product design: one fictional unbranded hand-blown sculptural vase formed by a low transparent amber sphere fused to a tall asymmetrical cobalt-blue neck that bends gently left, with one clear circular side handle bridging sphere and neck, a thick flat clear base, and no decoration.
+Scene/backdrop: Stand the empty vase on a long travertine console inside a curved cream room where sunset enters through one tall arched opening.
+Composition/framing: Use a tall architectural composition with the vase in the lower third, complete silhouette and handle visible, and sweeping amber-cobalt caustics across the wall.
+Lighting/mood: Low golden sun, cool cobalt shadow, luminous glass transmission, and quiet plaster depth.
+Materials/textures: Render hand-blown amber and cobalt glass, optical clear handle and base, subtle bubbles, polished rim, refraction, and realistic caustics with physically believable surfaces, disciplined commercial retouching, fine natural microtexture, and premium photographic depth.
+Product invariants: Preserve the same amber spherical body, left-bending cobalt neck, clear circular side handle, thick flat clear base, and asymmetric proportions.
+Constraints: Keep the fused glass geometry physically plausible and use only one vase; flowers may appear only where specified. Keep the product fully recognizable and commercially usable; use only fictional, unbranded design details.
+Avoid: No flowers, person, second vase, wall art, text, clutter, or sun flare obscuring glass. No brand, text, extra vase, ceramic texture, straight neck, missing handle, second handle, cracked glass, impossible floating fusion, changed colors, excessive bubbles, child, warped flowers, or liquid spill. No readable text, brand name, logo, trademark, watermark, duplicate product, broken geometry, cheap CGI, collage, split screen, frame, or border.

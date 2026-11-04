@@ -1,0 +1,18 @@
+{
+  "name": "LICENSE",
+  "path": "LICENSE",
+  "sha": "a40ba6c8208af00e60d488de20641e408b3acc4b",
+  "size": 1077,
+  "url": "https://api.github.com/repos/VigoZhao/AI-Visual-Prompt-Cookbook/contents/LICENSE?ref=main",
+  "html_url": "https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook/blob/main/LICENSE",
+  "git_url": "https://api.github.com/repos/VigoZhao/AI-Visual-Prompt-Cookbook/git/blobs/a40ba6c8208af00e60d488de20641e408b3acc4b",
+  "download_url": "https://raw.githubusercontent.com/VigoZhao/AI-Visual-Prompt-Cookbook/main/LICENSE",
+  "type": "file",
+  "content": "TUlUIExpY2Vuc2UKCkNvcHlyaWdodCAoYykgMjAyNiBWaWdvWmhhbwoKUGVy\nbWlzc2lvbiBpcyBoZXJlYnkgZ3JhbnRlZCwgZnJlZSBvZiBjaGFyZ2UsIHRv\nIGFueSBwZXJzb24gb2J0YWluaW5nIGEgY29weQpvZiB0aGlzIHJlcG9zaXRv\ncnkgc3RydWN0dXJlIGFuZCBhc3NvY2lhdGVkIGRvY3VtZW50YXRpb24gZmls\nZXMgKHRoZQoiU29mdHdhcmUiKSwgdG8gZGVhbCBpbiB0aGUgU29mdHdhcmUg\nd2l0aG91dCByZXN0cmljdGlvbiwgaW5jbHVkaW5nIHdpdGhvdXQKbGltaXRh\ndGlvbiB0aGUgcmlnaHRzIHRvIHVzZSwgY29weSwgbW9kaWZ5LCBtZXJnZSwg\ncHVibGlzaCwgZGlzdHJpYnV0ZSwKc3VibGljZW5zZSwgYW5kL29yIHNlbGwg\nY29waWVzIG9mIHRoZSBTb2Z0d2FyZSwgYW5kIHRvIHBlcm1pdCBwZXJzb25z\nIHRvIHdob20KdGhlIFNvZnR3YXJlIGlzIGZ1cm5pc2hlZCB0byBkbyBzbywg\nc3ViamVjdCB0byB0aGUgZm9sbG93aW5nIGNvbmRpdGlvbnM6CgpUaGUgYWJv\ndmUgY29weXJpZ2h0IG5vdGljZSBhbmQgdGhpcyBwZXJtaXNzaW9uIG5vdGlj\nZSBzaGFsbCBiZSBpbmNsdWRlZCBpbiBhbGwKY29waWVzIG9yIHN1YnN0YW50\naWFsIHBvcnRpb25zIG9mIHRoZSBTb2Z0d2FyZS4KClRIRSBTT0ZUV0FSRSBJ\nUyBQUk9WSURFRCAiQVMgSVMiLCBXSVRIT1VUIFdBUlJBTlRZIE9GIEFOWSBL\nSU5ELCBFWFBSRVNTIE9SCklNUExJRUQsIElOQ0xVRElORyBCVVQgTk9UIExJ\nTUlURUQgVE8gVEhFIFdBUlJBTlRJRVMgT0YgTUVSQ0hBTlRBQklMSVRZLApG\nSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRSBBTkQgTk9OSU5GUklO\nR0VNRU5ULiBJTiBOTyBFVkVOVCBTSEFMTCBUSEUKQVVUSE9SUyBPUiBDT1BZ\nUklHSFQgSE9MREVSUyBCRSBMSUFCTEUgRk9SIEFOWSBDTEFJTSwgREFNQUdF\nUyBPUiBPVEhFUgpMSUFCSUxJVFksIFdIRVRIRVIgSU4gQU4gQUNUSU9OIE9G\nIENPTlRSQUNULCBUT1JUIE9SIE9USEVSV0lTRSwgQVJJU0lORyBGUk9NLApP\nVVQgT0YgT1IgSU4gQ09OTkVDVElPTiBXSVRIIFRIRSBTT0ZUV0FSRSBPUiBU\nSEUgVVNFIE9SIE9USEVSIERFQUxJTkdTIElOIFRIRQpTT0ZUV0FSRS4K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/VigoZhao/AI-Visual-Prompt-Cookbook/contents/LICENSE?ref=main",
+    "git": "https://api.github.com/repos/VigoZhao/AI-Visual-Prompt-Cookbook/git/blobs/a40ba6c8208af00e60d488de20641e408b3acc4b",
+    "html": "https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook/blob/main/LICENSE"
+  }
+}
